@@ -1,10 +1,12 @@
 name: Stethoscope CI
+
 on:
   schedule:
     - cron: "0 0 * * *"
   repository_dispatch:
     types: [stethoscope]
   workflow_dispatch:
+
 jobs:
   release:
     name: Daily
@@ -52,6 +54,6 @@ jobs:
         with:
           commit_message: ":card_file_box: Update daily life data [skip ci]"
           commit_user_name: Stethoscoper
-          commit_user_email: stethoscope-js@anandchowdhary.com
-          commit_author: Stethoscoper <stethoscope-js@anandchowdhary.com>
+          commit_user_email: pzhafeez@gmail.com
+          commit_author: Zaid-maker <pzhafeez @gmail.com>
           skip_dirty_check: true
