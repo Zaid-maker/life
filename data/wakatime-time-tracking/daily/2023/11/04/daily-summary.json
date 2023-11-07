@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 26,
-      "total_seconds": 1599.372426,
-      "digital": "0:26",
-      "decimal": "0.43",
-      "text": "26 mins"
-    },
-    "range": {
-      "start": "2023-11-04T19:00:00Z",
-      "end": "2023-11-05T18:59:59Z",
-      "date": "2023-11-05",
-      "text": "Sun Nov 5th 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "snapgram",
-        "total_seconds": 1599.372426,
-        "color": null,
-        "digital": "0:26:39",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 39,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -62,6 +33,53 @@
         "minutes": 1,
         "seconds": 23,
         "percent": 5.23
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 26,
+      "total_seconds": 1599.372426,
+      "digital": "0:26",
+      "decimal": "0.43",
+      "text": "26 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1599.372426,
+        "digital": "0:26:39",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1599.372426,
+        "digital": "0:26:39",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 39,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1599.372426,
+        "digital": "0:26:39",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 39,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -322,10 +340,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "snapgram",
         "total_seconds": 1599.372426,
+        "color": null,
         "digital": "0:26:39",
         "decimal": "0.43",
         "text": "26 mins",
@@ -335,31 +354,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 1599.372426,
-        "digital": "0:26:39",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 39,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1599.372426,
-        "digital": "0:26:39",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 39,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2023-11-04T19:00:00Z",
+      "end": "2023-11-05T18:59:59Z",
+      "date": "2023-11-05",
+      "text": "Sun Nov 5th 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
