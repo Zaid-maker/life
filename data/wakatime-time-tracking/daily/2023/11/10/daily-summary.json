@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 24,
-      "total_seconds": 1492.3428,
-      "digital": "0:24",
-      "decimal": "0.40",
-      "text": "24 mins"
-    },
-    "range": {
-      "start": "2023-11-10T19:00:00Z",
-      "end": "2023-11-11T18:59:59Z",
-      "date": "2023-11-11",
-      "text": "Sat Nov 11th 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "JokeBot-2",
-        "total_seconds": 1413.141173,
-        "color": null,
-        "digital": "0:23:33",
-        "decimal": "0.38",
-        "text": "23 mins",
-        "hours": 0,
-        "minutes": 23,
-        "seconds": 33,
-        "percent": 94.69
-      },
-      {
-        "name": "space-portfolio",
-        "total_seconds": 79.201627,
-        "color": null,
-        "digital": "0:01:19",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 19,
-        "percent": 5.31
-      }
-    ],
     "languages": [
       {
         "name": "YAML",
@@ -107,6 +66,64 @@
         "minutes": 0,
         "seconds": 2,
         "percent": 0.15
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 24,
+      "total_seconds": 1492.3428,
+      "digital": "0:24",
+      "decimal": "0.40",
+      "text": "24 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1492.3428,
+        "digital": "0:24:52",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1413.141173,
+        "digital": "0:23:33",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 33,
+        "percent": 94.69
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 79.201627,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 5.31
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1492.3428,
+        "digital": "0:24:52",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 52,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -280,23 +297,11 @@
         "percent": 5.31
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1492.3428,
-        "digital": "0:24:52",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 52,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
+        "name": "JokeBot-2",
         "total_seconds": 1413.141173,
+        "color": null,
         "digital": "0:23:33",
         "decimal": "0.38",
         "text": "23 mins",
@@ -306,8 +311,9 @@
         "percent": 94.69
       },
       {
-        "name": "Linux",
+        "name": "space-portfolio",
         "total_seconds": 79.201627,
+        "color": null,
         "digital": "0:01:19",
         "decimal": "0.02",
         "text": "1 min",
@@ -317,18 +323,12 @@
         "percent": 5.31
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1492.3428,
-        "digital": "0:24:52",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 52,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2023-11-10T19:00:00Z",
+      "end": "2023-11-11T18:59:59Z",
+      "date": "2023-11-11",
+      "text": "Sat Nov 11th 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
