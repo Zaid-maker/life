@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 21,
-      "total_seconds": 1289.250639,
-      "digital": "0:21",
-      "decimal": "0.35",
-      "text": "21 mins"
-    },
-    "range": {
-      "start": "2023-11-13T19:00:00Z",
-      "end": "2023-11-14T18:59:59Z",
-      "date": "2023-11-14",
-      "text": "Tue Nov 14th 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "dockge",
-        "total_seconds": 847.854161,
-        "color": null,
-        "digital": "0:14:07",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 7,
-        "percent": 65.76
-      },
-      {
-        "name": "space-portfolio",
-        "total_seconds": 441.396478,
-        "color": null,
-        "digital": "0:07:21",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 21,
-        "percent": 34.24
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -74,6 +33,53 @@
         "minutes": 0,
         "seconds": 16,
         "percent": 1.28
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 21,
+      "total_seconds": 1289.250639,
+      "digital": "0:21",
+      "decimal": "0.35",
+      "text": "21 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1289.250639,
+        "digital": "0:21:29",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1289.250639,
+        "digital": "0:21:29",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1289.250639,
+        "digital": "0:21:29",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 29,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -599,44 +605,38 @@
         "percent": 34.24
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1289.250639,
-        "digital": "0:21:29",
-        "decimal": "0.35",
-        "text": "21 mins",
+        "name": "dockge",
+        "total_seconds": 847.854161,
+        "color": null,
+        "digital": "0:14:07",
+        "decimal": "0.23",
+        "text": "14 mins",
         "hours": 0,
-        "minutes": 21,
-        "seconds": 29,
-        "percent": 100
+        "minutes": 14,
+        "seconds": 7,
+        "percent": 65.76
+      },
+      {
+        "name": "space-portfolio",
+        "total_seconds": 441.396478,
+        "color": null,
+        "digital": "0:07:21",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 21,
+        "percent": 34.24
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 1289.250639,
-        "digital": "0:21:29",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 29,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1289.250639,
-        "digital": "0:21:29",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 29,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2023-11-13T19:00:00Z",
+      "end": "2023-11-14T18:59:59Z",
+      "date": "2023-11-14",
+      "text": "Tue Nov 14th 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
