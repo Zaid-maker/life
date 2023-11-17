@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 6,
-      "total_seconds": 366.369974,
-      "digital": "0:06",
-      "decimal": "0.10",
-      "text": "6 mins"
-    },
-    "range": {
-      "start": "2023-11-14T19:00:00Z",
-      "end": "2023-11-15T18:59:59Z",
-      "date": "2023-11-15",
-      "text": "Wed Nov 15th 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "top-github-users-action-master",
-        "total_seconds": 366.369974,
-        "color": null,
-        "digital": "0:06:06",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 6,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JSON",
@@ -62,6 +33,53 @@
         "minutes": 0,
         "seconds": 1,
         "percent": 0.39
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 6,
+      "total_seconds": 366.369974,
+      "digital": "0:06",
+      "decimal": "0.10",
+      "text": "6 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 366.369974,
+        "digital": "0:06:06",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 366.369974,
+        "digital": "0:06:06",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 366.369974,
+        "digital": "0:06:06",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 6,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -146,10 +164,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "top-github-users-action-master",
         "total_seconds": 366.369974,
+        "color": null,
         "digital": "0:06:06",
         "decimal": "0.10",
         "text": "6 mins",
@@ -159,31 +178,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 366.369974,
-        "digital": "0:06:06",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 6,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 366.369974,
-        "digital": "0:06:06",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 6,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2023-11-14T19:00:00Z",
+      "end": "2023-11-15T18:59:59Z",
+      "date": "2023-11-15",
+      "text": "Wed Nov 15th 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
