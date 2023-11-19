@@ -2,11 +2,11 @@
   {
     "grand_total": {
       "hours": 0,
-      "minutes": 9,
-      "total_seconds": 559.477572,
-      "digital": "0:09",
-      "decimal": "0.15",
-      "text": "9 mins"
+      "minutes": 10,
+      "total_seconds": 601.318931,
+      "digital": "0:10",
+      "decimal": "0.17",
+      "text": "10 mins"
     },
     "range": {
       "start": "2023-11-17T19:00:00Z",
@@ -26,33 +26,45 @@
         "hours": 0,
         "minutes": 9,
         "seconds": 19,
-        "percent": 100
+        "percent": 93.04
+      },
+      {
+        "name": "discord-clone",
+        "total_seconds": 41.841359,
+        "color": null,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 6.96
       }
     ],
     "languages": [
       {
         "name": "TypeScript",
-        "total_seconds": 559.477572,
-        "digital": "0:09:19",
-        "decimal": "0.15",
-        "text": "9 mins",
+        "total_seconds": 601.318931,
+        "digital": "0:10:01",
+        "decimal": "0.17",
+        "text": "10 mins",
         "hours": 0,
-        "minutes": 9,
-        "seconds": 19,
+        "minutes": 10,
+        "seconds": 1,
         "percent": 100
       }
     ],
     "dependencies": [
       {
         "name": "react",
-        "total_seconds": 495.696724,
-        "digital": "0:08:15",
+        "total_seconds": 537.538083,
+        "digital": "0:08:57",
         "decimal": "0.13",
         "text": "8 mins",
         "hours": 0,
         "minutes": 8,
-        "seconds": 15,
-        "percent": 73.2
+        "seconds": 57,
+        "percent": 74.76
       },
       {
         "name": "Hero",
@@ -63,7 +75,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 48,
-        "percent": 7.19
+        "percent": 6.78
       },
       {
         "name": "Encryption",
@@ -74,7 +86,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 48,
-        "percent": 7.19
+        "percent": 6.78
       },
       {
         "name": "Skills",
@@ -85,7 +97,7 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 48,
-        "percent": 7.19
+        "percent": 6.78
       },
       {
         "name": "Projects",
@@ -96,7 +108,62 @@
         "hours": 0,
         "minutes": 0,
         "seconds": 35,
-        "percent": 5.21
+        "percent": 4.91
+      },
+      {
+        "name": "chat-welcome",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "client",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "chat-item",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "use-chat-query",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
     "machines": [
@@ -110,19 +177,31 @@
         "hours": 0,
         "minutes": 9,
         "seconds": 19,
-        "percent": 100
+        "percent": 93.04
+      },
+      {
+        "name": "Zaid",
+        "total_seconds": 41.841359,
+        "machine_name_id": "018be2f2-6faf-4d42-a0c8-01cb9d448948",
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 6.96
       }
     ],
     "editors": [
       {
         "name": "VS Code",
-        "total_seconds": 559.477572,
-        "digital": "0:09:19",
-        "decimal": "0.15",
-        "text": "9 mins",
+        "total_seconds": 601.318931,
+        "digital": "0:10:01",
+        "decimal": "0.17",
+        "text": "10 mins",
         "hours": 0,
-        "minutes": 9,
-        "seconds": 19,
+        "minutes": 10,
+        "seconds": 1,
         "percent": 100
       }
     ],
@@ -136,19 +215,30 @@
         "hours": 0,
         "minutes": 9,
         "seconds": 19,
-        "percent": 100
+        "percent": 93.04
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 41.841359,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 6.96
       }
     ],
     "categories": [
       {
         "name": "Coding",
-        "total_seconds": 559.477572,
-        "digital": "0:09:19",
-        "decimal": "0.15",
-        "text": "9 mins",
+        "total_seconds": 601.318931,
+        "digital": "0:10:01",
+        "decimal": "0.17",
+        "text": "10 mins",
         "hours": 0,
-        "minutes": 9,
-        "seconds": 19,
+        "minutes": 10,
+        "seconds": 1,
         "percent": 100
       }
     ]
