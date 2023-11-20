@@ -1,5 +1,18 @@
 [
   {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 601.318931,
+        "digital": "0:10:01",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
     "grand_total": {
       "hours": 0,
       "minutes": 10,
@@ -8,18 +21,23 @@
       "decimal": "0.17",
       "text": "10 mins"
     },
-    "range": {
-      "start": "2023-11-17T19:00:00Z",
-      "end": "2023-11-18T18:59:59Z",
-      "date": "2023-11-18",
-      "text": "Sat Nov 18th 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "editors": [
       {
-        "name": "space-portfolio",
+        "name": "VS Code",
+        "total_seconds": 601.318931,
+        "digital": "0:10:01",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
         "total_seconds": 559.477572,
-        "color": null,
         "digital": "0:09:19",
         "decimal": "0.15",
         "text": "9 mins",
@@ -29,9 +47,8 @@
         "percent": 93.04
       },
       {
-        "name": "discord-clone",
+        "name": "Windows",
         "total_seconds": 41.841359,
-        "color": null,
         "digital": "0:00:41",
         "decimal": "0.00",
         "text": "41 secs",
@@ -41,9 +58,9 @@
         "percent": 6.96
       }
     ],
-    "languages": [
+    "categories": [
       {
-        "name": "TypeScript",
+        "name": "Coding",
         "total_seconds": 601.318931,
         "digital": "0:10:01",
         "decimal": "0.17",
@@ -192,23 +209,11 @@
         "percent": 6.96
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 601.318931,
-        "digital": "0:10:01",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 1,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Linux",
+        "name": "space-portfolio",
         "total_seconds": 559.477572,
+        "color": null,
         "digital": "0:09:19",
         "decimal": "0.15",
         "text": "9 mins",
@@ -218,8 +223,9 @@
         "percent": 93.04
       },
       {
-        "name": "Windows",
+        "name": "discord-clone",
         "total_seconds": 41.841359,
+        "color": null,
         "digital": "0:00:41",
         "decimal": "0.00",
         "text": "41 secs",
@@ -229,18 +235,12 @@
         "percent": 6.96
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 601.318931,
-        "digital": "0:10:01",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 1,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2023-11-17T19:00:00Z",
+      "end": "2023-11-18T18:59:59Z",
+      "date": "2023-11-18",
+      "text": "Sat Nov 18th 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
