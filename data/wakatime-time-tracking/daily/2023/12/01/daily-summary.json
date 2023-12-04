@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 3,
-      "total_seconds": 234.762853,
-      "digital": "0:03",
-      "decimal": "0.05",
-      "text": "3 mins"
-    },
-    "range": {
-      "start": "2023-12-01T19:00:00Z",
-      "end": "2023-12-02T18:59:59Z",
-      "date": "2023-12-02",
-      "text": "Sat Dec 2nd 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "taskify",
-        "total_seconds": 234.762853,
-        "color": null,
-        "digital": "0:03:54",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 54,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -62,6 +33,53 @@
         "minutes": 0,
         "seconds": 21,
         "percent": 8.98
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 3,
+      "total_seconds": 234.762853,
+      "digital": "0:03",
+      "decimal": "0.05",
+      "text": "3 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 234.762853,
+        "digital": "0:03:54",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 234.762853,
+        "digital": "0:03:54",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 234.762853,
+        "digital": "0:03:54",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 54,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -223,10 +241,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "taskify",
         "total_seconds": 234.762853,
+        "color": null,
         "digital": "0:03:54",
         "decimal": "0.05",
         "text": "3 mins",
@@ -236,31 +255,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 234.762853,
-        "digital": "0:03:54",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 54,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 234.762853,
-        "digital": "0:03:54",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 54,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2023-12-01T19:00:00Z",
+      "end": "2023-12-02T18:59:59Z",
+      "date": "2023-12-02",
+      "text": "Sat Dec 2nd 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
