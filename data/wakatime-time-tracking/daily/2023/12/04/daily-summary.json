@@ -1,18 +1,5 @@
 [
   {
-    "languages": [
-      {
-        "name": "TypeScript",
-        "total_seconds": 2533.947325,
-        "digital": "0:42:13",
-        "decimal": "0.70",
-        "text": "42 mins",
-        "hours": 0,
-        "minutes": 42,
-        "seconds": 13,
-        "percent": 100
-      }
-    ],
     "grand_total": {
       "hours": 0,
       "minutes": 42,
@@ -21,10 +8,18 @@
       "decimal": "0.70",
       "text": "42 mins"
     },
-    "editors": [
+    "range": {
+      "start": "2023-12-04T19:00:00Z",
+      "end": "2023-12-05T18:59:59Z",
+      "date": "2023-12-05",
+      "text": "Tue Dec 5th 2023",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "taskify",
         "total_seconds": 2533.947325,
+        "color": null,
         "digital": "0:42:13",
         "decimal": "0.70",
         "text": "42 mins",
@@ -34,22 +29,9 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
+    "languages": [
       {
-        "name": "Linux",
-        "total_seconds": 2533.947325,
-        "digital": "0:42:13",
-        "decimal": "0.70",
-        "text": "42 mins",
-        "hours": 0,
-        "minutes": 42,
-        "seconds": 13,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
+        "name": "TypeScript",
         "total_seconds": 2533.947325,
         "digital": "0:42:13",
         "decimal": "0.70",
@@ -121,9 +103,9 @@
         "percent": 14.51
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "taskify",
+        "name": "VS Code",
         "total_seconds": 2533.947325,
         "digital": "0:42:13",
         "decimal": "0.70",
@@ -134,12 +116,31 @@
         "percent": 100
       }
     ],
-    "range": {
-      "start": "2023-12-04T19:00:00Z",
-      "end": "2023-12-05T18:59:59Z",
-      "date": "2023-12-05",
-      "text": "Tue Dec 5th 2023",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 2533.947325,
+        "digital": "0:42:13",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2533.947325,
+        "digital": "0:42:13",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 13,
+        "percent": 100
+      }
+    ]
   }
 ]
