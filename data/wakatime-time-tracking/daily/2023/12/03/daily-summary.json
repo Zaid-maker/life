@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 50,
-      "total_seconds": 3054.489454,
-      "digital": "0:50",
-      "decimal": "0.83",
-      "text": "50 mins"
-    },
-    "range": {
-      "start": "2023-12-03T19:00:00Z",
-      "end": "2023-12-04T18:59:59Z",
-      "date": "2023-12-04",
-      "text": "Mon Dec 4th 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "taskify",
-        "total_seconds": 3054.489454,
-        "color": null,
-        "digital": "0:50:54",
-        "decimal": "0.83",
-        "text": "50 mins",
-        "hours": 0,
-        "minutes": 50,
-        "seconds": 54,
-        "percent": 100
-      },
-      {
-        "name": "dockge",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -107,6 +66,64 @@
         "minutes": 0,
         "seconds": 3,
         "percent": 0.13
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 50,
+      "total_seconds": 3054.489454,
+      "digital": "0:50",
+      "decimal": "0.83",
+      "text": "50 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3054.489454,
+        "digital": "0:50:54",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3054.489454,
+        "digital": "0:50:54",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 54,
+        "percent": 100
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3054.489454,
+        "digital": "0:50:54",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 54,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -742,23 +759,11 @@
         "percent": 0
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "taskify",
         "total_seconds": 3054.489454,
-        "digital": "0:50:54",
-        "decimal": "0.83",
-        "text": "50 mins",
-        "hours": 0,
-        "minutes": 50,
-        "seconds": 54,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 3054.489454,
+        "color": null,
         "digital": "0:50:54",
         "decimal": "0.83",
         "text": "50 mins",
@@ -768,8 +773,9 @@
         "percent": 100
       },
       {
-        "name": "Windows",
+        "name": "dockge",
         "total_seconds": 0,
+        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
@@ -779,18 +785,12 @@
         "percent": 0
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3054.489454,
-        "digital": "0:50:54",
-        "decimal": "0.83",
-        "text": "50 mins",
-        "hours": 0,
-        "minutes": 50,
-        "seconds": 54,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2023-12-03T19:00:00Z",
+      "end": "2023-12-04T18:59:59Z",
+      "date": "2023-12-04",
+      "text": "Mon Dec 4th 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
