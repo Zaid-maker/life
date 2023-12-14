@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 14,
-      "total_seconds": 898.641521,
-      "digital": "0:14",
-      "decimal": "0.23",
-      "text": "14 mins"
-    },
-    "range": {
-      "start": "2023-12-11T19:00:00Z",
-      "end": "2023-12-12T18:59:59Z",
-      "date": "2023-12-12",
-      "text": "Tue Dec 12th 2023",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "Gamehub",
-        "total_seconds": 898.641521,
-        "color": null,
-        "digital": "0:14:58",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 58,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -51,6 +22,53 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 14,
+      "total_seconds": 898.641521,
+      "digital": "0:14",
+      "decimal": "0.23",
+      "text": "14 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 898.641521,
+        "digital": "0:14:58",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 898.641521,
+        "digital": "0:14:58",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 898.641521,
+        "digital": "0:14:58",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 58,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -91,10 +109,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "Gamehub",
         "total_seconds": 898.641521,
+        "color": null,
         "digital": "0:14:58",
         "decimal": "0.23",
         "text": "14 mins",
@@ -104,31 +123,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 898.641521,
-        "digital": "0:14:58",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 58,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 898.641521,
-        "digital": "0:14:58",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 58,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2023-12-11T19:00:00Z",
+      "end": "2023-12-12T18:59:59Z",
+      "date": "2023-12-12",
+      "text": "Tue Dec 12th 2023",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
