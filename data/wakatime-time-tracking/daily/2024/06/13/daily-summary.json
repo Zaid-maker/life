@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 1,
-      "total_seconds": 3713.754254,
-      "digital": "1:01",
-      "decimal": "1.02",
-      "text": "1 hr 1 min"
-    },
-    "range": {
-      "start": "2024-06-13T19:00:00Z",
-      "end": "2024-06-14T18:59:59Z",
-      "date": "2024-06-14",
-      "text": "Fri Jun 14th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "finance",
-        "total_seconds": 3713.754254,
-        "color": null,
-        "digital": "1:01:53",
-        "decimal": "1.02",
-        "text": "1 hr 1 min",
-        "hours": 1,
-        "minutes": 1,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -62,6 +33,53 @@
         "minutes": 5,
         "seconds": 34,
         "percent": 9
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 1,
+      "total_seconds": 3713.754254,
+      "digital": "1:01",
+      "decimal": "1.02",
+      "text": "1 hr 1 min"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3713.754254,
+        "digital": "1:01:53",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3713.754254,
+        "digital": "1:01:53",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3713.754254,
+        "digital": "1:01:53",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -301,10 +319,11 @@
         "percent": 20.93
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "finance",
         "total_seconds": 3713.754254,
+        "color": null,
         "digital": "1:01:53",
         "decimal": "1.02",
         "text": "1 hr 1 min",
@@ -314,31 +333,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 3713.754254,
-        "digital": "1:01:53",
-        "decimal": "1.02",
-        "text": "1 hr 1 min",
-        "hours": 1,
-        "minutes": 1,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3713.754254,
-        "digital": "1:01:53",
-        "decimal": "1.02",
-        "text": "1 hr 1 min",
-        "hours": 1,
-        "minutes": 1,
-        "seconds": 53,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-06-13T19:00:00Z",
+      "end": "2024-06-14T18:59:59Z",
+      "date": "2024-06-14",
+      "text": "Fri Jun 14th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
