@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 18,
-      "total_seconds": 4725.326961,
-      "digital": "1:18",
-      "decimal": "1.30",
-      "text": "1 hr 18 mins"
-    },
-    "range": {
-      "start": "2024-07-22T19:00:00Z",
-      "end": "2024-07-23T18:59:59Z",
-      "date": "2024-07-23",
-      "text": "Tue Jul 23rd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "uptime",
-        "total_seconds": 4725.326961,
-        "color": null,
-        "digital": "1:18:45",
-        "decimal": "1.30",
-        "text": "1 hr 18 mins",
-        "hours": 1,
-        "minutes": 18,
-        "seconds": 45,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -84,6 +55,53 @@
         "minutes": 0,
         "seconds": 2,
         "percent": 0.06
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 18,
+      "total_seconds": 4725.326961,
+      "digital": "1:18",
+      "decimal": "1.30",
+      "text": "1 hr 18 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4725.326961,
+        "digital": "1:18:45",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4725.326961,
+        "digital": "1:18:45",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4725.326961,
+        "digital": "1:18:45",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 45,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -256,10 +274,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "uptime",
         "total_seconds": 4725.326961,
+        "color": null,
         "digital": "1:18:45",
         "decimal": "1.30",
         "text": "1 hr 18 mins",
@@ -269,31 +288,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 4725.326961,
-        "digital": "1:18:45",
-        "decimal": "1.30",
-        "text": "1 hr 18 mins",
-        "hours": 1,
-        "minutes": 18,
-        "seconds": 45,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 4725.326961,
-        "digital": "1:18:45",
-        "decimal": "1.30",
-        "text": "1 hr 18 mins",
-        "hours": 1,
-        "minutes": 18,
-        "seconds": 45,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-07-22T19:00:00Z",
+      "end": "2024-07-23T18:59:59Z",
+      "date": "2024-07-23",
+      "text": "Tue Jul 23rd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
