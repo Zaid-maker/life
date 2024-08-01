@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 17,
-      "total_seconds": 8225.248345,
-      "digital": "2:17",
-      "decimal": "2.28",
-      "text": "2 hrs 17 mins"
-    },
-    "range": {
-      "start": "2024-07-28T19:00:00Z",
-      "end": "2024-07-29T18:59:59Z",
-      "date": "2024-07-29",
-      "text": "Mon Jul 29th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "analytics-web",
-        "total_seconds": 4383.689999,
-        "color": null,
-        "digital": "1:13:03",
-        "decimal": "1.22",
-        "text": "1 hr 13 mins",
-        "hours": 1,
-        "minutes": 13,
-        "seconds": 3,
-        "percent": 53.3
-      },
-      {
-        "name": "CarePulse",
-        "total_seconds": 3841.558346,
-        "color": null,
-        "digital": "1:04:01",
-        "decimal": "1.07",
-        "text": "1 hr 4 mins",
-        "hours": 1,
-        "minutes": 4,
-        "seconds": 1,
-        "percent": 46.7
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -107,6 +66,64 @@
         "minutes": 0,
         "seconds": 49,
         "percent": 0.6
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 17,
+      "total_seconds": 8225.248345,
+      "digital": "2:17",
+      "decimal": "2.28",
+      "text": "2 hrs 17 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 8225.248345,
+        "digital": "2:17:05",
+        "decimal": "2.28",
+        "text": "2 hrs 17 mins",
+        "hours": 2,
+        "minutes": 17,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4383.689999,
+        "digital": "1:13:03",
+        "decimal": "1.22",
+        "text": "1 hr 13 mins",
+        "hours": 1,
+        "minutes": 13,
+        "seconds": 3,
+        "percent": 53.3
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 3841.558346,
+        "digital": "1:04:01",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 1,
+        "percent": 46.7
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8225.248345,
+        "digital": "2:17:05",
+        "decimal": "2.28",
+        "text": "2 hrs 17 mins",
+        "hours": 2,
+        "minutes": 17,
+        "seconds": 5,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -478,23 +495,11 @@
         "percent": 46.7
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 8225.248345,
-        "digital": "2:17:05",
-        "decimal": "2.28",
-        "text": "2 hrs 17 mins",
-        "hours": 2,
-        "minutes": 17,
-        "seconds": 5,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
+        "name": "analytics-web",
         "total_seconds": 4383.689999,
+        "color": null,
         "digital": "1:13:03",
         "decimal": "1.22",
         "text": "1 hr 13 mins",
@@ -504,8 +509,9 @@
         "percent": 53.3
       },
       {
-        "name": "Linux",
+        "name": "CarePulse",
         "total_seconds": 3841.558346,
+        "color": null,
         "digital": "1:04:01",
         "decimal": "1.07",
         "text": "1 hr 4 mins",
@@ -515,18 +521,12 @@
         "percent": 46.7
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 8225.248345,
-        "digital": "2:17:05",
-        "decimal": "2.28",
-        "text": "2 hrs 17 mins",
-        "hours": 2,
-        "minutes": 17,
-        "seconds": 5,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-07-28T19:00:00Z",
+      "end": "2024-07-29T18:59:59Z",
+      "date": "2024-07-29",
+      "text": "Mon Jul 29th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
