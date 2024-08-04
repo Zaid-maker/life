@@ -1,5 +1,34 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 19,
+      "total_seconds": 1166.027734,
+      "digital": "0:19",
+      "decimal": "0.32",
+      "text": "19 mins"
+    },
+    "range": {
+      "start": "2024-08-01T19:00:00Z",
+      "end": "2024-08-02T18:59:59Z",
+      "date": "2024-08-02",
+      "text": "Fri Aug 2nd 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "weather-app",
+        "total_seconds": 1166.027734,
+        "color": null,
+        "digital": "0:19:26",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
     "languages": [
       {
         "name": "HTML",
@@ -33,53 +62,6 @@
         "minutes": 2,
         "seconds": 51,
         "percent": 14.72
-      }
-    ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 19,
-      "total_seconds": 1166.027734,
-      "digital": "0:19",
-      "decimal": "0.32",
-      "text": "19 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 1166.027734,
-        "digital": "0:19:26",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 26,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 1166.027734,
-        "digital": "0:19:26",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 26,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1166.027734,
-        "digital": "0:19:26",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 26,
-        "percent": 100
       }
     ],
     "dependencies": [
@@ -120,9 +102,9 @@
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "weather-app",
+        "name": "VS Code",
         "total_seconds": 1166.027734,
         "digital": "0:19:26",
         "decimal": "0.32",
@@ -133,12 +115,31 @@
         "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-08-01T19:00:00Z",
-      "end": "2024-08-02T18:59:59Z",
-      "date": "2024-08-02",
-      "text": "Fri Aug 2nd 2024",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1166.027734,
+        "digital": "0:19:26",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1166.027734,
+        "digital": "0:19:26",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 26,
+        "percent": 100
+      }
+    ]
   }
 ]
