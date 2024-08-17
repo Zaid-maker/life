@@ -1,25 +1,9 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 54,
-      "total_seconds": 3281.910183,
-      "digital": "0:54",
-      "decimal": "0.90",
-      "text": "54 mins"
-    },
-    "range": {
-      "start": "2024-08-12T19:00:00Z",
-      "end": "2024-08-13T18:59:59Z",
-      "date": "2024-08-13",
-      "text": "Tue Aug 13th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "CarePulse",
+        "name": "TypeScript",
         "total_seconds": 3281.910183,
-        "color": null,
         "digital": "0:54:41",
         "decimal": "0.90",
         "text": "54 mins",
@@ -29,9 +13,43 @@
         "percent": 100
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 54,
+      "total_seconds": 3281.910183,
+      "digital": "0:54",
+      "decimal": "0.90",
+      "text": "54 mins"
+    },
+    "editors": [
       {
-        "name": "TypeScript",
+        "name": "VS Code",
+        "total_seconds": 3281.910183,
+        "digital": "0:54:41",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 3281.910183,
+        "digital": "0:54:41",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 41,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
         "total_seconds": 3281.910183,
         "digital": "0:54:41",
         "decimal": "0.90",
@@ -300,10 +318,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "CarePulse",
         "total_seconds": 3281.910183,
+        "color": null,
         "digital": "0:54:41",
         "decimal": "0.90",
         "text": "54 mins",
@@ -313,31 +332,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 3281.910183,
-        "digital": "0:54:41",
-        "decimal": "0.90",
-        "text": "54 mins",
-        "hours": 0,
-        "minutes": 54,
-        "seconds": 41,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3281.910183,
-        "digital": "0:54:41",
-        "decimal": "0.90",
-        "text": "54 mins",
-        "hours": 0,
-        "minutes": 54,
-        "seconds": 41,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-08-12T19:00:00Z",
+      "end": "2024-08-13T18:59:59Z",
+      "date": "2024-08-13",
+      "text": "Tue Aug 13th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
