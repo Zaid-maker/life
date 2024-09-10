@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 27,
-      "total_seconds": 1645.147489,
-      "digital": "0:27",
-      "decimal": "0.45",
-      "text": "27 mins"
-    },
-    "range": {
-      "start": "2024-09-05T19:00:00Z",
-      "end": "2024-09-06T18:59:59Z",
-      "date": "2024-09-06",
-      "text": "Fri Sep 6th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "protien-bind",
-        "total_seconds": 1645.147489,
-        "color": null,
-        "digital": "0:27:25",
-        "decimal": "0.45",
-        "text": "27 mins",
-        "hours": 0,
-        "minutes": 27,
-        "seconds": 25,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -51,6 +22,53 @@
         "minutes": 0,
         "seconds": 5,
         "percent": 0.33
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 27,
+      "total_seconds": 1645.147489,
+      "digital": "0:27",
+      "decimal": "0.45",
+      "text": "27 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1645.147489,
+        "digital": "0:27:25",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1645.147489,
+        "digital": "0:27:25",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1645.147489,
+        "digital": "0:27:25",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 25,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -652,10 +670,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "protien-bind",
         "total_seconds": 1645.147489,
+        "color": null,
         "digital": "0:27:25",
         "decimal": "0.45",
         "text": "27 mins",
@@ -665,31 +684,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 1645.147489,
-        "digital": "0:27:25",
-        "decimal": "0.45",
-        "text": "27 mins",
-        "hours": 0,
-        "minutes": 27,
-        "seconds": 25,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1645.147489,
-        "digital": "0:27:25",
-        "decimal": "0.45",
-        "text": "27 mins",
-        "hours": 0,
-        "minutes": 27,
-        "seconds": 25,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-09-05T19:00:00Z",
+      "end": "2024-09-06T18:59:59Z",
+      "date": "2024-09-06",
+      "text": "Fri Sep 6th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]

@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 5,
-      "total_seconds": 310.053843,
-      "digital": "0:05",
-      "decimal": "0.08",
-      "text": "5 mins"
-    },
-    "range": {
-      "start": "2024-09-06T19:00:00Z",
-      "end": "2024-09-07T18:59:59Z",
-      "date": "2024-09-07",
-      "text": "Sat Sep 7th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "ChatMate",
-        "total_seconds": 310.053843,
-        "color": null,
-        "digital": "0:05:10",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 10,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "Markdown",
@@ -51,6 +22,53 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 5,
+      "total_seconds": 310.053843,
+      "digital": "0:05",
+      "decimal": "0.08",
+      "text": "5 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 310.053843,
+        "digital": "0:05:10",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 10,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 310.053843,
+        "digital": "0:05:10",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 10,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 310.053843,
+        "digital": "0:05:10",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 10,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -223,10 +241,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "ChatMate",
         "total_seconds": 310.053843,
+        "color": null,
         "digital": "0:05:10",
         "decimal": "0.08",
         "text": "5 mins",
@@ -236,31 +255,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 310.053843,
-        "digital": "0:05:10",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 10,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 310.053843,
-        "digital": "0:05:10",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 10,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-09-06T19:00:00Z",
+      "end": "2024-09-07T18:59:59Z",
+      "date": "2024-09-07",
+      "text": "Sat Sep 7th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
