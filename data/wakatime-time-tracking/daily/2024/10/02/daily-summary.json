@@ -1,5 +1,46 @@
 [
   {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 12,
+      "total_seconds": 4353.570153,
+      "digital": "1:12",
+      "decimal": "1.20",
+      "text": "1 hr 12 mins"
+    },
+    "range": {
+      "start": "2024-10-02T19:00:00Z",
+      "end": "2024-10-03T18:59:59Z",
+      "date": "2024-10-03",
+      "text": "Thu Oct 3rd 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "Hamster",
+        "total_seconds": 4353.570153,
+        "color": null,
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
+      },
+      {
+        "name": "pm2-windows-boot",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -55,64 +96,6 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
-      }
-    ],
-    "grand_total": {
-      "hours": 1,
-      "minutes": 12,
-      "total_seconds": 4353.570153,
-      "digital": "1:12",
-      "decimal": "1.20",
-      "text": "1 hr 12 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 4353.570153,
-        "digital": "1:12:33",
-        "decimal": "1.20",
-        "text": "1 hr 12 mins",
-        "hours": 1,
-        "minutes": 12,
-        "seconds": 33,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 4353.570153,
-        "digital": "1:12:33",
-        "decimal": "1.20",
-        "text": "1 hr 12 mins",
-        "hours": 1,
-        "minutes": 12,
-        "seconds": 33,
-        "percent": 100
-      },
-      {
-        "name": "Linux",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 4353.570153,
-        "digital": "1:12:33",
-        "decimal": "1.20",
-        "text": "1 hr 12 mins",
-        "hours": 1,
-        "minutes": 12,
-        "seconds": 33,
-        "percent": 100
       }
     ],
     "dependencies": [
@@ -172,6 +155,17 @@
         "percent": 12.61
       },
       {
+        "name": "Friends",
+        "total_seconds": 1040.677187,
+        "digital": "0:17:20",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 20,
+        "percent": 5.15
+      },
+      {
         "name": "Mine",
         "total_seconds": 1040.677187,
         "digital": "0:17:20",
@@ -184,17 +178,6 @@
       },
       {
         "name": "Coins",
-        "total_seconds": 1040.677187,
-        "digital": "0:17:20",
-        "decimal": "0.28",
-        "text": "17 mins",
-        "hours": 0,
-        "minutes": 17,
-        "seconds": 20,
-        "percent": 5.15
-      },
-      {
-        "name": "Friends",
         "total_seconds": 1040.677187,
         "digital": "0:17:20",
         "decimal": "0.28",
@@ -264,9 +247,22 @@
         "percent": 0
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "Hamster",
+        "name": "VS Code",
+        "total_seconds": 4353.570153,
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
         "total_seconds": 4353.570153,
         "digital": "1:12:33",
         "decimal": "1.20",
@@ -277,7 +273,7 @@
         "percent": 100
       },
       {
-        "name": "pm2-windows-boot",
+        "name": "Linux",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -288,12 +284,18 @@
         "percent": 0
       }
     ],
-    "range": {
-      "start": "2024-10-02T19:00:00Z",
-      "end": "2024-10-03T18:59:59Z",
-      "date": "2024-10-03",
-      "text": "Thu Oct 3rd 2024",
-      "timezone": "Asia/Karachi"
-    }
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4353.570153,
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
+      }
+    ]
   }
 ]
