@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 12,
-      "total_seconds": 4353.570153,
-      "digital": "1:12",
-      "decimal": "1.20",
-      "text": "1 hr 12 mins"
-    },
-    "range": {
-      "start": "2024-10-02T19:00:00Z",
-      "end": "2024-10-03T18:59:59Z",
-      "date": "2024-10-03",
-      "text": "Thu Oct 3rd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "Hamster",
-        "total_seconds": 4353.570153,
-        "color": null,
-        "digital": "1:12:33",
-        "decimal": "1.20",
-        "text": "1 hr 12 mins",
-        "hours": 1,
-        "minutes": 12,
-        "seconds": 33,
-        "percent": 100
-      },
-      {
-        "name": "pm2-windows-boot",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -96,6 +55,64 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 12,
+      "total_seconds": 4353.570153,
+      "digital": "1:12",
+      "decimal": "1.20",
+      "text": "1 hr 12 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4353.570153,
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4353.570153,
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4353.570153,
+        "digital": "1:12:33",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 33,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -247,23 +264,11 @@
         "percent": 0
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "Hamster",
         "total_seconds": 4353.570153,
-        "digital": "1:12:33",
-        "decimal": "1.20",
-        "text": "1 hr 12 mins",
-        "hours": 1,
-        "minutes": 12,
-        "seconds": 33,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 4353.570153,
+        "color": null,
         "digital": "1:12:33",
         "decimal": "1.20",
         "text": "1 hr 12 mins",
@@ -273,8 +278,9 @@
         "percent": 100
       },
       {
-        "name": "Linux",
+        "name": "pm2-windows-boot",
         "total_seconds": 0,
+        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
@@ -284,18 +290,12 @@
         "percent": 0
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 4353.570153,
-        "digital": "1:12:33",
-        "decimal": "1.20",
-        "text": "1 hr 12 mins",
-        "hours": 1,
-        "minutes": 12,
-        "seconds": 33,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-10-02T19:00:00Z",
+      "end": "2024-10-03T18:59:59Z",
+      "date": "2024-10-03",
+      "text": "Thu Oct 3rd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
