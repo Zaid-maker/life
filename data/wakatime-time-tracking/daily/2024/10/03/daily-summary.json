@@ -1,118 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 27,
-      "total_seconds": 5256.963391,
-      "digital": "1:27",
-      "decimal": "1.45",
-      "text": "1 hr 27 mins"
-    },
-    "range": {
-      "start": "2024-10-03T19:00:00Z",
-      "end": "2024-10-04T18:59:59Z",
-      "date": "2024-10-04",
-      "text": "Fri Oct 4th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "Profile Card",
-        "total_seconds": 1295.039812,
-        "color": null,
-        "digital": "0:21:35",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 35,
-        "percent": 24.63
-      },
-      {
-        "name": "Product hover",
-        "total_seconds": 1182.841288,
-        "color": null,
-        "digital": "0:19:42",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 42,
-        "percent": 22.5
-      },
-      {
-        "name": "pikachu-hover-effext",
-        "total_seconds": 750.276454,
-        "color": null,
-        "digital": "0:12:30",
-        "decimal": "0.20",
-        "text": "12 mins",
-        "hours": 0,
-        "minutes": 12,
-        "seconds": 30,
-        "percent": 14.27
-      },
-      {
-        "name": "Product Card",
-        "total_seconds": 705.171603,
-        "color": null,
-        "digital": "0:11:45",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 45,
-        "percent": 13.41
-      },
-      {
-        "name": "photo-gallery",
-        "total_seconds": 687.08003,
-        "color": null,
-        "digital": "0:11:27",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 27,
-        "percent": 13.07
-      },
-      {
-        "name": "404",
-        "total_seconds": 562.23945,
-        "color": null,
-        "digital": "0:09:22",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 22,
-        "percent": 10.7
-      },
-      {
-        "name": "Blum-AutoClicker",
-        "total_seconds": 74.314754,
-        "color": null,
-        "digital": "0:01:14",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 14,
-        "percent": 1.41
-      },
-      {
-        "name": "Hamster",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "CSS",
@@ -168,6 +55,53 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 27,
+      "total_seconds": 5256.963391,
+      "digital": "1:27",
+      "decimal": "1.45",
+      "text": "1 hr 27 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5256.963391,
+        "digital": "1:27:36",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5256.963391,
+        "digital": "1:27:36",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5256.963391,
+        "digital": "1:27:36",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 36,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -296,44 +230,110 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 5256.963391,
-        "digital": "1:27:36",
-        "decimal": "1.45",
-        "text": "1 hr 27 mins",
-        "hours": 1,
-        "minutes": 27,
-        "seconds": 36,
-        "percent": 100
+        "name": "Profile Card",
+        "total_seconds": 1295.039812,
+        "color": null,
+        "digital": "0:21:35",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 35,
+        "percent": 24.63
+      },
+      {
+        "name": "Product hover",
+        "total_seconds": 1182.841288,
+        "color": null,
+        "digital": "0:19:42",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 42,
+        "percent": 22.5
+      },
+      {
+        "name": "pikachu-hover-effext",
+        "total_seconds": 750.276454,
+        "color": null,
+        "digital": "0:12:30",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 30,
+        "percent": 14.27
+      },
+      {
+        "name": "Product Card",
+        "total_seconds": 705.171603,
+        "color": null,
+        "digital": "0:11:45",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 45,
+        "percent": 13.41
+      },
+      {
+        "name": "photo-gallery",
+        "total_seconds": 687.08003,
+        "color": null,
+        "digital": "0:11:27",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 27,
+        "percent": 13.07
+      },
+      {
+        "name": "404",
+        "total_seconds": 562.23945,
+        "color": null,
+        "digital": "0:09:22",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 22,
+        "percent": 10.7
+      },
+      {
+        "name": "Blum-AutoClicker",
+        "total_seconds": 74.314754,
+        "color": null,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 1.41
+      },
+      {
+        "name": "Hamster",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5256.963391,
-        "digital": "1:27:36",
-        "decimal": "1.45",
-        "text": "1 hr 27 mins",
-        "hours": 1,
-        "minutes": 27,
-        "seconds": 36,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5256.963391,
-        "digital": "1:27:36",
-        "decimal": "1.45",
-        "text": "1 hr 27 mins",
-        "hours": 1,
-        "minutes": 27,
-        "seconds": 36,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-10-03T19:00:00Z",
+      "end": "2024-10-04T18:59:59Z",
+      "date": "2024-10-04",
+      "text": "Fri Oct 4th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
