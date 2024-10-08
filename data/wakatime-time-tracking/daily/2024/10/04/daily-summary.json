@@ -1,5 +1,46 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 21,
+      "total_seconds": 1280.880891,
+      "digital": "0:21",
+      "decimal": "0.35",
+      "text": "21 mins"
+    },
+    "range": {
+      "start": "2024-10-04T19:00:00Z",
+      "end": "2024-10-05T18:59:59Z",
+      "date": "2024-10-05",
+      "text": "Sat Oct 5th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "animated-tab-menu",
+        "total_seconds": 793.984871,
+        "color": null,
+        "digital": "0:13:13",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 13,
+        "percent": 61.99
+      },
+      {
+        "name": "animated-gradient-underflow",
+        "total_seconds": 486.89602,
+        "color": null,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 38.01
+      }
+    ],
     "languages": [
       {
         "name": "CSS",
@@ -24,14 +65,21 @@
         "percent": 39.24
       }
     ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 21,
-      "total_seconds": 1280.880891,
-      "digital": "0:21",
-      "decimal": "0.35",
-      "text": "21 mins"
-    },
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-MG5KQAF",
+        "total_seconds": 1280.880891,
+        "machine_name_id": "2fa5b1a4-fa29-4fa6-9e59-27a89aa8904b",
+        "digital": "0:21:20",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
     "editors": [
       {
         "name": "VS Code",
@@ -70,52 +118,6 @@
         "seconds": 20,
         "percent": 100
       }
-    ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "DESKTOP-MG5KQAF",
-        "total_seconds": 1280.880891,
-        "machine_name_id": "2fa5b1a4-fa29-4fa6-9e59-27a89aa8904b",
-        "digital": "0:21:20",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 20,
-        "percent": 100
-      }
-    ],
-    "projects": [
-      {
-        "name": "animated-tab-menu",
-        "total_seconds": 793.984871,
-        "digital": "0:13:13",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 13,
-        "percent": 61.99
-      },
-      {
-        "name": "animated-gradient-underflow",
-        "total_seconds": 486.89602,
-        "digital": "0:08:06",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 6,
-        "percent": 38.01
-      }
-    ],
-    "range": {
-      "start": "2024-10-04T19:00:00Z",
-      "end": "2024-10-05T18:59:59Z",
-      "date": "2024-10-05",
-      "text": "Sat Oct 5th 2024",
-      "timezone": "Asia/Karachi"
-    }
+    ]
   }
 ]
