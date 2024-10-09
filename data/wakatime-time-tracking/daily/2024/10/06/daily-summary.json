@@ -1,5 +1,58 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 33,
+      "total_seconds": 2020.244608,
+      "digital": "0:33",
+      "decimal": "0.55",
+      "text": "33 mins"
+    },
+    "range": {
+      "start": "2024-10-06T19:00:00Z",
+      "end": "2024-10-07T18:59:59Z",
+      "date": "2024-10-07",
+      "text": "Mon Oct 7th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "bouncy-toggle-switch",
+        "total_seconds": 1070.17892,
+        "color": null,
+        "digital": "0:17:50",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 50,
+        "percent": 52.97
+      },
+      {
+        "name": "animated-navbar",
+        "total_seconds": 622.316861,
+        "color": null,
+        "digital": "0:10:22",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 22,
+        "percent": 30.8
+      },
+      {
+        "name": "internet-speeds",
+        "total_seconds": 327.748827,
+        "color": null,
+        "digital": "0:05:27",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 27,
+        "percent": 16.22
+      }
+    ],
     "languages": [
       {
         "name": "HTML",
@@ -35,53 +88,6 @@
         "percent": 16.22
       }
     ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 33,
-      "total_seconds": 2020.244608,
-      "digital": "0:33",
-      "decimal": "0.55",
-      "text": "33 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 2020.244608,
-        "digital": "0:33:40",
-        "decimal": "0.55",
-        "text": "33 mins",
-        "hours": 0,
-        "minutes": 33,
-        "seconds": 40,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 2020.244608,
-        "digital": "0:33:40",
-        "decimal": "0.55",
-        "text": "33 mins",
-        "hours": 0,
-        "minutes": 33,
-        "seconds": 40,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 2020.244608,
-        "digital": "0:33:40",
-        "decimal": "0.55",
-        "text": "33 mins",
-        "hours": 0,
-        "minutes": 33,
-        "seconds": 40,
-        "percent": 100
-      }
-    ],
     "dependencies": [
       {
         "name": "react",
@@ -95,40 +101,7 @@
         "percent": 15.05
       },
       {
-        "name": "link",
-        "total_seconds": 188.900519,
-        "digital": "0:03:08",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 8,
-        "percent": 10.98
-      },
-      {
         "name": "recharts",
-        "total_seconds": 188.900519,
-        "digital": "0:03:08",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 8,
-        "percent": 10.98
-      },
-      {
-        "name": "table",
-        "total_seconds": 188.900519,
-        "digital": "0:03:08",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 8,
-        "percent": 10.98
-      },
-      {
-        "name": "lucide-react",
         "total_seconds": 188.900519,
         "digital": "0:03:08",
         "decimal": "0.05",
@@ -150,6 +123,17 @@
         "percent": 10.98
       },
       {
+        "name": "table",
+        "total_seconds": 188.900519,
+        "digital": "0:03:08",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 8,
+        "percent": 10.98
+      },
+      {
         "name": "button",
         "total_seconds": 188.900519,
         "digital": "0:03:08",
@@ -161,7 +145,29 @@
         "percent": 10.98
       },
       {
+        "name": "link",
+        "total_seconds": 188.900519,
+        "digital": "0:03:08",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 8,
+        "percent": 10.98
+      },
+      {
         "name": "card",
+        "total_seconds": 188.900519,
+        "digital": "0:03:08",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 8,
+        "percent": 10.98
+      },
+      {
+        "name": "lucide-react",
         "total_seconds": 188.900519,
         "digital": "0:03:08",
         "decimal": "0.05",
@@ -208,47 +214,44 @@
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "bouncy-toggle-switch",
-        "total_seconds": 1070.17892,
-        "digital": "0:17:50",
-        "decimal": "0.28",
-        "text": "17 mins",
+        "name": "VS Code",
+        "total_seconds": 2020.244608,
+        "digital": "0:33:40",
+        "decimal": "0.55",
+        "text": "33 mins",
         "hours": 0,
-        "minutes": 17,
-        "seconds": 50,
-        "percent": 52.97
-      },
-      {
-        "name": "animated-navbar",
-        "total_seconds": 622.316861,
-        "digital": "0:10:22",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 22,
-        "percent": 30.8
-      },
-      {
-        "name": "internet-speeds",
-        "total_seconds": 327.748827,
-        "digital": "0:05:27",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 27,
-        "percent": 16.22
+        "minutes": 33,
+        "seconds": 40,
+        "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-10-06T19:00:00Z",
-      "end": "2024-10-07T18:59:59Z",
-      "date": "2024-10-07",
-      "text": "Mon Oct 7th 2024",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2020.244608,
+        "digital": "0:33:40",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 40,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2020.244608,
+        "digital": "0:33:40",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 40,
+        "percent": 100
+      }
+    ]
   }
 ]
