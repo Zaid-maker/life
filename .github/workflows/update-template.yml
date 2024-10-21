@@ -11,18 +11,16 @@ jobs:
   release:
     name: Build
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3.1.0
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v3.5.1
         with:
-          node-version: 16
+          node-version: 16.18.0
       - name: Update template
         run: npx update-template https://github.com/stethoscope-js/stethoscope
       - name: Commit new data
