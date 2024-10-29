@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 29,
-      "total_seconds": 8993.952943,
-      "digital": "2:29",
-      "decimal": "2.48",
-      "text": "2 hrs 29 mins"
-    },
-    "range": {
-      "start": "2024-10-24T19:00:00Z",
-      "end": "2024-10-25T18:59:59Z",
-      "date": "2024-10-25",
-      "text": "Fri Oct 25th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "jira-clone",
-        "total_seconds": 8993.952943,
-        "color": null,
-        "digital": "2:29:53",
-        "decimal": "2.48",
-        "text": "2 hrs 29 mins",
-        "hours": 2,
-        "minutes": 29,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -62,6 +33,53 @@
         "minutes": 1,
         "seconds": 19,
         "percent": 0.88
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 29,
+      "total_seconds": 8993.952943,
+      "digital": "2:29",
+      "decimal": "2.48",
+      "text": "2 hrs 29 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 8993.952943,
+        "digital": "2:29:53",
+        "decimal": "2.48",
+        "text": "2 hrs 29 mins",
+        "hours": 2,
+        "minutes": 29,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8993.952943,
+        "digital": "2:29:53",
+        "decimal": "2.48",
+        "text": "2 hrs 29 mins",
+        "hours": 2,
+        "minutes": 29,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8993.952943,
+        "digital": "2:29:53",
+        "decimal": "2.48",
+        "text": "2 hrs 29 mins",
+        "hours": 2,
+        "minutes": 29,
+        "seconds": 53,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -1049,10 +1067,11 @@
         "percent": 0.94
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "jira-clone",
         "total_seconds": 8993.952943,
+        "color": null,
         "digital": "2:29:53",
         "decimal": "2.48",
         "text": "2 hrs 29 mins",
@@ -1062,31 +1081,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 8993.952943,
-        "digital": "2:29:53",
-        "decimal": "2.48",
-        "text": "2 hrs 29 mins",
-        "hours": 2,
-        "minutes": 29,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 8993.952943,
-        "digital": "2:29:53",
-        "decimal": "2.48",
-        "text": "2 hrs 29 mins",
-        "hours": 2,
-        "minutes": 29,
-        "seconds": 53,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-10-24T19:00:00Z",
+      "end": "2024-10-25T18:59:59Z",
+      "date": "2024-10-25",
+      "text": "Fri Oct 25th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
