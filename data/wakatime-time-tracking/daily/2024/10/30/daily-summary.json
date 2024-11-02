@@ -1,16 +1,57 @@
 [
   {
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 21,
+      "total_seconds": 1290.681944,
+      "digital": "0:21",
+      "decimal": "0.35",
+      "text": "21 mins"
+    },
+    "range": {
+      "start": "2024-10-30T19:00:00Z",
+      "end": "2024-10-31T18:59:59Z",
+      "date": "2024-10-31",
+      "text": "Thu Oct 31st 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
       {
-        "name": "YAML",
-        "total_seconds": 512.773769,
-        "digital": "0:08:32",
+        "name": "jira-clone",
+        "total_seconds": 805.981251,
+        "color": null,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 62.45
+      },
+      {
+        "name": "chatgpt-clone",
+        "total_seconds": 484.700693,
+        "color": null,
+        "digital": "0:08:04",
         "decimal": "0.13",
         "text": "8 mins",
         "hours": 0,
         "minutes": 8,
-        "seconds": 32,
-        "percent": 51.41
+        "seconds": 4,
+        "percent": 37.55
+      }
+    ],
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 805.981251,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 62.45
       },
       {
         "name": "TypeScript",
@@ -21,59 +62,34 @@
         "hours": 0,
         "minutes": 8,
         "seconds": 4,
-        "percent": 48.59
-      }
-    ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 16,
-      "total_seconds": 997.474462,
-      "digital": "0:16",
-      "decimal": "0.27",
-      "text": "16 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 997.474462,
-        "digital": "0:16:37",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 37,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 997.474462,
-        "digital": "0:16:37",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 37,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 997.474462,
-        "digital": "0:16:37",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 37,
-        "percent": 100
+        "percent": 37.55
       }
     ],
     "dependencies": [
       {
+        "name": "react",
+        "total_seconds": 484.700693,
+        "digital": "0:08:04",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 4,
+        "percent": 20
+      },
+      {
         "name": "next",
+        "total_seconds": 484.700693,
+        "digital": "0:08:04",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 4,
+        "percent": 20
+      },
+      {
+        "name": "image",
         "total_seconds": 484.700693,
         "digital": "0:08:04",
         "decimal": "0.13",
@@ -104,74 +120,60 @@
         "minutes": 8,
         "seconds": 4,
         "percent": 20
-      },
-      {
-        "name": "image",
-        "total_seconds": 484.700693,
-        "digital": "0:08:04",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 4,
-        "percent": 20
-      },
-      {
-        "name": "react",
-        "total_seconds": 484.700693,
-        "digital": "0:08:04",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 4,
-        "percent": 20
       }
     ],
     "machines": [
       {
         "name": "DESKTOP-E874US7 from 39.62.3.238",
-        "total_seconds": 997.474462,
+        "total_seconds": 1290.681944,
         "machine_name_id": "3f38988d-a0c2-402e-8dff-f7751492e722",
-        "digital": "0:16:37",
-        "decimal": "0.27",
-        "text": "16 mins",
+        "digital": "0:21:30",
+        "decimal": "0.35",
+        "text": "21 mins",
         "hours": 0,
-        "minutes": 16,
-        "seconds": 37,
+        "minutes": 21,
+        "seconds": 30,
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "jira-clone",
-        "total_seconds": 512.773769,
-        "digital": "0:08:32",
-        "decimal": "0.13",
-        "text": "8 mins",
+        "name": "VS Code",
+        "total_seconds": 1290.681944,
+        "digital": "0:21:30",
+        "decimal": "0.35",
+        "text": "21 mins",
         "hours": 0,
-        "minutes": 8,
-        "seconds": 32,
-        "percent": 51.41
-      },
-      {
-        "name": "chatgpt-clone",
-        "total_seconds": 484.700693,
-        "digital": "0:08:04",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 4,
-        "percent": 48.59
+        "minutes": 21,
+        "seconds": 30,
+        "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-10-30T19:00:00Z",
-      "end": "2024-10-31T18:59:59Z",
-      "date": "2024-10-31",
-      "text": "Thu Oct 31st 2024",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1290.681944,
+        "digital": "0:21:30",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1290.681944,
+        "digital": "0:21:30",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 30,
+        "percent": 100
+      }
+    ]
   }
 ]
