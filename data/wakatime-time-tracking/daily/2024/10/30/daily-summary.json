@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 21,
-      "total_seconds": 1290.681944,
-      "digital": "0:21",
-      "decimal": "0.35",
-      "text": "21 mins"
-    },
-    "range": {
-      "start": "2024-10-30T19:00:00Z",
-      "end": "2024-10-31T18:59:59Z",
-      "date": "2024-10-31",
-      "text": "Thu Oct 31st 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "jira-clone",
-        "total_seconds": 805.981251,
-        "color": null,
-        "digital": "0:13:25",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 25,
-        "percent": 62.45
-      },
-      {
-        "name": "chatgpt-clone",
-        "total_seconds": 484.700693,
-        "color": null,
-        "digital": "0:08:04",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 4,
-        "percent": 37.55
-      }
-    ],
     "languages": [
       {
         "name": "YAML",
@@ -63,6 +22,53 @@
         "minutes": 8,
         "seconds": 4,
         "percent": 37.55
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 21,
+      "total_seconds": 1290.681944,
+      "digital": "0:21",
+      "decimal": "0.35",
+      "text": "21 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1290.681944,
+        "digital": "0:21:30",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1290.681944,
+        "digital": "0:21:30",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1290.681944,
+        "digital": "0:21:30",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 30,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -136,44 +142,38 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1290.681944,
-        "digital": "0:21:30",
-        "decimal": "0.35",
-        "text": "21 mins",
+        "name": "jira-clone",
+        "total_seconds": 805.981251,
+        "color": null,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
         "hours": 0,
-        "minutes": 21,
-        "seconds": 30,
-        "percent": 100
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 62.45
+      },
+      {
+        "name": "chatgpt-clone",
+        "total_seconds": 484.700693,
+        "color": null,
+        "digital": "0:08:04",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 4,
+        "percent": 37.55
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 1290.681944,
-        "digital": "0:21:30",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 30,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1290.681944,
-        "digital": "0:21:30",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 30,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-10-30T19:00:00Z",
+      "end": "2024-10-31T18:59:59Z",
+      "date": "2024-10-31",
+      "text": "Thu Oct 31st 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
