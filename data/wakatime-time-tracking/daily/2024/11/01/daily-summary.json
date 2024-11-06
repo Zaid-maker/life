@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 54,
-      "total_seconds": 3256.81268,
-      "digital": "0:54",
-      "decimal": "0.90",
-      "text": "54 mins"
-    },
-    "range": {
-      "start": "2024-11-01T19:00:00Z",
-      "end": "2024-11-02T18:59:59Z",
-      "date": "2024-11-02",
-      "text": "Sat Nov 2nd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "uptime-robot",
-        "total_seconds": 2709.262847,
-        "color": null,
-        "digital": "0:45:09",
-        "decimal": "0.75",
-        "text": "45 mins",
-        "hours": 0,
-        "minutes": 45,
-        "seconds": 9,
-        "percent": 83.19
-      },
-      {
-        "name": "client",
-        "total_seconds": 409.807997,
-        "color": null,
-        "digital": "0:06:49",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 49,
-        "percent": 12.58
-      },
-      {
-        "name": "chatgpt-clone",
-        "total_seconds": 137.741836,
-        "color": null,
-        "digital": "0:02:17",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 17,
-        "percent": 4.23
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -119,6 +66,53 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 54,
+      "total_seconds": 3256.81268,
+      "digital": "0:54",
+      "decimal": "0.90",
+      "text": "54 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3256.81268,
+        "digital": "0:54:16",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3256.81268,
+        "digital": "0:54:16",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3256.81268,
+        "digital": "0:54:16",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 16,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -426,44 +420,50 @@
         "percent": 4.74
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 3256.81268,
-        "digital": "0:54:16",
-        "decimal": "0.90",
-        "text": "54 mins",
+        "name": "uptime-robot",
+        "total_seconds": 2709.262847,
+        "color": null,
+        "digital": "0:45:09",
+        "decimal": "0.75",
+        "text": "45 mins",
         "hours": 0,
-        "minutes": 54,
-        "seconds": 16,
-        "percent": 100
+        "minutes": 45,
+        "seconds": 9,
+        "percent": 83.19
+      },
+      {
+        "name": "client",
+        "total_seconds": 409.807997,
+        "color": null,
+        "digital": "0:06:49",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 49,
+        "percent": 12.58
+      },
+      {
+        "name": "chatgpt-clone",
+        "total_seconds": 137.741836,
+        "color": null,
+        "digital": "0:02:17",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 4.23
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 3256.81268,
-        "digital": "0:54:16",
-        "decimal": "0.90",
-        "text": "54 mins",
-        "hours": 0,
-        "minutes": 54,
-        "seconds": 16,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3256.81268,
-        "digital": "0:54:16",
-        "decimal": "0.90",
-        "text": "54 mins",
-        "hours": 0,
-        "minutes": 54,
-        "seconds": 16,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-11-01T19:00:00Z",
+      "end": "2024-11-02T18:59:59Z",
+      "date": "2024-11-02",
+      "text": "Sat Nov 2nd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
