@@ -1,5 +1,70 @@
 [
   {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 9,
+      "total_seconds": 7778.172124,
+      "digital": "2:09",
+      "decimal": "2.15",
+      "text": "2 hrs 9 mins"
+    },
+    "range": {
+      "start": "2024-11-05T19:00:00Z",
+      "end": "2024-11-06T18:59:59Z",
+      "date": "2024-11-06",
+      "text": "Wed Nov 6th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "cpp-projects",
+        "total_seconds": 3430.701123,
+        "color": null,
+        "digital": "0:57:10",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 10,
+        "percent": 44.11
+      },
+      {
+        "name": "coin-tap-backend",
+        "total_seconds": 2131.054587,
+        "color": null,
+        "digital": "0:35:31",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 31,
+        "percent": 27.4
+      },
+      {
+        "name": "coin-tap",
+        "total_seconds": 1232.250351,
+        "color": null,
+        "digital": "0:20:32",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 32,
+        "percent": 15.84
+      },
+      {
+        "name": "linklist",
+        "total_seconds": 984.166063,
+        "color": null,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 12.65
+      }
+    ],
     "languages": [
       {
         "name": "C++",
@@ -88,64 +153,6 @@
         "minutes": 0,
         "seconds": 12,
         "percent": 0.16
-      }
-    ],
-    "grand_total": {
-      "hours": 2,
-      "minutes": 9,
-      "total_seconds": 7778.172124,
-      "digital": "2:09",
-      "decimal": "2.15",
-      "text": "2 hrs 9 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 7778.172124,
-        "digital": "2:09:38",
-        "decimal": "2.15",
-        "text": "2 hrs 9 mins",
-        "hours": 2,
-        "minutes": 9,
-        "seconds": 38,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 7778.172124,
-        "digital": "2:09:38",
-        "decimal": "2.15",
-        "text": "2 hrs 9 mins",
-        "hours": 2,
-        "minutes": 9,
-        "seconds": 38,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 7771.99512,
-        "digital": "2:09:31",
-        "decimal": "2.15",
-        "text": "2 hrs 9 mins",
-        "hours": 2,
-        "minutes": 9,
-        "seconds": 31,
-        "percent": 99.92
-      },
-      {
-        "name": "Building",
-        "total_seconds": 6.177004,
-        "digital": "0:00:06",
-        "decimal": "0.00",
-        "text": "6 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 6,
-        "percent": 0.08
       }
     ],
     "dependencies": [
@@ -293,7 +300,7 @@
         "percent": 1.13
       },
       {
-        "name": "ethers",
+        "name": "express",
         "total_seconds": 41.945897,
         "digital": "0:00:41",
         "decimal": "0.00",
@@ -304,7 +311,7 @@
         "percent": 0.77
       },
       {
-        "name": "mongoose",
+        "name": "ethers",
         "total_seconds": 41.945897,
         "digital": "0:00:41",
         "decimal": "0.00",
@@ -326,7 +333,7 @@
         "percent": 0.77
       },
       {
-        "name": "express",
+        "name": "mongoose",
         "total_seconds": 41.945897,
         "digital": "0:00:41",
         "decimal": "0.00",
@@ -359,7 +366,7 @@
         "percent": 0.38
       },
       {
-        "name": "LogoutButton",
+        "name": "link",
         "total_seconds": 15.905642,
         "digital": "0:00:15",
         "decimal": "0.00",
@@ -381,7 +388,7 @@
         "percent": 0.29
       },
       {
-        "name": "link",
+        "name": "LogoutButton",
         "total_seconds": 15.905642,
         "digital": "0:00:15",
         "decimal": "0.00",
@@ -450,58 +457,55 @@
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "cpp-projects",
-        "total_seconds": 3430.701123,
-        "digital": "0:57:10",
-        "decimal": "0.95",
-        "text": "57 mins",
-        "hours": 0,
-        "minutes": 57,
-        "seconds": 10,
-        "percent": 44.11
-      },
-      {
-        "name": "coin-tap-backend",
-        "total_seconds": 2131.054587,
-        "digital": "0:35:31",
-        "decimal": "0.58",
-        "text": "35 mins",
-        "hours": 0,
-        "minutes": 35,
-        "seconds": 31,
-        "percent": 27.4
-      },
-      {
-        "name": "coin-tap",
-        "total_seconds": 1232.250351,
-        "digital": "0:20:32",
-        "decimal": "0.33",
-        "text": "20 mins",
-        "hours": 0,
-        "minutes": 20,
-        "seconds": 32,
-        "percent": 15.84
-      },
-      {
-        "name": "linklist",
-        "total_seconds": 984.166063,
-        "digital": "0:16:24",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 24,
-        "percent": 12.65
+        "name": "VS Code",
+        "total_seconds": 7778.172124,
+        "digital": "2:09:38",
+        "decimal": "2.15",
+        "text": "2 hrs 9 mins",
+        "hours": 2,
+        "minutes": 9,
+        "seconds": 38,
+        "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-11-05T19:00:00Z",
-      "end": "2024-11-06T18:59:59Z",
-      "date": "2024-11-06",
-      "text": "Wed Nov 6th 2024",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7778.172124,
+        "digital": "2:09:38",
+        "decimal": "2.15",
+        "text": "2 hrs 9 mins",
+        "hours": 2,
+        "minutes": 9,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7771.99512,
+        "digital": "2:09:31",
+        "decimal": "2.15",
+        "text": "2 hrs 9 mins",
+        "hours": 2,
+        "minutes": 9,
+        "seconds": 31,
+        "percent": 99.92
+      },
+      {
+        "name": "Building",
+        "total_seconds": 6.177004,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.08
+      }
+    ]
   }
 ]
