@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 43,
-      "total_seconds": 9806.090973,
-      "digital": "2:43",
-      "decimal": "2.72",
-      "text": "2 hrs 43 mins"
-    },
-    "range": {
-      "start": "2024-11-07T19:00:00Z",
-      "end": "2024-11-08T18:59:59Z",
-      "date": "2024-11-08",
-      "text": "Fri Nov 8th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "test-merge-conflict-script",
-        "total_seconds": 6150.72048,
-        "color": null,
-        "digital": "1:42:30",
-        "decimal": "1.70",
-        "text": "1 hr 42 mins",
-        "hours": 1,
-        "minutes": 42,
-        "seconds": 30,
-        "percent": 62.72
-      },
-      {
-        "name": "uptime-kuma",
-        "total_seconds": 2039.941012,
-        "color": null,
-        "digital": "0:33:59",
-        "decimal": "0.55",
-        "text": "33 mins",
-        "hours": 0,
-        "minutes": 33,
-        "seconds": 59,
-        "percent": 20.8
-      },
-      {
-        "name": "Java",
-        "total_seconds": 1615.429481,
-        "color": null,
-        "digital": "0:26:55",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 55,
-        "percent": 16.47
-      }
-    ],
     "languages": [
       {
         "name": "YAML",
@@ -110,21 +57,14 @@
         "percent": 0.16
       }
     ],
-    "dependencies": [],
-    "machines": [
-      {
-        "name": "DESKTOP-E874US7 from 103.151.47.214",
-        "total_seconds": 9806.090973,
-        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
-        "digital": "2:43:26",
-        "decimal": "2.72",
-        "text": "2 hrs 43 mins",
-        "hours": 2,
-        "minutes": 43,
-        "seconds": 26,
-        "percent": 100
-      }
-    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 43,
+      "total_seconds": 9806.090973,
+      "digital": "2:43",
+      "decimal": "2.72",
+      "text": "2 hrs 43 mins"
+    },
     "editors": [
       {
         "name": "VS Code",
@@ -174,6 +114,66 @@
         "seconds": 46,
         "percent": 1.7
       }
-    ]
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-E874US7 from 103.151.47.214",
+        "total_seconds": 9806.090973,
+        "machine_name_id": "153deb6b-2e0e-4358-b449-59c1ce7ca792",
+        "digital": "2:43:26",
+        "decimal": "2.72",
+        "text": "2 hrs 43 mins",
+        "hours": 2,
+        "minutes": 43,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "test-merge-conflict-script",
+        "total_seconds": 6150.72048,
+        "color": null,
+        "digital": "1:42:30",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 30,
+        "percent": 62.72
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 2039.941012,
+        "color": null,
+        "digital": "0:33:59",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 59,
+        "percent": 20.8
+      },
+      {
+        "name": "Java",
+        "total_seconds": 1615.429481,
+        "color": null,
+        "digital": "0:26:55",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 55,
+        "percent": 16.47
+      }
+    ],
+    "range": {
+      "start": "2024-11-07T19:00:00Z",
+      "end": "2024-11-08T18:59:59Z",
+      "date": "2024-11-08",
+      "text": "Fri Nov 8th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]

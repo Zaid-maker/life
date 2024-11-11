@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 35,
-      "total_seconds": 5748.910292,
-      "digital": "1:35",
-      "decimal": "1.58",
-      "text": "1 hr 35 mins"
-    },
-    "range": {
-      "start": "2024-11-06T19:00:00Z",
-      "end": "2024-11-07T18:59:59Z",
-      "date": "2024-11-07",
-      "text": "Thu Nov 7th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "cpp-projects",
-        "total_seconds": 3140.770281,
-        "color": null,
-        "digital": "0:52:20",
-        "decimal": "0.87",
-        "text": "52 mins",
-        "hours": 0,
-        "minutes": 52,
-        "seconds": 20,
-        "percent": 54.63
-      },
-      {
-        "name": "uptime-kuma",
-        "total_seconds": 2608.140011,
-        "color": null,
-        "digital": "0:43:28",
-        "decimal": "0.72",
-        "text": "43 mins",
-        "hours": 0,
-        "minutes": 43,
-        "seconds": 28,
-        "percent": 45.37
-      }
-    ],
     "languages": [
       {
         "name": "C++",
@@ -107,6 +66,75 @@
         "minutes": 0,
         "seconds": 7,
         "percent": 0.13
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 35,
+      "total_seconds": 5748.910292,
+      "digital": "1:35",
+      "decimal": "1.58",
+      "text": "1 hr 35 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5748.910292,
+        "digital": "1:35:48",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5748.910292,
+        "digital": "1:35:48",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5646.202963,
+        "digital": "1:34:06",
+        "decimal": "1.57",
+        "text": "1 hr 34 mins",
+        "hours": 1,
+        "minutes": 34,
+        "seconds": 6,
+        "percent": 98.21
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 83.685721,
+        "digital": "0:01:23",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 23,
+        "percent": 1.46
+      },
+      {
+        "name": "Building",
+        "total_seconds": 19.021608,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.33
       }
     ],
     "dependencies": [
@@ -11213,66 +11241,38 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 5748.910292,
-        "digital": "1:35:48",
-        "decimal": "1.58",
-        "text": "1 hr 35 mins",
-        "hours": 1,
-        "minutes": 35,
-        "seconds": 48,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5748.910292,
-        "digital": "1:35:48",
-        "decimal": "1.58",
-        "text": "1 hr 35 mins",
-        "hours": 1,
-        "minutes": 35,
-        "seconds": 48,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5646.202963,
-        "digital": "1:34:06",
-        "decimal": "1.57",
-        "text": "1 hr 34 mins",
-        "hours": 1,
-        "minutes": 34,
-        "seconds": 6,
-        "percent": 98.21
+        "name": "cpp-projects",
+        "total_seconds": 3140.770281,
+        "color": null,
+        "digital": "0:52:20",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 20,
+        "percent": 54.63
       },
       {
-        "name": "Debugging",
-        "total_seconds": 83.685721,
-        "digital": "0:01:23",
-        "decimal": "0.02",
-        "text": "1 min",
+        "name": "uptime-kuma",
+        "total_seconds": 2608.140011,
+        "color": null,
+        "digital": "0:43:28",
+        "decimal": "0.72",
+        "text": "43 mins",
         "hours": 0,
-        "minutes": 1,
-        "seconds": 23,
-        "percent": 1.46
-      },
-      {
-        "name": "Building",
-        "total_seconds": 19.021608,
-        "digital": "0:00:19",
-        "decimal": "0.00",
-        "text": "19 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 19,
-        "percent": 0.33
+        "minutes": 43,
+        "seconds": 28,
+        "percent": 45.37
       }
-    ]
+    ],
+    "range": {
+      "start": "2024-11-06T19:00:00Z",
+      "end": "2024-11-07T18:59:59Z",
+      "date": "2024-11-07",
+      "text": "Thu Nov 7th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
