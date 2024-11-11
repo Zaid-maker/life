@@ -53,7 +53,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
           commit_message: ":card_file_box: Update daily life data [skip ci]"
-          commit_user_name: Stethoscoper
+          commit_user_name: Zaid-maker
           commit_user_email: pzhafeez@gmail.com
           commit_author: Zaid-maker <pzhafeez @gmail.com>
           skip_dirty_check: true
