@@ -1,70 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 28,
-      "total_seconds": 5313.639749,
-      "digital": "1:28",
-      "decimal": "1.47",
-      "text": "1 hr 28 mins"
-    },
-    "range": {
-      "start": "2024-11-12T19:00:00Z",
-      "end": "2024-11-13T18:59:59Z",
-      "date": "2024-11-13",
-      "text": "Wed Nov 13th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "storeit",
-        "total_seconds": 2402.773325,
-        "color": null,
-        "digital": "0:40:02",
-        "decimal": "0.67",
-        "text": "40 mins",
-        "hours": 0,
-        "minutes": 40,
-        "seconds": 2,
-        "percent": 45.22
-      },
-      {
-        "name": "github-user-search",
-        "total_seconds": 2128.663024,
-        "color": null,
-        "digital": "0:35:28",
-        "decimal": "0.58",
-        "text": "35 mins",
-        "hours": 0,
-        "minutes": 35,
-        "seconds": 28,
-        "percent": 40.06
-      },
-      {
-        "name": "jira-clone",
-        "total_seconds": 782.2034,
-        "color": null,
-        "digital": "0:13:02",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 2,
-        "percent": 14.72
-      },
-      {
-        "name": "devmirza-blog-backend",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -109,6 +44,64 @@
         "minutes": 0,
         "seconds": 10,
         "percent": 0.19
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 28,
+      "total_seconds": 5313.639749,
+      "digital": "1:28",
+      "decimal": "1.47",
+      "text": "1 hr 28 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5313.639749,
+        "digital": "1:28:33",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "hours": 1,
+        "minutes": 28,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5313.639749,
+        "digital": "1:28:33",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "hours": 1,
+        "minutes": 28,
+        "seconds": 33,
+        "percent": 100
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5313.639749,
+        "digital": "1:28:33",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "hours": 1,
+        "minutes": 28,
+        "seconds": 33,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -965,34 +958,47 @@
         "percent": 0
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 5313.639749,
-        "digital": "1:28:33",
-        "decimal": "1.47",
-        "text": "1 hr 28 mins",
-        "hours": 1,
-        "minutes": 28,
-        "seconds": 33,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5313.639749,
-        "digital": "1:28:33",
-        "decimal": "1.47",
-        "text": "1 hr 28 mins",
-        "hours": 1,
-        "minutes": 28,
-        "seconds": 33,
-        "percent": 100
+        "name": "storeit",
+        "total_seconds": 2402.773325,
+        "color": null,
+        "digital": "0:40:02",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 2,
+        "percent": 45.22
       },
       {
-        "name": "Linux",
+        "name": "github-user-search",
+        "total_seconds": 2128.663024,
+        "color": null,
+        "digital": "0:35:28",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 28,
+        "percent": 40.06
+      },
+      {
+        "name": "jira-clone",
+        "total_seconds": 782.2034,
+        "color": null,
+        "digital": "0:13:02",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 2,
+        "percent": 14.72
+      },
+      {
+        "name": "devmirza-blog-backend",
         "total_seconds": 0,
+        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
@@ -1002,18 +1008,12 @@
         "percent": 0
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5313.639749,
-        "digital": "1:28:33",
-        "decimal": "1.47",
-        "text": "1 hr 28 mins",
-        "hours": 1,
-        "minutes": 28,
-        "seconds": 33,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-11-12T19:00:00Z",
+      "end": "2024-11-13T18:59:59Z",
+      "date": "2024-11-13",
+      "text": "Wed Nov 13th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
