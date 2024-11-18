@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 26,
-      "total_seconds": 1602.131045,
-      "digital": "0:26",
-      "decimal": "0.43",
-      "text": "26 mins"
-    },
-    "range": {
-      "start": "2024-11-14T19:00:00Z",
-      "end": "2024-11-15T18:59:59Z",
-      "date": "2024-11-15",
-      "text": "Fri Nov 15th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "Mashhood-Rehman",
-        "total_seconds": 1095.962219,
-        "color": null,
-        "digital": "0:18:15",
-        "decimal": "0.30",
-        "text": "18 mins",
-        "hours": 0,
-        "minutes": 18,
-        "seconds": 15,
-        "percent": 68.41
-      },
-      {
-        "name": "storeit",
-        "total_seconds": 506.168826,
-        "color": null,
-        "digital": "0:08:26",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 26,
-        "percent": 31.59
-      }
-    ],
     "languages": [
       {
         "name": "Markdown",
@@ -85,6 +44,53 @@
         "minutes": 0,
         "seconds": 6,
         "percent": 0.44
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 26,
+      "total_seconds": 1602.131045,
+      "digital": "0:26",
+      "decimal": "0.43",
+      "text": "26 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1602.131045,
+        "digital": "0:26:42",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1602.131045,
+        "digital": "0:26:42",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1602.131045,
+        "digital": "0:26:42",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 42,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -181,44 +187,38 @@
         "percent": 5.42
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1602.131045,
-        "digital": "0:26:42",
-        "decimal": "0.43",
-        "text": "26 mins",
+        "name": "Mashhood-Rehman",
+        "total_seconds": 1095.962219,
+        "color": null,
+        "digital": "0:18:15",
+        "decimal": "0.30",
+        "text": "18 mins",
         "hours": 0,
-        "minutes": 26,
-        "seconds": 42,
-        "percent": 100
+        "minutes": 18,
+        "seconds": 15,
+        "percent": 68.41
+      },
+      {
+        "name": "storeit",
+        "total_seconds": 506.168826,
+        "color": null,
+        "digital": "0:08:26",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 26,
+        "percent": 31.59
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 1602.131045,
-        "digital": "0:26:42",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 42,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1602.131045,
-        "digital": "0:26:42",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 42,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-11-14T19:00:00Z",
+      "end": "2024-11-15T18:59:59Z",
+      "date": "2024-11-15",
+      "text": "Fri Nov 15th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]

@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 23,
-      "total_seconds": 5023.418323,
-      "digital": "1:23",
-      "decimal": "1.38",
-      "text": "1 hr 23 mins"
-    },
-    "range": {
-      "start": "2024-11-13T19:00:00Z",
-      "end": "2024-11-14T18:59:59Z",
-      "date": "2024-11-14",
-      "text": "Thu Nov 14th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "storeit",
-        "total_seconds": 2625.998833,
-        "color": null,
-        "digital": "0:43:45",
-        "decimal": "0.72",
-        "text": "43 mins",
-        "hours": 0,
-        "minutes": 43,
-        "seconds": 45,
-        "percent": 52.28
-      },
-      {
-        "name": "todo-list-svelte",
-        "total_seconds": 2326.910874,
-        "color": null,
-        "digital": "0:38:46",
-        "decimal": "0.63",
-        "text": "38 mins",
-        "hours": 0,
-        "minutes": 38,
-        "seconds": 46,
-        "percent": 46.32
-      },
-      {
-        "name": "test-peripherals-app",
-        "total_seconds": 70.508616,
-        "color": null,
-        "digital": "0:01:10",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 10,
-        "percent": 1.4
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -108,6 +55,53 @@
         "minutes": 0,
         "seconds": 8,
         "percent": 0.18
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 23,
+      "total_seconds": 5023.418323,
+      "digital": "1:23",
+      "decimal": "1.38",
+      "text": "1 hr 23 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5023.418323,
+        "digital": "1:23:43",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5023.418323,
+        "digital": "1:23:43",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5023.418323,
+        "digital": "1:23:43",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 43,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -699,44 +693,50 @@
         "percent": 0
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 5023.418323,
-        "digital": "1:23:43",
-        "decimal": "1.38",
-        "text": "1 hr 23 mins",
-        "hours": 1,
-        "minutes": 23,
-        "seconds": 43,
-        "percent": 100
+        "name": "storeit",
+        "total_seconds": 2625.998833,
+        "color": null,
+        "digital": "0:43:45",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 45,
+        "percent": 52.28
+      },
+      {
+        "name": "todo-list-svelte",
+        "total_seconds": 2326.910874,
+        "color": null,
+        "digital": "0:38:46",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 46,
+        "percent": 46.32
+      },
+      {
+        "name": "test-peripherals-app",
+        "total_seconds": 70.508616,
+        "color": null,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 1.4
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5023.418323,
-        "digital": "1:23:43",
-        "decimal": "1.38",
-        "text": "1 hr 23 mins",
-        "hours": 1,
-        "minutes": 23,
-        "seconds": 43,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5023.418323,
-        "digital": "1:23:43",
-        "decimal": "1.38",
-        "text": "1 hr 23 mins",
-        "hours": 1,
-        "minutes": 23,
-        "seconds": 43,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-11-13T19:00:00Z",
+      "end": "2024-11-14T18:59:59Z",
+      "date": "2024-11-14",
+      "text": "Thu Nov 14th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
