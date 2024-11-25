@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 3,
-      "minutes": 18,
-      "total_seconds": 11936.246184,
-      "digital": "3:18",
-      "decimal": "3.30",
-      "text": "3 hrs 18 mins"
-    },
-    "range": {
-      "start": "2024-11-21T19:00:00Z",
-      "end": "2024-11-22T18:59:59Z",
-      "date": "2024-11-22",
-      "text": "Fri Nov 22nd 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "blog-website",
-        "total_seconds": 10493.239133,
-        "color": null,
-        "digital": "2:54:53",
-        "decimal": "2.90",
-        "text": "2 hrs 54 mins",
-        "hours": 2,
-        "minutes": 54,
-        "seconds": 53,
-        "percent": 87.91
-      },
-      {
-        "name": "storeit",
-        "total_seconds": 1443.007051,
-        "color": null,
-        "digital": "0:24:03",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 3,
-        "percent": 12.09
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -85,6 +44,53 @@
         "minutes": 3,
         "seconds": 33,
         "percent": 1.79
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 18,
+      "total_seconds": 11936.246184,
+      "digital": "3:18",
+      "decimal": "3.30",
+      "text": "3 hrs 18 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 11936.246184,
+        "digital": "3:18:56",
+        "decimal": "3.30",
+        "text": "3 hrs 18 mins",
+        "hours": 3,
+        "minutes": 18,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 11936.246184,
+        "digital": "3:18:56",
+        "decimal": "3.30",
+        "text": "3 hrs 18 mins",
+        "hours": 3,
+        "minutes": 18,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 11936.246184,
+        "digital": "3:18:56",
+        "decimal": "3.30",
+        "text": "3 hrs 18 mins",
+        "hours": 3,
+        "minutes": 18,
+        "seconds": 56,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -653,44 +659,38 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 11936.246184,
-        "digital": "3:18:56",
-        "decimal": "3.30",
-        "text": "3 hrs 18 mins",
-        "hours": 3,
-        "minutes": 18,
-        "seconds": 56,
-        "percent": 100
+        "name": "blog-website",
+        "total_seconds": 10493.239133,
+        "color": null,
+        "digital": "2:54:53",
+        "decimal": "2.90",
+        "text": "2 hrs 54 mins",
+        "hours": 2,
+        "minutes": 54,
+        "seconds": 53,
+        "percent": 87.91
+      },
+      {
+        "name": "storeit",
+        "total_seconds": 1443.007051,
+        "color": null,
+        "digital": "0:24:03",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 3,
+        "percent": 12.09
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 11936.246184,
-        "digital": "3:18:56",
-        "decimal": "3.30",
-        "text": "3 hrs 18 mins",
-        "hours": 3,
-        "minutes": 18,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 11936.246184,
-        "digital": "3:18:56",
-        "decimal": "3.30",
-        "text": "3 hrs 18 mins",
-        "hours": 3,
-        "minutes": 18,
-        "seconds": 56,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-11-21T19:00:00Z",
+      "end": "2024-11-22T18:59:59Z",
+      "date": "2024-11-22",
+      "text": "Fri Nov 22nd 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
