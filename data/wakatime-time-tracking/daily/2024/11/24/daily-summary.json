@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 55,
-      "total_seconds": 6938.676685,
-      "digital": "1:55",
-      "decimal": "1.92",
-      "text": "1 hr 55 mins"
-    },
-    "range": {
-      "start": "2024-11-24T19:00:00Z",
-      "end": "2024-11-25T18:59:59Z",
-      "date": "2024-11-25",
-      "text": "Mon Nov 25th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "uptime-robot",
-        "total_seconds": 3574.262182,
-        "color": null,
-        "digital": "0:59:34",
-        "decimal": "0.98",
-        "text": "59 mins",
-        "hours": 0,
-        "minutes": 59,
-        "seconds": 34,
-        "percent": 51.51
-      },
-      {
-        "name": "blog-website",
-        "total_seconds": 3364.414503,
-        "color": null,
-        "digital": "0:56:04",
-        "decimal": "0.93",
-        "text": "56 mins",
-        "hours": 0,
-        "minutes": 56,
-        "seconds": 4,
-        "percent": 48.49
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -96,6 +55,53 @@
         "minutes": 0,
         "seconds": 8,
         "percent": 0.13
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 55,
+      "total_seconds": 6938.676685,
+      "digital": "1:55",
+      "decimal": "1.92",
+      "text": "1 hr 55 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6938.676685,
+        "digital": "1:55:38",
+        "decimal": "1.92",
+        "text": "1 hr 55 mins",
+        "hours": 1,
+        "minutes": 55,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6938.676685,
+        "digital": "1:55:38",
+        "decimal": "1.92",
+        "text": "1 hr 55 mins",
+        "hours": 1,
+        "minutes": 55,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6938.676685,
+        "digital": "1:55:38",
+        "decimal": "1.92",
+        "text": "1 hr 55 mins",
+        "hours": 1,
+        "minutes": 55,
+        "seconds": 38,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -1060,44 +1066,38 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 6938.676685,
-        "digital": "1:55:38",
-        "decimal": "1.92",
-        "text": "1 hr 55 mins",
-        "hours": 1,
-        "minutes": 55,
-        "seconds": 38,
-        "percent": 100
+        "name": "uptime-robot",
+        "total_seconds": 3574.262182,
+        "color": null,
+        "digital": "0:59:34",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 34,
+        "percent": 51.51
+      },
+      {
+        "name": "blog-website",
+        "total_seconds": 3364.414503,
+        "color": null,
+        "digital": "0:56:04",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 4,
+        "percent": 48.49
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 6938.676685,
-        "digital": "1:55:38",
-        "decimal": "1.92",
-        "text": "1 hr 55 mins",
-        "hours": 1,
-        "minutes": 55,
-        "seconds": 38,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 6938.676685,
-        "digital": "1:55:38",
-        "decimal": "1.92",
-        "text": "1 hr 55 mins",
-        "hours": 1,
-        "minutes": 55,
-        "seconds": 38,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-11-24T19:00:00Z",
+      "end": "2024-11-25T18:59:59Z",
+      "date": "2024-11-25",
+      "text": "Mon Nov 25th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
