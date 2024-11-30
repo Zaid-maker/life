@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 35,
-      "total_seconds": 5725.364835,
-      "digital": "1:35",
-      "decimal": "1.58",
-      "text": "1 hr 35 mins"
-    },
-    "range": {
-      "start": "2024-11-26T19:00:00Z",
-      "end": "2024-11-27T18:59:59Z",
-      "date": "2024-11-27",
-      "text": "Wed Nov 27th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "neural-network-training-simulator",
-        "total_seconds": 2292.08136,
-        "color": null,
-        "digital": "0:38:12",
-        "decimal": "0.63",
-        "text": "38 mins",
-        "hours": 0,
-        "minutes": 38,
-        "seconds": 12,
-        "percent": 40.03
-      },
-      {
-        "name": "uptime-robot",
-        "total_seconds": 1818.211196,
-        "color": null,
-        "digital": "0:30:18",
-        "decimal": "0.50",
-        "text": "30 mins",
-        "hours": 0,
-        "minutes": 30,
-        "seconds": 18,
-        "percent": 31.76
-      },
-      {
-        "name": "uptime-kuma",
-        "total_seconds": 1615.072279,
-        "color": null,
-        "digital": "0:26:55",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 55,
-        "percent": 28.21
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -108,6 +55,53 @@
         "minutes": 0,
         "seconds": 4,
         "percent": 0.08
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 35,
+      "total_seconds": 5725.364835,
+      "digital": "1:35",
+      "decimal": "1.58",
+      "text": "1 hr 35 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5725.364835,
+        "digital": "1:35:25",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5725.364835,
+        "digital": "1:35:25",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5725.364835,
+        "digital": "1:35:25",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 25,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -544,44 +538,50 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 5725.364835,
-        "digital": "1:35:25",
-        "decimal": "1.58",
-        "text": "1 hr 35 mins",
-        "hours": 1,
-        "minutes": 35,
-        "seconds": 25,
-        "percent": 100
+        "name": "neural-network-training-simulator",
+        "total_seconds": 2292.08136,
+        "color": null,
+        "digital": "0:38:12",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 12,
+        "percent": 40.03
+      },
+      {
+        "name": "uptime-robot",
+        "total_seconds": 1818.211196,
+        "color": null,
+        "digital": "0:30:18",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 18,
+        "percent": 31.76
+      },
+      {
+        "name": "uptime-kuma",
+        "total_seconds": 1615.072279,
+        "color": null,
+        "digital": "0:26:55",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 55,
+        "percent": 28.21
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5725.364835,
-        "digital": "1:35:25",
-        "decimal": "1.58",
-        "text": "1 hr 35 mins",
-        "hours": 1,
-        "minutes": 35,
-        "seconds": 25,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5725.364835,
-        "digital": "1:35:25",
-        "decimal": "1.58",
-        "text": "1 hr 35 mins",
-        "hours": 1,
-        "minutes": 35,
-        "seconds": 25,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-11-26T19:00:00Z",
+      "end": "2024-11-27T18:59:59Z",
+      "date": "2024-11-27",
+      "text": "Wed Nov 27th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
