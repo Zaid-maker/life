@@ -1,5 +1,46 @@
 [
   {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 48,
+      "total_seconds": 13694.327934,
+      "digital": "3:48",
+      "decimal": "3.80",
+      "text": "3 hrs 48 mins"
+    },
+    "range": {
+      "start": "2024-11-27T19:00:00Z",
+      "end": "2024-11-28T18:59:59Z",
+      "date": "2024-11-28",
+      "text": "Thu Nov 28th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "uptime-robot",
+        "total_seconds": 10073.952473,
+        "color": null,
+        "digital": "2:47:53",
+        "decimal": "2.78",
+        "text": "2 hrs 47 mins",
+        "hours": 2,
+        "minutes": 47,
+        "seconds": 53,
+        "percent": 73.56
+      },
+      {
+        "name": "neural-network-training-simulator",
+        "total_seconds": 3620.375461,
+        "color": null,
+        "digital": "1:00:20",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 26.44
+      }
+    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -88,53 +129,6 @@
         "minutes": 0,
         "seconds": 17,
         "percent": 0.13
-      }
-    ],
-    "grand_total": {
-      "hours": 3,
-      "minutes": 48,
-      "total_seconds": 13694.327934,
-      "digital": "3:48",
-      "decimal": "3.80",
-      "text": "3 hrs 48 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 13694.327934,
-        "digital": "3:48:14",
-        "decimal": "3.80",
-        "text": "3 hrs 48 mins",
-        "hours": 3,
-        "minutes": 48,
-        "seconds": 14,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 13694.327934,
-        "digital": "3:48:14",
-        "decimal": "3.80",
-        "text": "3 hrs 48 mins",
-        "hours": 3,
-        "minutes": 48,
-        "seconds": 14,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 13694.327934,
-        "digital": "3:48:14",
-        "decimal": "3.80",
-        "text": "3 hrs 48 mins",
-        "hours": 3,
-        "minutes": 48,
-        "seconds": 14,
-        "percent": 100
       }
     ],
     "dependencies": [
@@ -1154,38 +1148,44 @@
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "uptime-robot",
-        "total_seconds": 10073.952473,
-        "color": null,
-        "digital": "2:47:53",
-        "decimal": "2.78",
-        "text": "2 hrs 47 mins",
-        "hours": 2,
-        "minutes": 47,
-        "seconds": 53,
-        "percent": 73.56
-      },
-      {
-        "name": "neural-network-training-simulator",
-        "total_seconds": 3620.375461,
-        "color": null,
-        "digital": "1:00:20",
-        "decimal": "1.00",
-        "text": "1 hr",
-        "hours": 1,
-        "minutes": 0,
-        "seconds": 20,
-        "percent": 26.44
+        "name": "VS Code",
+        "total_seconds": 13694.327934,
+        "digital": "3:48:14",
+        "decimal": "3.80",
+        "text": "3 hrs 48 mins",
+        "hours": 3,
+        "minutes": 48,
+        "seconds": 14,
+        "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-11-27T19:00:00Z",
-      "end": "2024-11-28T18:59:59Z",
-      "date": "2024-11-28",
-      "text": "Thu Nov 28th 2024",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13694.327934,
+        "digital": "3:48:14",
+        "decimal": "3.80",
+        "text": "3 hrs 48 mins",
+        "hours": 3,
+        "minutes": 48,
+        "seconds": 14,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 13694.327934,
+        "digital": "3:48:14",
+        "decimal": "3.80",
+        "text": "3 hrs 48 mins",
+        "hours": 3,
+        "minutes": 48,
+        "seconds": 14,
+        "percent": 100
+      }
+    ]
   }
 ]
