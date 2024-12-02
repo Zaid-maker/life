@@ -1,82 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 3,
-      "minutes": 45,
-      "total_seconds": 13503.100754,
-      "digital": "3:45",
-      "decimal": "3.75",
-      "text": "3 hrs 45 mins"
-    },
-    "range": {
-      "start": "2024-11-29T19:00:00Z",
-      "end": "2024-11-30T18:59:59Z",
-      "date": "2024-11-30",
-      "text": "Sat Nov 30th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "top-github-users-action",
-        "total_seconds": 9728.042776,
-        "color": null,
-        "digital": "2:42:08",
-        "decimal": "2.70",
-        "text": "2 hrs 42 mins",
-        "hours": 2,
-        "minutes": 42,
-        "seconds": 8,
-        "percent": 72.04
-      },
-      {
-        "name": "2048",
-        "total_seconds": 2053.026086,
-        "color": null,
-        "digital": "0:34:13",
-        "decimal": "0.57",
-        "text": "34 mins",
-        "hours": 0,
-        "minutes": 34,
-        "seconds": 13,
-        "percent": 15.2
-      },
-      {
-        "name": "blog-website",
-        "total_seconds": 920.33719,
-        "color": null,
-        "digital": "0:15:20",
-        "decimal": "0.25",
-        "text": "15 mins",
-        "hours": 0,
-        "minutes": 15,
-        "seconds": 20,
-        "percent": 6.82
-      },
-      {
-        "name": "webprodigies-fuzzie-app",
-        "total_seconds": 773.569197,
-        "color": null,
-        "digital": "0:12:53",
-        "decimal": "0.20",
-        "text": "12 mins",
-        "hours": 0,
-        "minutes": 12,
-        "seconds": 53,
-        "percent": 5.73
-      },
-      {
-        "name": "Unknown Project",
-        "total_seconds": 28.125505,
-        "color": null,
-        "digital": "0:00:28",
-        "decimal": "0.00",
-        "text": "28 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 28,
-        "percent": 0.21
-      }
-    ],
     "languages": [
       {
         "name": "YAML",
@@ -176,6 +99,53 @@
         "minutes": 0,
         "seconds": 28,
         "percent": 0.21
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 45,
+      "total_seconds": 13503.100754,
+      "digital": "3:45",
+      "decimal": "3.75",
+      "text": "3 hrs 45 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 13503.100754,
+        "digital": "3:45:03",
+        "decimal": "3.75",
+        "text": "3 hrs 45 mins",
+        "hours": 3,
+        "minutes": 45,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13503.100754,
+        "digital": "3:45:03",
+        "decimal": "3.75",
+        "text": "3 hrs 45 mins",
+        "hours": 3,
+        "minutes": 45,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 13503.100754,
+        "digital": "3:45:03",
+        "decimal": "3.75",
+        "text": "3 hrs 45 mins",
+        "hours": 3,
+        "minutes": 45,
+        "seconds": 3,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -1019,44 +989,74 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 13503.100754,
-        "digital": "3:45:03",
-        "decimal": "3.75",
-        "text": "3 hrs 45 mins",
-        "hours": 3,
-        "minutes": 45,
-        "seconds": 3,
-        "percent": 100
+        "name": "top-github-users-action",
+        "total_seconds": 9728.042776,
+        "color": null,
+        "digital": "2:42:08",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 8,
+        "percent": 72.04
+      },
+      {
+        "name": "2048",
+        "total_seconds": 2053.026086,
+        "color": null,
+        "digital": "0:34:13",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 13,
+        "percent": 15.2
+      },
+      {
+        "name": "blog-website",
+        "total_seconds": 920.33719,
+        "color": null,
+        "digital": "0:15:20",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 20,
+        "percent": 6.82
+      },
+      {
+        "name": "webprodigies-fuzzie-app",
+        "total_seconds": 773.569197,
+        "color": null,
+        "digital": "0:12:53",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 53,
+        "percent": 5.73
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 28.125505,
+        "color": null,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.21
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 13503.100754,
-        "digital": "3:45:03",
-        "decimal": "3.75",
-        "text": "3 hrs 45 mins",
-        "hours": 3,
-        "minutes": 45,
-        "seconds": 3,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 13503.100754,
-        "digital": "3:45:03",
-        "decimal": "3.75",
-        "text": "3 hrs 45 mins",
-        "hours": 3,
-        "minutes": 45,
-        "seconds": 3,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-11-29T19:00:00Z",
+      "end": "2024-11-30T18:59:59Z",
+      "date": "2024-11-30",
+      "text": "Sat Nov 30th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
