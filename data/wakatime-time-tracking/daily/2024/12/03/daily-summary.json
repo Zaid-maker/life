@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 7,
-      "total_seconds": 4073.060173,
-      "digital": "1:07",
-      "decimal": "1.12",
-      "text": "1 hr 7 mins"
-    },
-    "range": {
-      "start": "2024-12-03T19:00:00Z",
-      "end": "2024-12-04T18:59:59Z",
-      "date": "2024-12-04",
-      "text": "Wed Dec 4th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "top-github-users-action",
-        "total_seconds": 4073.060173,
-        "color": null,
-        "digital": "1:07:53",
-        "decimal": "1.12",
-        "text": "1 hr 7 mins",
-        "hours": 1,
-        "minutes": 7,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -106,6 +77,53 @@
         "minutes": 0,
         "seconds": 1,
         "percent": 0.03
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 7,
+      "total_seconds": 4073.060173,
+      "digital": "1:07",
+      "decimal": "1.12",
+      "text": "1 hr 7 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4073.060173,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4073.060173,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4073.060173,
+        "digital": "1:07:53",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 53,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -509,10 +527,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "top-github-users-action",
         "total_seconds": 4073.060173,
+        "color": null,
         "digital": "1:07:53",
         "decimal": "1.12",
         "text": "1 hr 7 mins",
@@ -522,31 +541,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 4073.060173,
-        "digital": "1:07:53",
-        "decimal": "1.12",
-        "text": "1 hr 7 mins",
-        "hours": 1,
-        "minutes": 7,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 4073.060173,
-        "digital": "1:07:53",
-        "decimal": "1.12",
-        "text": "1 hr 7 mins",
-        "hours": 1,
-        "minutes": 7,
-        "seconds": 53,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-12-03T19:00:00Z",
+      "end": "2024-12-04T18:59:59Z",
+      "date": "2024-12-04",
+      "text": "Wed Dec 4th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]

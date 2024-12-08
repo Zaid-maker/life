@@ -1,18 +1,5 @@
 [
   {
-    "languages": [
-      {
-        "name": "TypeScript",
-        "total_seconds": 837.791498,
-        "digital": "0:13:57",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 57,
-        "percent": 100
-      }
-    ],
     "grand_total": {
       "hours": 0,
       "minutes": 13,
@@ -21,10 +8,18 @@
       "decimal": "0.22",
       "text": "13 mins"
     },
-    "editors": [
+    "range": {
+      "start": "2024-12-04T19:00:00Z",
+      "end": "2024-12-05T18:59:59Z",
+      "date": "2024-12-05",
+      "text": "Thu Dec 5th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "storeit",
         "total_seconds": 837.791498,
+        "color": null,
         "digital": "0:13:57",
         "decimal": "0.22",
         "text": "13 mins",
@@ -34,22 +29,9 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
+    "languages": [
       {
-        "name": "Windows",
-        "total_seconds": 837.791498,
-        "digital": "0:13:57",
-        "decimal": "0.22",
-        "text": "13 mins",
-        "hours": 0,
-        "minutes": 13,
-        "seconds": 57,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
+        "name": "TypeScript",
         "total_seconds": 837.791498,
         "digital": "0:13:57",
         "decimal": "0.22",
@@ -73,6 +55,17 @@
         "percent": 18.73
       },
       {
+        "name": "chart",
+        "total_seconds": 626.212889,
+        "digital": "0:10:26",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 26,
+        "percent": 17.92
+      },
+      {
         "name": "recharts",
         "total_seconds": 626.212889,
         "digital": "0:10:26",
@@ -85,17 +78,6 @@
       },
       {
         "name": "card",
-        "total_seconds": 626.212889,
-        "digital": "0:10:26",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 26,
-        "percent": 17.92
-      },
-      {
-        "name": "chart",
         "total_seconds": 626.212889,
         "digital": "0:10:26",
         "decimal": "0.17",
@@ -139,6 +121,17 @@
         "percent": 1.74
       },
       {
+        "name": "headers",
+        "total_seconds": 58.721115,
+        "digital": "0:00:58",
+        "decimal": "0.00",
+        "text": "58 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 58,
+        "percent": 1.68
+      },
+      {
         "name": "config",
         "total_seconds": 58.721115,
         "digital": "0:00:58",
@@ -161,28 +154,6 @@
         "percent": 1.68
       },
       {
-        "name": "headers",
-        "total_seconds": 58.721115,
-        "digital": "0:00:58",
-        "decimal": "0.00",
-        "text": "58 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 58,
-        "percent": 1.68
-      },
-      {
-        "name": "button",
-        "total_seconds": 48.675888,
-        "digital": "0:00:48",
-        "decimal": "0.00",
-        "text": "48 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 48,
-        "percent": 1.39
-      },
-      {
         "name": "link",
         "total_seconds": 48.675888,
         "digital": "0:00:48",
@@ -194,18 +165,7 @@
         "percent": 1.39
       },
       {
-        "name": "input",
-        "total_seconds": 48.675888,
-        "digital": "0:00:48",
-        "decimal": "0.00",
-        "text": "48 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 48,
-        "percent": 1.39
-      },
-      {
-        "name": "react-hook-form",
+        "name": "button",
         "total_seconds": 48.675888,
         "digital": "0:00:48",
         "decimal": "0.00",
@@ -238,7 +198,18 @@
         "percent": 1.39
       },
       {
-        "name": "form",
+        "name": "react-hook-form",
+        "total_seconds": 48.675888,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 1.39
+      },
+      {
+        "name": "input",
         "total_seconds": 48.675888,
         "digital": "0:00:48",
         "decimal": "0.00",
@@ -250,6 +221,17 @@
       },
       {
         "name": "zod",
+        "total_seconds": 48.675888,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 1.39
+      },
+      {
+        "name": "form",
         "total_seconds": 48.675888,
         "digital": "0:00:48",
         "decimal": "0.00",
@@ -293,7 +275,7 @@
         "percent": 0.81
       },
       {
-        "name": "google",
+        "name": "next",
         "total_seconds": 4.028808,
         "digital": "0:00:04",
         "decimal": "0.00",
@@ -304,7 +286,7 @@
         "percent": 0.12
       },
       {
-        "name": "next",
+        "name": "google",
         "total_seconds": 4.028808,
         "digital": "0:00:04",
         "decimal": "0.00",
@@ -351,9 +333,9 @@
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "storeit",
+        "name": "VS Code",
         "total_seconds": 837.791498,
         "digital": "0:13:57",
         "decimal": "0.22",
@@ -364,12 +346,31 @@
         "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-12-04T19:00:00Z",
-      "end": "2024-12-05T18:59:59Z",
-      "date": "2024-12-05",
-      "text": "Thu Dec 5th 2024",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 837.791498,
+        "digital": "0:13:57",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 837.791498,
+        "digital": "0:13:57",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 57,
+        "percent": 100
+      }
+    ]
   }
 ]
