@@ -1,18 +1,5 @@
 [
   {
-    "languages": [
-      {
-        "name": "TypeScript",
-        "total_seconds": 1011.496021,
-        "digital": "0:16:51",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 51,
-        "percent": 100
-      }
-    ],
     "grand_total": {
       "hours": 0,
       "minutes": 16,
@@ -21,10 +8,18 @@
       "decimal": "0.27",
       "text": "16 mins"
     },
-    "editors": [
+    "range": {
+      "start": "2024-12-11T19:00:00Z",
+      "end": "2024-12-12T18:59:59Z",
+      "date": "2024-12-12",
+      "text": "Thu Dec 12th 2024",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "emoji-picker",
         "total_seconds": 1011.496021,
+        "color": null,
         "digital": "0:16:51",
         "decimal": "0.27",
         "text": "16 mins",
@@ -34,22 +29,9 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
+    "languages": [
       {
-        "name": "Windows",
-        "total_seconds": 1011.496021,
-        "digital": "0:16:51",
-        "decimal": "0.27",
-        "text": "16 mins",
-        "hours": 0,
-        "minutes": 16,
-        "seconds": 51,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
+        "name": "TypeScript",
         "total_seconds": 1011.496021,
         "digital": "0:16:51",
         "decimal": "0.27",
@@ -109,9 +91,9 @@
         "percent": 100
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "emoji-picker",
+        "name": "VS Code",
         "total_seconds": 1011.496021,
         "digital": "0:16:51",
         "decimal": "0.27",
@@ -122,12 +104,31 @@
         "percent": 100
       }
     ],
-    "range": {
-      "start": "2024-12-11T19:00:00Z",
-      "end": "2024-12-12T18:59:59Z",
-      "date": "2024-12-12",
-      "text": "Thu Dec 12th 2024",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1011.496021,
+        "digital": "0:16:51",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1011.496021,
+        "digital": "0:16:51",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 51,
+        "percent": 100
+      }
+    ]
   }
 ]
