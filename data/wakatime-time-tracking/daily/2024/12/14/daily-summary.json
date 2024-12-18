@@ -1,70 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 12,
-      "total_seconds": 7926.194411,
-      "digital": "2:12",
-      "decimal": "2.20",
-      "text": "2 hrs 12 mins"
-    },
-    "range": {
-      "start": "2024-12-14T19:00:00Z",
-      "end": "2024-12-15T18:59:59Z",
-      "date": "2024-12-15",
-      "text": "Sun Dec 15th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "open_wiki",
-        "total_seconds": 3223.502418,
-        "color": null,
-        "digital": "0:53:43",
-        "decimal": "0.88",
-        "text": "53 mins",
-        "hours": 0,
-        "minutes": 53,
-        "seconds": 43,
-        "percent": 40.67
-      },
-      {
-        "name": "wiki-archive-script",
-        "total_seconds": 2838.297814,
-        "color": null,
-        "digital": "0:47:18",
-        "decimal": "0.78",
-        "text": "47 mins",
-        "hours": 0,
-        "minutes": 47,
-        "seconds": 18,
-        "percent": 35.81
-      },
-      {
-        "name": "uptime-robot",
-        "total_seconds": 1276.807462,
-        "color": null,
-        "digital": "0:21:16",
-        "decimal": "0.35",
-        "text": "21 mins",
-        "hours": 0,
-        "minutes": 21,
-        "seconds": 16,
-        "percent": 16.11
-      },
-      {
-        "name": "wa-bot",
-        "total_seconds": 587.586717,
-        "color": null,
-        "digital": "0:09:47",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 47,
-        "percent": 7.41
-      }
-    ],
     "languages": [
       {
         "name": "Python",
@@ -131,6 +66,53 @@
         "minutes": 2,
         "seconds": 29,
         "percent": 1.88
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 12,
+      "total_seconds": 7926.194411,
+      "digital": "2:12",
+      "decimal": "2.20",
+      "text": "2 hrs 12 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 7926.194411,
+        "digital": "2:12:06",
+        "decimal": "2.20",
+        "text": "2 hrs 12 mins",
+        "hours": 2,
+        "minutes": 12,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7926.194411,
+        "digital": "2:12:06",
+        "decimal": "2.20",
+        "text": "2 hrs 12 mins",
+        "hours": 2,
+        "minutes": 12,
+        "seconds": 6,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7926.194411,
+        "digital": "2:12:06",
+        "decimal": "2.20",
+        "text": "2 hrs 12 mins",
+        "hours": 2,
+        "minutes": 12,
+        "seconds": 6,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -589,44 +571,62 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 7926.194411,
-        "digital": "2:12:06",
-        "decimal": "2.20",
-        "text": "2 hrs 12 mins",
-        "hours": 2,
-        "minutes": 12,
-        "seconds": 6,
-        "percent": 100
+        "name": "open_wiki",
+        "total_seconds": 3223.502418,
+        "color": null,
+        "digital": "0:53:43",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 43,
+        "percent": 40.67
+      },
+      {
+        "name": "wiki-archive-script",
+        "total_seconds": 2838.297814,
+        "color": null,
+        "digital": "0:47:18",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 18,
+        "percent": 35.81
+      },
+      {
+        "name": "uptime-robot",
+        "total_seconds": 1276.807462,
+        "color": null,
+        "digital": "0:21:16",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 16,
+        "percent": 16.11
+      },
+      {
+        "name": "wa-bot",
+        "total_seconds": 587.586717,
+        "color": null,
+        "digital": "0:09:47",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 47,
+        "percent": 7.41
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 7926.194411,
-        "digital": "2:12:06",
-        "decimal": "2.20",
-        "text": "2 hrs 12 mins",
-        "hours": 2,
-        "minutes": 12,
-        "seconds": 6,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 7926.194411,
-        "digital": "2:12:06",
-        "decimal": "2.20",
-        "text": "2 hrs 12 mins",
-        "hours": 2,
-        "minutes": 12,
-        "seconds": 6,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-12-14T19:00:00Z",
+      "end": "2024-12-15T18:59:59Z",
+      "date": "2024-12-15",
+      "text": "Sun Dec 15th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
