@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 59,
-      "total_seconds": 3576.204694,
-      "digital": "0:59",
-      "decimal": "0.98",
-      "text": "59 mins"
-    },
-    "range": {
-      "start": "2024-12-16T19:00:00Z",
-      "end": "2024-12-17T18:59:59Z",
-      "date": "2024-12-17",
-      "text": "Tue Dec 17th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "igthub-unwrapped",
-        "total_seconds": 3382.659619,
-        "color": null,
-        "digital": "0:56:22",
-        "decimal": "0.93",
-        "text": "56 mins",
-        "hours": 0,
-        "minutes": 56,
-        "seconds": 22,
-        "percent": 94.59
-      },
-      {
-        "name": "storeit",
-        "total_seconds": 193.545075,
-        "color": null,
-        "digital": "0:03:13",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 13,
-        "percent": 5.41
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -118,6 +77,64 @@
         "minutes": 0,
         "seconds": 3,
         "percent": 0.09
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 59,
+      "total_seconds": 3576.204694,
+      "digital": "0:59",
+      "decimal": "0.98",
+      "text": "59 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3382.659619,
+        "digital": "0:56:22",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 22,
+        "percent": 94.59
+      },
+      {
+        "name": "Cursor",
+        "total_seconds": 193.545075,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 5.41
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3576.204694,
+        "digital": "0:59:36",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3576.204694,
+        "digital": "0:59:36",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 36,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -631,10 +648,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "igthub-unwrapped",
         "total_seconds": 3382.659619,
+        "color": null,
         "digital": "0:56:22",
         "decimal": "0.93",
         "text": "56 mins",
@@ -644,8 +662,9 @@
         "percent": 94.59
       },
       {
-        "name": "Cursor",
+        "name": "storeit",
         "total_seconds": 193.545075,
+        "color": null,
         "digital": "0:03:13",
         "decimal": "0.05",
         "text": "3 mins",
@@ -655,31 +674,12 @@
         "percent": 5.41
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 3576.204694,
-        "digital": "0:59:36",
-        "decimal": "0.98",
-        "text": "59 mins",
-        "hours": 0,
-        "minutes": 59,
-        "seconds": 36,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3576.204694,
-        "digital": "0:59:36",
-        "decimal": "0.98",
-        "text": "59 mins",
-        "hours": 0,
-        "minutes": 59,
-        "seconds": 36,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-12-16T19:00:00Z",
+      "end": "2024-12-17T18:59:59Z",
+      "date": "2024-12-17",
+      "text": "Tue Dec 17th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
