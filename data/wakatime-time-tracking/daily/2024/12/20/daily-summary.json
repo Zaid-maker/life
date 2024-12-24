@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 38,
-      "total_seconds": 5925.760564,
-      "digital": "1:38",
-      "decimal": "1.63",
-      "text": "1 hr 38 mins"
-    },
-    "range": {
-      "start": "2024-12-20T19:00:00Z",
-      "end": "2024-12-21T18:59:59Z",
-      "date": "2024-12-21",
-      "text": "Sat Dec 21st 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "open_wiki",
-        "total_seconds": 4580.138334,
-        "color": null,
-        "digital": "1:16:20",
-        "decimal": "1.27",
-        "text": "1 hr 16 mins",
-        "hours": 1,
-        "minutes": 16,
-        "seconds": 20,
-        "percent": 77.29
-      },
-      {
-        "name": "status-page",
-        "total_seconds": 1345.62223,
-        "color": null,
-        "digital": "0:22:25",
-        "decimal": "0.37",
-        "text": "22 mins",
-        "hours": 0,
-        "minutes": 22,
-        "seconds": 25,
-        "percent": 22.71
-      }
-    ],
     "languages": [
       {
         "name": "Python",
@@ -173,6 +132,53 @@
         "minutes": 0,
         "seconds": 26,
         "percent": 0.45
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 38,
+      "total_seconds": 5925.760564,
+      "digital": "1:38",
+      "decimal": "1.63",
+      "text": "1 hr 38 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5925.760564,
+        "digital": "1:38:45",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5925.760564,
+        "digital": "1:38:45",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5925.760564,
+        "digital": "1:38:45",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 45,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -499,44 +505,38 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 5925.760564,
-        "digital": "1:38:45",
-        "decimal": "1.63",
-        "text": "1 hr 38 mins",
+        "name": "open_wiki",
+        "total_seconds": 4580.138334,
+        "color": null,
+        "digital": "1:16:20",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
         "hours": 1,
-        "minutes": 38,
-        "seconds": 45,
-        "percent": 100
+        "minutes": 16,
+        "seconds": 20,
+        "percent": 77.29
+      },
+      {
+        "name": "status-page",
+        "total_seconds": 1345.62223,
+        "color": null,
+        "digital": "0:22:25",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 25,
+        "percent": 22.71
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5925.760564,
-        "digital": "1:38:45",
-        "decimal": "1.63",
-        "text": "1 hr 38 mins",
-        "hours": 1,
-        "minutes": 38,
-        "seconds": 45,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5925.760564,
-        "digital": "1:38:45",
-        "decimal": "1.63",
-        "text": "1 hr 38 mins",
-        "hours": 1,
-        "minutes": 38,
-        "seconds": 45,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-12-20T19:00:00Z",
+      "end": "2024-12-21T18:59:59Z",
+      "date": "2024-12-21",
+      "text": "Sat Dec 21st 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]

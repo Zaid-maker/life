@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 21,
-      "total_seconds": 4916.204487,
-      "digital": "1:21",
-      "decimal": "1.35",
-      "text": "1 hr 21 mins"
-    },
-    "range": {
-      "start": "2024-12-19T19:00:00Z",
-      "end": "2024-12-20T18:59:59Z",
-      "date": "2024-12-20",
-      "text": "Fri Dec 20th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "igthub-unwrapped",
-        "total_seconds": 3023.271743,
-        "color": null,
-        "digital": "0:50:23",
-        "decimal": "0.83",
-        "text": "50 mins",
-        "hours": 0,
-        "minutes": 50,
-        "seconds": 23,
-        "percent": 61.5
-      },
-      {
-        "name": "open_wiki",
-        "total_seconds": 1892.932744,
-        "color": null,
-        "digital": "0:31:32",
-        "decimal": "0.52",
-        "text": "31 mins",
-        "hours": 0,
-        "minutes": 31,
-        "seconds": 32,
-        "percent": 38.5
-      }
-    ],
     "languages": [
       {
         "name": "Markdown",
@@ -129,6 +88,53 @@
         "minutes": 0,
         "seconds": 5,
         "percent": 0.1
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 21,
+      "total_seconds": 4916.204487,
+      "digital": "1:21",
+      "decimal": "1.35",
+      "text": "1 hr 21 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4916.204487,
+        "digital": "1:21:56",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4916.204487,
+        "digital": "1:21:56",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4916.204487,
+        "digital": "1:21:56",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 56,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -587,44 +593,38 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 4916.204487,
-        "digital": "1:21:56",
-        "decimal": "1.35",
-        "text": "1 hr 21 mins",
-        "hours": 1,
-        "minutes": 21,
-        "seconds": 56,
-        "percent": 100
+        "name": "igthub-unwrapped",
+        "total_seconds": 3023.271743,
+        "color": null,
+        "digital": "0:50:23",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 23,
+        "percent": 61.5
+      },
+      {
+        "name": "open_wiki",
+        "total_seconds": 1892.932744,
+        "color": null,
+        "digital": "0:31:32",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 32,
+        "percent": 38.5
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 4916.204487,
-        "digital": "1:21:56",
-        "decimal": "1.35",
-        "text": "1 hr 21 mins",
-        "hours": 1,
-        "minutes": 21,
-        "seconds": 56,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 4916.204487,
-        "digital": "1:21:56",
-        "decimal": "1.35",
-        "text": "1 hr 21 mins",
-        "hours": 1,
-        "minutes": 21,
-        "seconds": 56,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-12-19T19:00:00Z",
+      "end": "2024-12-20T18:59:59Z",
+      "date": "2024-12-20",
+      "text": "Fri Dec 20th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
