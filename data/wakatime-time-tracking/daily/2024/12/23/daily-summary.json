@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 6,
-      "total_seconds": 4006.087626,
-      "digital": "1:06",
-      "decimal": "1.10",
-      "text": "1 hr 6 mins"
-    },
-    "range": {
-      "start": "2024-12-23T19:00:00Z",
-      "end": "2024-12-24T18:59:59Z",
-      "date": "2024-12-24",
-      "text": "Tue Dec 24th 2024",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "git-wrapped-api",
-        "total_seconds": 3004.045633,
-        "color": null,
-        "digital": "0:50:04",
-        "decimal": "0.83",
-        "text": "50 mins",
-        "hours": 0,
-        "minutes": 50,
-        "seconds": 4,
-        "percent": 74.99
-      },
-      {
-        "name": "portfilio",
-        "total_seconds": 905.566818,
-        "color": null,
-        "digital": "0:15:05",
-        "decimal": "0.25",
-        "text": "15 mins",
-        "hours": 0,
-        "minutes": 15,
-        "seconds": 5,
-        "percent": 22.6
-      },
-      {
-        "name": "storeit",
-        "total_seconds": 96.475175,
-        "color": null,
-        "digital": "0:01:36",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 36,
-        "percent": 2.41
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -130,6 +77,64 @@
         "minutes": 0,
         "seconds": 27,
         "percent": 0.69
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 6,
+      "total_seconds": 4006.087626,
+      "digital": "1:06",
+      "decimal": "1.10",
+      "text": "1 hr 6 mins"
+    },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 3100.520808,
+        "digital": "0:51:40",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 40,
+        "percent": 77.4
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 905.566818,
+        "digital": "0:15:05",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 5,
+        "percent": 22.6
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4006.087626,
+        "digital": "1:06:46",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4006.087626,
+        "digital": "1:06:46",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 46,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -665,21 +670,23 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "Cursor",
-        "total_seconds": 3100.520808,
-        "digital": "0:51:40",
-        "decimal": "0.85",
-        "text": "51 mins",
+        "name": "git-wrapped-api",
+        "total_seconds": 3004.045633,
+        "color": null,
+        "digital": "0:50:04",
+        "decimal": "0.83",
+        "text": "50 mins",
         "hours": 0,
-        "minutes": 51,
-        "seconds": 40,
-        "percent": 77.4
+        "minutes": 50,
+        "seconds": 4,
+        "percent": 74.99
       },
       {
-        "name": "VS Code",
+        "name": "portfilio",
         "total_seconds": 905.566818,
+        "color": null,
         "digital": "0:15:05",
         "decimal": "0.25",
         "text": "15 mins",
@@ -687,33 +694,26 @@
         "minutes": 15,
         "seconds": 5,
         "percent": 22.6
+      },
+      {
+        "name": "storeit",
+        "total_seconds": 96.475175,
+        "color": null,
+        "digital": "0:01:36",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 36,
+        "percent": 2.41
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 4006.087626,
-        "digital": "1:06:46",
-        "decimal": "1.10",
-        "text": "1 hr 6 mins",
-        "hours": 1,
-        "minutes": 6,
-        "seconds": 46,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 4006.087626,
-        "digital": "1:06:46",
-        "decimal": "1.10",
-        "text": "1 hr 6 mins",
-        "hours": 1,
-        "minutes": 6,
-        "seconds": 46,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2024-12-23T19:00:00Z",
+      "end": "2024-12-24T18:59:59Z",
+      "date": "2024-12-24",
+      "text": "Tue Dec 24th 2024",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
