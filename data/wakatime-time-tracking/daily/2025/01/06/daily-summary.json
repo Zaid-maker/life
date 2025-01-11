@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 22,
-      "total_seconds": 4956.65087,
-      "digital": "1:22",
-      "decimal": "1.37",
-      "text": "1 hr 22 mins"
-    },
-    "range": {
-      "start": "2025-01-06T19:00:00Z",
-      "end": "2025-01-07T18:59:59Z",
-      "date": "2025-01-07",
-      "text": "Tue Jan 7th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "chatty",
-        "total_seconds": 4956.65087,
-        "color": null,
-        "digital": "1:22:36",
-        "decimal": "1.37",
-        "text": "1 hr 22 mins",
-        "hours": 1,
-        "minutes": 22,
-        "seconds": 36,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -84,6 +55,53 @@
         "minutes": 0,
         "seconds": 3,
         "percent": 0.07
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 22,
+      "total_seconds": 4956.65087,
+      "digital": "1:22",
+      "decimal": "1.37",
+      "text": "1 hr 22 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4956.65087,
+        "digital": "1:22:36",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4956.65087,
+        "digital": "1:22:36",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4956.65087,
+        "digital": "1:22:36",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 36,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -388,10 +406,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "chatty",
         "total_seconds": 4956.65087,
+        "color": null,
         "digital": "1:22:36",
         "decimal": "1.37",
         "text": "1 hr 22 mins",
@@ -401,31 +420,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 4956.65087,
-        "digital": "1:22:36",
-        "decimal": "1.37",
-        "text": "1 hr 22 mins",
-        "hours": 1,
-        "minutes": 22,
-        "seconds": 36,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 4956.65087,
-        "digital": "1:22:36",
-        "decimal": "1.37",
-        "text": "1 hr 22 mins",
-        "hours": 1,
-        "minutes": 22,
-        "seconds": 36,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-01-06T19:00:00Z",
+      "end": "2025-01-07T18:59:59Z",
+      "date": "2025-01-07",
+      "text": "Tue Jan 7th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
