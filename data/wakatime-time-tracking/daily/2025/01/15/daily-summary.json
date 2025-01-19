@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 42,
-      "total_seconds": 9756.803721,
-      "digital": "2:42",
-      "decimal": "2.70",
-      "text": "2 hrs 42 mins"
-    },
-    "range": {
-      "start": "2025-01-15T19:00:00Z",
-      "end": "2025-01-16T18:59:59Z",
-      "date": "2025-01-16",
-      "text": "Thu Jan 16th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "chatty",
-        "total_seconds": 5778.08865,
-        "color": null,
-        "digital": "1:36:18",
-        "decimal": "1.60",
-        "text": "1 hr 36 mins",
-        "hours": 1,
-        "minutes": 36,
-        "seconds": 18,
-        "percent": 59.22
-      },
-      {
-        "name": "discord-bot",
-        "total_seconds": 3469.380485,
-        "color": null,
-        "digital": "0:57:49",
-        "decimal": "0.95",
-        "text": "57 mins",
-        "hours": 0,
-        "minutes": 57,
-        "seconds": 49,
-        "percent": 35.56
-      },
-      {
-        "name": "Zaid-maker",
-        "total_seconds": 509.334586,
-        "color": null,
-        "digital": "0:08:29",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 29,
-        "percent": 5.22
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -130,6 +77,86 @@
         "minutes": 0,
         "seconds": 15,
         "percent": 0.16
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 42,
+      "total_seconds": 9756.803721,
+      "digital": "2:42",
+      "decimal": "2.70",
+      "text": "2 hrs 42 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 8629.779542,
+        "digital": "2:23:49",
+        "decimal": "2.38",
+        "text": "2 hrs 23 mins",
+        "hours": 2,
+        "minutes": 23,
+        "seconds": 49,
+        "percent": 88.45
+      },
+      {
+        "name": "Cursor",
+        "total_seconds": 1127.024179,
+        "digital": "0:18:47",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 47,
+        "percent": 11.55
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 9247.469135,
+        "digital": "2:34:07",
+        "decimal": "2.57",
+        "text": "2 hrs 34 mins",
+        "hours": 2,
+        "minutes": 34,
+        "seconds": 7,
+        "percent": 94.78
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 509.334586,
+        "digital": "0:08:29",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 29,
+        "percent": 5.22
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9747.340737,
+        "digital": "2:42:27",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 27,
+        "percent": 99.9
+      },
+      {
+        "name": "Building",
+        "total_seconds": 9.462984,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.1
       }
     ],
     "dependencies": [
@@ -974,45 +1001,35 @@
         "percent": 5.22
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 8629.779542,
-        "digital": "2:23:49",
-        "decimal": "2.38",
-        "text": "2 hrs 23 mins",
-        "hours": 2,
-        "minutes": 23,
-        "seconds": 49,
-        "percent": 88.45
+        "name": "chatty",
+        "total_seconds": 5778.08865,
+        "color": null,
+        "digital": "1:36:18",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 18,
+        "percent": 59.22
       },
       {
-        "name": "Cursor",
-        "total_seconds": 1127.024179,
-        "digital": "0:18:47",
-        "decimal": "0.30",
-        "text": "18 mins",
+        "name": "discord-bot",
+        "total_seconds": 3469.380485,
+        "color": null,
+        "digital": "0:57:49",
+        "decimal": "0.95",
+        "text": "57 mins",
         "hours": 0,
-        "minutes": 18,
-        "seconds": 47,
-        "percent": 11.55
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 9247.469135,
-        "digital": "2:34:07",
-        "decimal": "2.57",
-        "text": "2 hrs 34 mins",
-        "hours": 2,
-        "minutes": 34,
-        "seconds": 7,
-        "percent": 94.78
+        "minutes": 57,
+        "seconds": 49,
+        "percent": 35.56
       },
       {
-        "name": "Linux",
+        "name": "Zaid-maker",
         "total_seconds": 509.334586,
+        "color": null,
         "digital": "0:08:29",
         "decimal": "0.13",
         "text": "8 mins",
@@ -1022,29 +1039,12 @@
         "percent": 5.22
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 9747.340737,
-        "digital": "2:42:27",
-        "decimal": "2.70",
-        "text": "2 hrs 42 mins",
-        "hours": 2,
-        "minutes": 42,
-        "seconds": 27,
-        "percent": 99.9
-      },
-      {
-        "name": "Building",
-        "total_seconds": 9.462984,
-        "digital": "0:00:09",
-        "decimal": "0.00",
-        "text": "9 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 9,
-        "percent": 0.1
-      }
-    ]
+    "range": {
+      "start": "2025-01-15T19:00:00Z",
+      "end": "2025-01-16T18:59:59Z",
+      "date": "2025-01-16",
+      "text": "Thu Jan 16th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
