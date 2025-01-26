@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 33,
-      "total_seconds": 2034.639127,
-      "digital": "0:33",
-      "decimal": "0.55",
-      "text": "33 mins"
-    },
-    "range": {
-      "start": "2025-01-21T19:00:00Z",
-      "end": "2025-01-22T18:59:59Z",
-      "date": "2025-01-22",
-      "text": "Wed Jan 22nd 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "discord-bot",
-        "total_seconds": 1188.511558,
-        "color": null,
-        "digital": "0:19:48",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 48,
-        "percent": 58.41
-      },
-      {
-        "name": "chatty",
-        "total_seconds": 846.127569,
-        "color": null,
-        "digital": "0:14:06",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 6,
-        "percent": 41.59
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -85,6 +44,53 @@
         "minutes": 0,
         "seconds": 5,
         "percent": 0.28
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 33,
+      "total_seconds": 2034.639127,
+      "digital": "0:33",
+      "decimal": "0.55",
+      "text": "33 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2034.639127,
+        "digital": "0:33:54",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2034.639127,
+        "digital": "0:33:54",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2034.639127,
+        "digital": "0:33:54",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 54,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -621,44 +627,38 @@
         "percent": 41.59
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 2034.639127,
-        "digital": "0:33:54",
-        "decimal": "0.55",
-        "text": "33 mins",
+        "name": "discord-bot",
+        "total_seconds": 1188.511558,
+        "color": null,
+        "digital": "0:19:48",
+        "decimal": "0.32",
+        "text": "19 mins",
         "hours": 0,
-        "minutes": 33,
-        "seconds": 54,
-        "percent": 100
+        "minutes": 19,
+        "seconds": 48,
+        "percent": 58.41
+      },
+      {
+        "name": "chatty",
+        "total_seconds": 846.127569,
+        "color": null,
+        "digital": "0:14:06",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 6,
+        "percent": 41.59
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 2034.639127,
-        "digital": "0:33:54",
-        "decimal": "0.55",
-        "text": "33 mins",
-        "hours": 0,
-        "minutes": 33,
-        "seconds": 54,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 2034.639127,
-        "digital": "0:33:54",
-        "decimal": "0.55",
-        "text": "33 mins",
-        "hours": 0,
-        "minutes": 33,
-        "seconds": 54,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-01-21T19:00:00Z",
+      "end": "2025-01-22T18:59:59Z",
+      "date": "2025-01-22",
+      "text": "Wed Jan 22nd 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
