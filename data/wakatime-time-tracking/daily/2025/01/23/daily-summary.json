@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 10,
-      "total_seconds": 4209.763093,
-      "digital": "1:10",
-      "decimal": "1.17",
-      "text": "1 hr 10 mins"
-    },
-    "range": {
-      "start": "2025-01-23T19:00:00Z",
-      "end": "2025-01-24T18:59:59Z",
-      "date": "2025-01-24",
-      "text": "Fri Jan 24th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "test-with-posthog",
-        "total_seconds": 2828.661122,
-        "color": null,
-        "digital": "0:47:08",
-        "decimal": "0.78",
-        "text": "47 mins",
-        "hours": 0,
-        "minutes": 47,
-        "seconds": 8,
-        "percent": 67.19
-      },
-      {
-        "name": "discord-bot",
-        "total_seconds": 699.58142,
-        "color": null,
-        "digital": "0:11:39",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 39,
-        "percent": 16.62
-      },
-      {
-        "name": "task-management-system",
-        "total_seconds": 681.520551,
-        "color": null,
-        "digital": "0:11:21",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 21,
-        "percent": 16.19
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -130,6 +77,53 @@
         "minutes": 0,
         "seconds": 1,
         "percent": 0.04
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 10,
+      "total_seconds": 4209.763093,
+      "digital": "1:10",
+      "decimal": "1.17",
+      "text": "1 hr 10 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4209.763093,
+        "digital": "1:10:09",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4209.763093,
+        "digital": "1:10:09",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4209.763093,
+        "digital": "1:10:09",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 9,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -577,44 +571,50 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 4209.763093,
-        "digital": "1:10:09",
-        "decimal": "1.17",
-        "text": "1 hr 10 mins",
-        "hours": 1,
-        "minutes": 10,
-        "seconds": 9,
-        "percent": 100
+        "name": "test-with-posthog",
+        "total_seconds": 2828.661122,
+        "color": null,
+        "digital": "0:47:08",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 8,
+        "percent": 67.19
+      },
+      {
+        "name": "discord-bot",
+        "total_seconds": 699.58142,
+        "color": null,
+        "digital": "0:11:39",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 39,
+        "percent": 16.62
+      },
+      {
+        "name": "task-management-system",
+        "total_seconds": 681.520551,
+        "color": null,
+        "digital": "0:11:21",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 21,
+        "percent": 16.19
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 4209.763093,
-        "digital": "1:10:09",
-        "decimal": "1.17",
-        "text": "1 hr 10 mins",
-        "hours": 1,
-        "minutes": 10,
-        "seconds": 9,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 4209.763093,
-        "digital": "1:10:09",
-        "decimal": "1.17",
-        "text": "1 hr 10 mins",
-        "hours": 1,
-        "minutes": 10,
-        "seconds": 9,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-01-23T19:00:00Z",
+      "end": "2025-01-24T18:59:59Z",
+      "date": "2025-01-24",
+      "text": "Fri Jan 24th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
