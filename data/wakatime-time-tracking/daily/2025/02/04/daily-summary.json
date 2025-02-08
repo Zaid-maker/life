@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 49,
-      "total_seconds": 6574.77343,
-      "digital": "1:49",
-      "decimal": "1.82",
-      "text": "1 hr 49 mins"
-    },
-    "range": {
-      "start": "2025-02-04T19:00:00Z",
-      "end": "2025-02-05T18:59:59Z",
-      "date": "2025-02-05",
-      "text": "Wed Feb 5th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "status-page",
-        "total_seconds": 6082.76584,
-        "color": null,
-        "digital": "1:41:22",
-        "decimal": "1.68",
-        "text": "1 hr 41 mins",
-        "hours": 1,
-        "minutes": 41,
-        "seconds": 22,
-        "percent": 92.52
-      },
-      {
-        "name": "bolt.diy",
-        "total_seconds": 492.00759,
-        "color": null,
-        "digital": "0:08:12",
-        "decimal": "0.13",
-        "text": "8 mins",
-        "hours": 0,
-        "minutes": 8,
-        "seconds": 12,
-        "percent": 7.48
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -107,6 +66,64 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 49,
+      "total_seconds": 6574.77343,
+      "digital": "1:49",
+      "decimal": "1.82",
+      "text": "1 hr 49 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6574.77343,
+        "digital": "1:49:34",
+        "decimal": "1.82",
+        "text": "1 hr 49 mins",
+        "hours": 1,
+        "minutes": 49,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 6082.76584,
+        "digital": "1:41:22",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 22,
+        "percent": 92.52
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 492.00759,
+        "digital": "0:08:12",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 12,
+        "percent": 7.48
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6574.77343,
+        "digital": "1:49:34",
+        "decimal": "1.82",
+        "text": "1 hr 49 mins",
+        "hours": 1,
+        "minutes": 49,
+        "seconds": 34,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -1632,23 +1649,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 6574.77343,
-        "digital": "1:49:34",
-        "decimal": "1.82",
-        "text": "1 hr 49 mins",
-        "hours": 1,
-        "minutes": 49,
-        "seconds": 34,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "WSL",
+        "name": "status-page",
         "total_seconds": 6082.76584,
+        "color": null,
         "digital": "1:41:22",
         "decimal": "1.68",
         "text": "1 hr 41 mins",
@@ -1658,8 +1663,9 @@
         "percent": 92.52
       },
       {
-        "name": "Windows",
+        "name": "bolt.diy",
         "total_seconds": 492.00759,
+        "color": null,
         "digital": "0:08:12",
         "decimal": "0.13",
         "text": "8 mins",
@@ -1669,18 +1675,12 @@
         "percent": 7.48
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 6574.77343,
-        "digital": "1:49:34",
-        "decimal": "1.82",
-        "text": "1 hr 49 mins",
-        "hours": 1,
-        "minutes": 49,
-        "seconds": 34,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-02-04T19:00:00Z",
+      "end": "2025-02-05T18:59:59Z",
+      "date": "2025-02-05",
+      "text": "Wed Feb 5th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
