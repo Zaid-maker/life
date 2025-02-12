@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 26,
-      "total_seconds": 1577.236356,
-      "digital": "0:26",
-      "decimal": "0.43",
-      "text": "26 mins"
-    },
-    "range": {
-      "start": "2025-02-08T19:00:00Z",
-      "end": "2025-02-09T18:59:59Z",
-      "date": "2025-02-09",
-      "text": "Sun Feb 9th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "status-page",
-        "total_seconds": 1577.236356,
-        "color": null,
-        "digital": "0:26:17",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 17,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JavaScript",
@@ -73,6 +44,53 @@
         "minutes": 0,
         "seconds": 5,
         "percent": 0.33
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 26,
+      "total_seconds": 1577.236356,
+      "digital": "0:26",
+      "decimal": "0.43",
+      "text": "26 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1577.236356,
+        "digital": "0:26:17",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 1577.236356,
+        "digital": "0:26:17",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1577.236356,
+        "digital": "0:26:17",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 17,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -278,10 +296,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "status-page",
         "total_seconds": 1577.236356,
+        "color": null,
         "digital": "0:26:17",
         "decimal": "0.43",
         "text": "26 mins",
@@ -291,31 +310,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 1577.236356,
-        "digital": "0:26:17",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 17,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1577.236356,
-        "digital": "0:26:17",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 17,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-02-08T19:00:00Z",
+      "end": "2025-02-09T18:59:59Z",
+      "date": "2025-02-09",
+      "text": "Sun Feb 9th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
