@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 3,
-      "minutes": 4,
-      "total_seconds": 11073.039289,
-      "digital": "3:04",
-      "decimal": "3.07",
-      "text": "3 hrs 4 mins"
-    },
-    "range": {
-      "start": "2025-02-12T19:00:00Z",
-      "end": "2025-02-13T18:59:59Z",
-      "date": "2025-02-13",
-      "text": "Thu Feb 13th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "archive-repos",
-        "total_seconds": 8032.195863,
-        "color": null,
-        "digital": "2:13:52",
-        "decimal": "2.22",
-        "text": "2 hrs 13 mins",
-        "hours": 2,
-        "minutes": 13,
-        "seconds": 52,
-        "percent": 72.54
-      },
-      {
-        "name": "youtube-clone",
-        "total_seconds": 1602.303916,
-        "color": null,
-        "digital": "0:26:42",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 42,
-        "percent": 14.47
-      },
-      {
-        "name": "my-lfs-sim",
-        "total_seconds": 1438.53951,
-        "color": null,
-        "digital": "0:23:58",
-        "decimal": "0.38",
-        "text": "23 mins",
-        "hours": 0,
-        "minutes": 23,
-        "seconds": 58,
-        "percent": 12.99
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -119,6 +66,53 @@
         "minutes": 2,
         "seconds": 36,
         "percent": 1.41
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 4,
+      "total_seconds": 11073.039289,
+      "digital": "3:04",
+      "decimal": "3.07",
+      "text": "3 hrs 4 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 11073.039289,
+        "digital": "3:04:33",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "hours": 3,
+        "minutes": 4,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 11073.039289,
+        "digital": "3:04:33",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "hours": 3,
+        "minutes": 4,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 11073.039289,
+        "digital": "3:04:33",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "hours": 3,
+        "minutes": 4,
+        "seconds": 33,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -973,44 +967,50 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 11073.039289,
-        "digital": "3:04:33",
-        "decimal": "3.07",
-        "text": "3 hrs 4 mins",
-        "hours": 3,
-        "minutes": 4,
-        "seconds": 33,
-        "percent": 100
+        "name": "archive-repos",
+        "total_seconds": 8032.195863,
+        "color": null,
+        "digital": "2:13:52",
+        "decimal": "2.22",
+        "text": "2 hrs 13 mins",
+        "hours": 2,
+        "minutes": 13,
+        "seconds": 52,
+        "percent": 72.54
+      },
+      {
+        "name": "youtube-clone",
+        "total_seconds": 1602.303916,
+        "color": null,
+        "digital": "0:26:42",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 42,
+        "percent": 14.47
+      },
+      {
+        "name": "my-lfs-sim",
+        "total_seconds": 1438.53951,
+        "color": null,
+        "digital": "0:23:58",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 58,
+        "percent": 12.99
       }
     ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 11073.039289,
-        "digital": "3:04:33",
-        "decimal": "3.07",
-        "text": "3 hrs 4 mins",
-        "hours": 3,
-        "minutes": 4,
-        "seconds": 33,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 11073.039289,
-        "digital": "3:04:33",
-        "decimal": "3.07",
-        "text": "3 hrs 4 mins",
-        "hours": 3,
-        "minutes": 4,
-        "seconds": 33,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-02-12T19:00:00Z",
+      "end": "2025-02-13T18:59:59Z",
+      "date": "2025-02-13",
+      "text": "Thu Feb 13th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
