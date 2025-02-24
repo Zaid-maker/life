@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 6,
-      "total_seconds": 4007.221562,
-      "digital": "1:06",
-      "decimal": "1.10",
-      "text": "1 hr 6 mins"
-    },
-    "range": {
-      "start": "2025-02-20T19:00:00Z",
-      "end": "2025-02-21T18:59:59Z",
-      "date": "2025-02-21",
-      "text": "Fri Feb 21st 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "youtube-clone",
-        "total_seconds": 4007.221562,
-        "color": null,
-        "digital": "1:06:47",
-        "decimal": "1.10",
-        "text": "1 hr 6 mins",
-        "hours": 1,
-        "minutes": 6,
-        "seconds": 47,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -73,6 +44,53 @@
         "minutes": 0,
         "seconds": 29,
         "percent": 0.74
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 6,
+      "total_seconds": 4007.221562,
+      "digital": "1:06",
+      "decimal": "1.10",
+      "text": "1 hr 6 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4007.221562,
+        "digital": "1:06:47",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 4007.221562,
+        "digital": "1:06:47",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4007.221562,
+        "digital": "1:06:47",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -267,10 +285,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "youtube-clone",
         "total_seconds": 4007.221562,
+        "color": null,
         "digital": "1:06:47",
         "decimal": "1.10",
         "text": "1 hr 6 mins",
@@ -280,31 +299,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 4007.221562,
-        "digital": "1:06:47",
-        "decimal": "1.10",
-        "text": "1 hr 6 mins",
-        "hours": 1,
-        "minutes": 6,
-        "seconds": 47,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 4007.221562,
-        "digital": "1:06:47",
-        "decimal": "1.10",
-        "text": "1 hr 6 mins",
-        "hours": 1,
-        "minutes": 6,
-        "seconds": 47,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-02-20T19:00:00Z",
+      "end": "2025-02-21T18:59:59Z",
+      "date": "2025-02-21",
+      "text": "Fri Feb 21st 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
