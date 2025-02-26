@@ -1,70 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 39,
-      "total_seconds": 5950.367916,
-      "digital": "1:39",
-      "decimal": "1.65",
-      "text": "1 hr 39 mins"
-    },
-    "range": {
-      "start": "2025-02-22T19:00:00Z",
-      "end": "2025-02-23T18:59:59Z",
-      "date": "2025-02-23",
-      "text": "Sun Feb 23rd 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "youtube-clone",
-        "total_seconds": 3393.435246,
-        "color": null,
-        "digital": "0:56:33",
-        "decimal": "0.93",
-        "text": "56 mins",
-        "hours": 0,
-        "minutes": 56,
-        "seconds": 33,
-        "percent": 57.03
-      },
-      {
-        "name": "newtube",
-        "total_seconds": 1328.832053,
-        "color": null,
-        "digital": "0:22:08",
-        "decimal": "0.37",
-        "text": "22 mins",
-        "hours": 0,
-        "minutes": 22,
-        "seconds": 8,
-        "percent": 22.33
-      },
-      {
-        "name": "email-nextjs",
-        "total_seconds": 1136.407221,
-        "color": null,
-        "digital": "0:18:56",
-        "decimal": "0.30",
-        "text": "18 mins",
-        "hours": 0,
-        "minutes": 18,
-        "seconds": 56,
-        "percent": 19.1
-      },
-      {
-        "name": "ice-app",
-        "total_seconds": 91.693396,
-        "color": null,
-        "digital": "0:01:31",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 31,
-        "percent": 1.54
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -153,6 +88,64 @@
         "minutes": 0,
         "seconds": 4,
         "percent": 0.08
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 39,
+      "total_seconds": 5950.367916,
+      "digital": "1:39",
+      "decimal": "1.65",
+      "text": "1 hr 39 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5950.367916,
+        "digital": "1:39:10",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 10,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 4621.535863,
+        "digital": "1:17:01",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 1,
+        "percent": 77.67
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 1328.832053,
+        "digital": "0:22:08",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 8,
+        "percent": 22.33
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5950.367916,
+        "digital": "1:39:10",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 10,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -1382,34 +1375,23 @@
         "percent": 22.33
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 5950.367916,
-        "digital": "1:39:10",
-        "decimal": "1.65",
-        "text": "1 hr 39 mins",
-        "hours": 1,
-        "minutes": 39,
-        "seconds": 10,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 4621.535863,
-        "digital": "1:17:01",
-        "decimal": "1.28",
-        "text": "1 hr 17 mins",
-        "hours": 1,
-        "minutes": 17,
-        "seconds": 1,
-        "percent": 77.67
+        "name": "youtube-clone",
+        "total_seconds": 3393.435246,
+        "color": null,
+        "digital": "0:56:33",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 33,
+        "percent": 57.03
       },
       {
-        "name": "Linux",
+        "name": "newtube",
         "total_seconds": 1328.832053,
+        "color": null,
         "digital": "0:22:08",
         "decimal": "0.37",
         "text": "22 mins",
@@ -1417,20 +1399,38 @@
         "minutes": 22,
         "seconds": 8,
         "percent": 22.33
+      },
+      {
+        "name": "email-nextjs",
+        "total_seconds": 1136.407221,
+        "color": null,
+        "digital": "0:18:56",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 56,
+        "percent": 19.1
+      },
+      {
+        "name": "ice-app",
+        "total_seconds": 91.693396,
+        "color": null,
+        "digital": "0:01:31",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 31,
+        "percent": 1.54
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5950.367916,
-        "digital": "1:39:10",
-        "decimal": "1.65",
-        "text": "1 hr 39 mins",
-        "hours": 1,
-        "minutes": 39,
-        "seconds": 10,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-02-22T19:00:00Z",
+      "end": "2025-02-23T18:59:59Z",
+      "date": "2025-02-23",
+      "text": "Sun Feb 23rd 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
