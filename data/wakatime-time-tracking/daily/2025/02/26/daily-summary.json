@@ -1,5 +1,46 @@
 [
   {
+    "grand_total": {
+      "hours": 4,
+      "minutes": 8,
+      "total_seconds": 14893.854093,
+      "digital": "4:08",
+      "decimal": "4.13",
+      "text": "4 hrs 8 mins"
+    },
+    "range": {
+      "start": "2025-02-26T19:00:00Z",
+      "end": "2025-02-27T18:59:59Z",
+      "date": "2025-02-27",
+      "text": "Thu Feb 27th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "youtube-clone",
+        "total_seconds": 14893.854093,
+        "color": null,
+        "digital": "4:08:13",
+        "decimal": "4.13",
+        "text": "4 hrs 8 mins",
+        "hours": 4,
+        "minutes": 8,
+        "seconds": 13,
+        "percent": 100
+      },
+      {
+        "name": "react-mirror",
+        "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -22,64 +63,6 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
-      }
-    ],
-    "grand_total": {
-      "hours": 4,
-      "minutes": 8,
-      "total_seconds": 14893.854093,
-      "digital": "4:08",
-      "decimal": "4.13",
-      "text": "4 hrs 8 mins"
-    },
-    "editors": [
-      {
-        "name": "VS Code",
-        "total_seconds": 14893.854093,
-        "digital": "4:08:13",
-        "decimal": "4.13",
-        "text": "4 hrs 8 mins",
-        "hours": 4,
-        "minutes": 8,
-        "seconds": 13,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 14893.854093,
-        "digital": "4:08:13",
-        "decimal": "4.13",
-        "text": "4 hrs 8 mins",
-        "hours": 4,
-        "minutes": 8,
-        "seconds": 13,
-        "percent": 100
-      },
-      {
-        "name": "Linux",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 14893.854093,
-        "digital": "4:08:13",
-        "decimal": "4.13",
-        "text": "4 hrs 8 mins",
-        "hours": 4,
-        "minutes": 8,
-        "seconds": 13,
-        "percent": 100
       }
     ],
     "dependencies": [
@@ -337,7 +320,7 @@
         "percent": 0.37
       },
       {
-        "name": "utils",
+        "name": "avatar",
         "total_seconds": 164.170836,
         "digital": "0:02:44",
         "decimal": "0.03",
@@ -348,7 +331,7 @@
         "percent": 0.34
       },
       {
-        "name": "avatar",
+        "name": "utils",
         "total_seconds": 164.170836,
         "digital": "0:02:44",
         "decimal": "0.03",
@@ -403,6 +386,17 @@
         "percent": 0.17
       },
       {
+        "name": "google",
+        "total_seconds": 39.507148,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 0.08
+      },
+      {
         "name": "globals",
         "total_seconds": 39.507148,
         "digital": "0:00:39",
@@ -415,17 +409,6 @@
       },
       {
         "name": "next",
-        "total_seconds": 39.507148,
-        "digital": "0:00:39",
-        "decimal": "0.00",
-        "text": "39 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 39,
-        "percent": 0.08
-      },
-      {
-        "name": "google",
         "total_seconds": 39.507148,
         "digital": "0:00:39",
         "decimal": "0.00",
@@ -564,9 +547,22 @@
         "percent": 0
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "youtube-clone",
+        "name": "VS Code",
+        "total_seconds": 14893.854093,
+        "digital": "4:08:13",
+        "decimal": "4.13",
+        "text": "4 hrs 8 mins",
+        "hours": 4,
+        "minutes": 8,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
         "total_seconds": 14893.854093,
         "digital": "4:08:13",
         "decimal": "4.13",
@@ -577,7 +573,7 @@
         "percent": 100
       },
       {
-        "name": "react-mirror",
+        "name": "Linux",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -588,12 +584,18 @@
         "percent": 0
       }
     ],
-    "range": {
-      "start": "2025-02-26T19:00:00Z",
-      "end": "2025-02-27T18:59:59Z",
-      "date": "2025-02-27",
-      "text": "Thu Feb 27th 2025",
-      "timezone": "Asia/Karachi"
-    }
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 14893.854093,
+        "digital": "4:08:13",
+        "decimal": "4.13",
+        "text": "4 hrs 8 mins",
+        "hours": 4,
+        "minutes": 8,
+        "seconds": 13,
+        "percent": 100
+      }
+    ]
   }
 ]
