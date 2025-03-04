@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 30,
-      "total_seconds": 9048.074299,
-      "digital": "2:30",
-      "decimal": "2.50",
-      "text": "2 hrs 30 mins"
-    },
-    "range": {
-      "start": "2025-02-28T19:00:00Z",
-      "end": "2025-03-01T18:59:59Z",
-      "date": "2025-03-01",
-      "text": "Sat Mar 1st 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "youtube-clone",
-        "total_seconds": 5816.311013,
-        "color": null,
-        "digital": "1:36:56",
-        "decimal": "1.60",
-        "text": "1 hr 36 mins",
-        "hours": 1,
-        "minutes": 36,
-        "seconds": 56,
-        "percent": 64.28
-      },
-      {
-        "name": "joke-cli-generator",
-        "total_seconds": 3231.763286,
-        "color": null,
-        "digital": "0:53:51",
-        "decimal": "0.88",
-        "text": "53 mins",
-        "hours": 0,
-        "minutes": 53,
-        "seconds": 51,
-        "percent": 35.72
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -129,6 +88,53 @@
         "minutes": 0,
         "seconds": 2,
         "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 30,
+      "total_seconds": 9048.074299,
+      "digital": "2:30",
+      "decimal": "2.50",
+      "text": "2 hrs 30 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 9048.074299,
+        "digital": "2:30:48",
+        "decimal": "2.50",
+        "text": "2 hrs 30 mins",
+        "hours": 2,
+        "minutes": 30,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 9048.074299,
+        "digital": "2:30:48",
+        "decimal": "2.50",
+        "text": "2 hrs 30 mins",
+        "hours": 2,
+        "minutes": 30,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9048.074299,
+        "digital": "2:30:48",
+        "decimal": "2.50",
+        "text": "2 hrs 30 mins",
+        "hours": 2,
+        "minutes": 30,
+        "seconds": 48,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -1577,44 +1583,38 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 9048.074299,
-        "digital": "2:30:48",
-        "decimal": "2.50",
-        "text": "2 hrs 30 mins",
-        "hours": 2,
-        "minutes": 30,
-        "seconds": 48,
-        "percent": 100
+        "name": "youtube-clone",
+        "total_seconds": 5816.311013,
+        "color": null,
+        "digital": "1:36:56",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 56,
+        "percent": 64.28
+      },
+      {
+        "name": "joke-cli-generator",
+        "total_seconds": 3231.763286,
+        "color": null,
+        "digital": "0:53:51",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 51,
+        "percent": 35.72
       }
     ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 9048.074299,
-        "digital": "2:30:48",
-        "decimal": "2.50",
-        "text": "2 hrs 30 mins",
-        "hours": 2,
-        "minutes": 30,
-        "seconds": 48,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 9048.074299,
-        "digital": "2:30:48",
-        "decimal": "2.50",
-        "text": "2 hrs 30 mins",
-        "hours": 2,
-        "minutes": 30,
-        "seconds": 48,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-02-28T19:00:00Z",
+      "end": "2025-03-01T18:59:59Z",
+      "date": "2025-03-01",
+      "text": "Sat Mar 1st 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
