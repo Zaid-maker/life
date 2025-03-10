@@ -1,70 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 26,
-      "total_seconds": 5164.511617,
-      "digital": "1:26",
-      "decimal": "1.43",
-      "text": "1 hr 26 mins"
-    },
-    "range": {
-      "start": "2025-03-06T19:00:00Z",
-      "end": "2025-03-07T18:59:59Z",
-      "date": "2025-03-07",
-      "text": "Fri Mar 7th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "newtube",
-        "total_seconds": 2773.741167,
-        "color": null,
-        "digital": "0:46:13",
-        "decimal": "0.77",
-        "text": "46 mins",
-        "hours": 0,
-        "minutes": 46,
-        "seconds": 13,
-        "percent": 53.71
-      },
-      {
-        "name": "youtube-clone",
-        "total_seconds": 1842.637643,
-        "color": null,
-        "digital": "0:30:42",
-        "decimal": "0.50",
-        "text": "30 mins",
-        "hours": 0,
-        "minutes": 30,
-        "seconds": 42,
-        "percent": 35.68
-      },
-      {
-        "name": "package-benchmark",
-        "total_seconds": 351.643277,
-        "color": null,
-        "digital": "0:05:51",
-        "decimal": "0.08",
-        "text": "5 mins",
-        "hours": 0,
-        "minutes": 5,
-        "seconds": 51,
-        "percent": 6.81
-      },
-      {
-        "name": "nextjs-monorepo-example",
-        "total_seconds": 196.48953,
-        "color": null,
-        "digital": "0:03:16",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 16,
-        "percent": 3.8
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -164,6 +99,64 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 26,
+      "total_seconds": 5164.511617,
+      "digital": "1:26",
+      "decimal": "1.43",
+      "text": "1 hr 26 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5164.511617,
+        "digital": "1:26:04",
+        "decimal": "1.43",
+        "text": "1 hr 26 mins",
+        "hours": 1,
+        "minutes": 26,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3125.384444,
+        "digital": "0:52:05",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 5,
+        "percent": 60.52
+      },
+      {
+        "name": "WSL",
+        "total_seconds": 2039.127173,
+        "digital": "0:33:59",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 59,
+        "percent": 39.48
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5164.511617,
+        "digital": "1:26:04",
+        "decimal": "1.43",
+        "text": "1 hr 26 mins",
+        "hours": 1,
+        "minutes": 26,
+        "seconds": 4,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -1404,55 +1397,62 @@
         "percent": 20.65
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 5164.511617,
-        "digital": "1:26:04",
-        "decimal": "1.43",
-        "text": "1 hr 26 mins",
-        "hours": 1,
-        "minutes": 26,
-        "seconds": 4,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 3125.384444,
-        "digital": "0:52:05",
-        "decimal": "0.87",
-        "text": "52 mins",
+        "name": "newtube",
+        "total_seconds": 2773.741167,
+        "color": null,
+        "digital": "0:46:13",
+        "decimal": "0.77",
+        "text": "46 mins",
         "hours": 0,
-        "minutes": 52,
-        "seconds": 5,
-        "percent": 60.52
+        "minutes": 46,
+        "seconds": 13,
+        "percent": 53.71
       },
       {
-        "name": "WSL",
-        "total_seconds": 2039.127173,
-        "digital": "0:33:59",
-        "decimal": "0.55",
-        "text": "33 mins",
+        "name": "youtube-clone",
+        "total_seconds": 1842.637643,
+        "color": null,
+        "digital": "0:30:42",
+        "decimal": "0.50",
+        "text": "30 mins",
         "hours": 0,
-        "minutes": 33,
-        "seconds": 59,
-        "percent": 39.48
+        "minutes": 30,
+        "seconds": 42,
+        "percent": 35.68
+      },
+      {
+        "name": "package-benchmark",
+        "total_seconds": 351.643277,
+        "color": null,
+        "digital": "0:05:51",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 51,
+        "percent": 6.81
+      },
+      {
+        "name": "nextjs-monorepo-example",
+        "total_seconds": 196.48953,
+        "color": null,
+        "digital": "0:03:16",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 16,
+        "percent": 3.8
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5164.511617,
-        "digital": "1:26:04",
-        "decimal": "1.43",
-        "text": "1 hr 26 mins",
-        "hours": 1,
-        "minutes": 26,
-        "seconds": 4,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-03-06T19:00:00Z",
+      "end": "2025-03-07T18:59:59Z",
+      "date": "2025-03-07",
+      "text": "Fri Mar 7th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
