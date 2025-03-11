@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 3,
-      "total_seconds": 3808.816201,
-      "digital": "1:03",
-      "decimal": "1.05",
-      "text": "1 hr 3 mins"
-    },
-    "range": {
-      "start": "2025-03-07T19:00:00Z",
-      "end": "2025-03-08T18:59:59Z",
-      "date": "2025-03-08",
-      "text": "Sat Mar 8th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "newtube",
-        "total_seconds": 3808.816201,
-        "color": null,
-        "digital": "1:03:28",
-        "decimal": "1.05",
-        "text": "1 hr 3 mins",
-        "hours": 1,
-        "minutes": 3,
-        "seconds": 28,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -51,6 +22,53 @@
         "minutes": 8,
         "seconds": 13,
         "percent": 12.96
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 3,
+      "total_seconds": 3808.816201,
+      "digital": "1:03",
+      "decimal": "1.05",
+      "text": "1 hr 3 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3808.816201,
+        "digital": "1:03:28",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3808.816201,
+        "digital": "1:03:28",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3808.816201,
+        "digital": "1:03:28",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 28,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -323,10 +341,11 @@
         "percent": 9.23
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "newtube",
         "total_seconds": 3808.816201,
+        "color": null,
         "digital": "1:03:28",
         "decimal": "1.05",
         "text": "1 hr 3 mins",
@@ -336,31 +355,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 3808.816201,
-        "digital": "1:03:28",
-        "decimal": "1.05",
-        "text": "1 hr 3 mins",
-        "hours": 1,
-        "minutes": 3,
-        "seconds": 28,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3808.816201,
-        "digital": "1:03:28",
-        "decimal": "1.05",
-        "text": "1 hr 3 mins",
-        "hours": 1,
-        "minutes": 3,
-        "seconds": 28,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-03-07T19:00:00Z",
+      "end": "2025-03-08T18:59:59Z",
+      "date": "2025-03-08",
+      "text": "Sat Mar 8th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
