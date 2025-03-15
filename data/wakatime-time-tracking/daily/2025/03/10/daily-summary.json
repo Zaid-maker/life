@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 55,
-      "total_seconds": 3325.403835,
-      "digital": "0:55",
-      "decimal": "0.92",
-      "text": "55 mins"
-    },
-    "range": {
-      "start": "2025-03-10T19:00:00Z",
-      "end": "2025-03-11T18:59:59Z",
-      "date": "2025-03-11",
-      "text": "Tue Mar 11th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "time",
-        "total_seconds": 3325.403835,
-        "color": null,
-        "digital": "0:55:25",
-        "decimal": "0.92",
-        "text": "55 mins",
-        "hours": 0,
-        "minutes": 55,
-        "seconds": 25,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "HTML",
@@ -62,6 +33,53 @@
         "minutes": 1,
         "seconds": 6,
         "percent": 2.01
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 55,
+      "total_seconds": 3325.403835,
+      "digital": "0:55",
+      "decimal": "0.92",
+      "text": "55 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3325.403835,
+        "digital": "0:55:25",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3325.403835,
+        "digital": "0:55:25",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3325.403835,
+        "digital": "0:55:25",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 25,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -103,10 +121,11 @@
         "percent": 16.66
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "time",
         "total_seconds": 3325.403835,
+        "color": null,
         "digital": "0:55:25",
         "decimal": "0.92",
         "text": "55 mins",
@@ -116,31 +135,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 3325.403835,
-        "digital": "0:55:25",
-        "decimal": "0.92",
-        "text": "55 mins",
-        "hours": 0,
-        "minutes": 55,
-        "seconds": 25,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 3325.403835,
-        "digital": "0:55:25",
-        "decimal": "0.92",
-        "text": "55 mins",
-        "hours": 0,
-        "minutes": 55,
-        "seconds": 25,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-03-10T19:00:00Z",
+      "end": "2025-03-11T18:59:59Z",
+      "date": "2025-03-11",
+      "text": "Tue Mar 11th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]

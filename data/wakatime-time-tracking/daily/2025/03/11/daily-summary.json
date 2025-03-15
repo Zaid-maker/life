@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 50,
-      "total_seconds": 6623.600064,
-      "digital": "1:50",
-      "decimal": "1.83",
-      "text": "1 hr 50 mins"
-    },
-    "range": {
-      "start": "2025-03-11T19:00:00Z",
-      "end": "2025-03-12T18:59:59Z",
-      "date": "2025-03-12",
-      "text": "Wed Mar 12th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "newtube",
-        "total_seconds": 5607.492645,
-        "color": null,
-        "digital": "1:33:27",
-        "decimal": "1.55",
-        "text": "1 hr 33 mins",
-        "hours": 1,
-        "minutes": 33,
-        "seconds": 27,
-        "percent": 84.66
-      },
-      {
-        "name": "sharer.link",
-        "total_seconds": 887.427133,
-        "color": null,
-        "digital": "0:14:47",
-        "decimal": "0.23",
-        "text": "14 mins",
-        "hours": 0,
-        "minutes": 14,
-        "seconds": 47,
-        "percent": 13.4
-      },
-      {
-        "name": "time",
-        "total_seconds": 128.680286,
-        "color": null,
-        "digital": "0:02:08",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 8,
-        "percent": 1.94
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -141,6 +88,64 @@
         "minutes": 0,
         "seconds": 9,
         "percent": 0.14
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 50,
+      "total_seconds": 6623.600064,
+      "digital": "1:50",
+      "decimal": "1.83",
+      "text": "1 hr 50 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6623.600064,
+        "digital": "1:50:23",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5736.172931,
+        "digital": "1:35:36",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 36,
+        "percent": 86.6
+      },
+      {
+        "name": "Linux",
+        "total_seconds": 887.427133,
+        "digital": "0:14:47",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 47,
+        "percent": 13.4
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6623.600064,
+        "digital": "1:50:23",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 23,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -513,34 +518,23 @@
         "percent": 0.16
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 6623.600064,
-        "digital": "1:50:23",
-        "decimal": "1.83",
-        "text": "1 hr 50 mins",
+        "name": "newtube",
+        "total_seconds": 5607.492645,
+        "color": null,
+        "digital": "1:33:27",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
         "hours": 1,
-        "minutes": 50,
-        "seconds": 23,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5736.172931,
-        "digital": "1:35:36",
-        "decimal": "1.58",
-        "text": "1 hr 35 mins",
-        "hours": 1,
-        "minutes": 35,
-        "seconds": 36,
-        "percent": 86.6
+        "minutes": 33,
+        "seconds": 27,
+        "percent": 84.66
       },
       {
-        "name": "Linux",
+        "name": "sharer.link",
         "total_seconds": 887.427133,
+        "color": null,
         "digital": "0:14:47",
         "decimal": "0.23",
         "text": "14 mins",
@@ -548,20 +542,26 @@
         "minutes": 14,
         "seconds": 47,
         "percent": 13.4
+      },
+      {
+        "name": "time",
+        "total_seconds": 128.680286,
+        "color": null,
+        "digital": "0:02:08",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 8,
+        "percent": 1.94
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 6623.600064,
-        "digital": "1:50:23",
-        "decimal": "1.83",
-        "text": "1 hr 50 mins",
-        "hours": 1,
-        "minutes": 50,
-        "seconds": 23,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-03-11T19:00:00Z",
+      "end": "2025-03-12T18:59:59Z",
+      "date": "2025-03-12",
+      "text": "Wed Mar 12th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
