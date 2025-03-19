@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 10,
-      "total_seconds": 608.401612,
-      "digital": "0:10",
-      "decimal": "0.17",
-      "text": "10 mins"
-    },
-    "range": {
-      "start": "2025-03-15T19:00:00Z",
-      "end": "2025-03-16T18:59:59Z",
-      "date": "2025-03-16",
-      "text": "Sun Mar 16th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "newtube",
-        "total_seconds": 608.401612,
-        "color": null,
-        "digital": "0:10:08",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 8,
-        "percent": 100
-      },
-      {
-        "name": "typescript-go",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "time",
-        "total_seconds": 0,
-        "color": null,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -86,6 +33,64 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 10,
+      "total_seconds": 608.401612,
+      "digital": "0:10",
+      "decimal": "0.17",
+      "text": "10 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 608.401612,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 608.401612,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 100
+      },
+      {
+        "name": "WSL",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 608.401612,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -357,23 +362,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "newtube",
         "total_seconds": 608.401612,
-        "digital": "0:10:08",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 8,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 608.401612,
+        "color": null,
         "digital": "0:10:08",
         "decimal": "0.17",
         "text": "10 mins",
@@ -383,8 +376,21 @@
         "percent": 100
       },
       {
-        "name": "WSL",
+        "name": "typescript-go",
         "total_seconds": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "time",
+        "total_seconds": 0,
+        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
@@ -394,18 +400,12 @@
         "percent": 0
       }
     ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 608.401612,
-        "digital": "0:10:08",
-        "decimal": "0.17",
-        "text": "10 mins",
-        "hours": 0,
-        "minutes": 10,
-        "seconds": 8,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-03-15T19:00:00Z",
+      "end": "2025-03-16T18:59:59Z",
+      "date": "2025-03-16",
+      "text": "Sun Mar 16th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
