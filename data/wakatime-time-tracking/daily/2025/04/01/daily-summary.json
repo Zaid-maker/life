@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 31,
-      "total_seconds": 1868.99201,
-      "digital": "0:31",
-      "decimal": "0.52",
-      "text": "31 mins"
-    },
-    "range": {
-      "start": "2025-04-01T19:00:00Z",
-      "end": "2025-04-02T18:59:59Z",
-      "date": "2025-04-02",
-      "text": "Wed Apr 2nd 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "helpconnect",
-        "total_seconds": 1684.775702,
-        "color": null,
-        "digital": "0:28:04",
-        "decimal": "0.47",
-        "text": "28 mins",
-        "hours": 0,
-        "minutes": 28,
-        "seconds": 4,
-        "percent": 90.14
-      },
-      {
-        "name": "newtube",
-        "total_seconds": 184.216308,
-        "color": null,
-        "digital": "0:03:04",
-        "decimal": "0.05",
-        "text": "3 mins",
-        "hours": 0,
-        "minutes": 3,
-        "seconds": 4,
-        "percent": 9.86
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -74,6 +33,64 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 31,
+      "total_seconds": 1868.99201,
+      "digital": "0:31",
+      "decimal": "0.52",
+      "text": "31 mins"
+    },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 1684.775702,
+        "digital": "0:28:04",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 4,
+        "percent": 90.14
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 184.216308,
+        "digital": "0:03:04",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 4,
+        "percent": 9.86
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1868.99201,
+        "digital": "0:31:08",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1868.99201,
+        "digital": "0:31:08",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 8,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -675,10 +692,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "Cursor",
+        "name": "helpconnect",
         "total_seconds": 1684.775702,
+        "color": null,
         "digital": "0:28:04",
         "decimal": "0.47",
         "text": "28 mins",
@@ -688,8 +706,9 @@
         "percent": 90.14
       },
       {
-        "name": "VS Code",
+        "name": "newtube",
         "total_seconds": 184.216308,
+        "color": null,
         "digital": "0:03:04",
         "decimal": "0.05",
         "text": "3 mins",
@@ -699,31 +718,12 @@
         "percent": 9.86
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 1868.99201,
-        "digital": "0:31:08",
-        "decimal": "0.52",
-        "text": "31 mins",
-        "hours": 0,
-        "minutes": 31,
-        "seconds": 8,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 1868.99201,
-        "digital": "0:31:08",
-        "decimal": "0.52",
-        "text": "31 mins",
-        "hours": 0,
-        "minutes": 31,
-        "seconds": 8,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-04-01T19:00:00Z",
+      "end": "2025-04-02T18:59:59Z",
+      "date": "2025-04-02",
+      "text": "Wed Apr 2nd 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
