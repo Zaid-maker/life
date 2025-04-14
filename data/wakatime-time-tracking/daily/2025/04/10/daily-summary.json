@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 19,
-      "total_seconds": 8340.725426,
-      "digital": "2:19",
-      "decimal": "2.32",
-      "text": "2 hrs 19 mins"
-    },
-    "range": {
-      "start": "2025-04-10T19:00:00Z",
-      "end": "2025-04-11T18:59:59Z",
-      "date": "2025-04-11",
-      "text": "Fri Apr 11th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "helpconnect",
-        "total_seconds": 8340.725426,
-        "color": null,
-        "digital": "2:19:00",
-        "decimal": "2.32",
-        "text": "2 hrs 19 mins",
-        "hours": 2,
-        "minutes": 19,
-        "seconds": 0,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -73,6 +44,53 @@
         "minutes": 4,
         "seconds": 16,
         "percent": 3.07
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 19,
+      "total_seconds": 8340.725426,
+      "digital": "2:19",
+      "decimal": "2.32",
+      "text": "2 hrs 19 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 8340.725426,
+        "digital": "2:19:00",
+        "decimal": "2.32",
+        "text": "2 hrs 19 mins",
+        "hours": 2,
+        "minutes": 19,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8340.725426,
+        "digital": "2:19:00",
+        "decimal": "2.32",
+        "text": "2 hrs 19 mins",
+        "hours": 2,
+        "minutes": 19,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8340.725426,
+        "digital": "2:19:00",
+        "decimal": "2.32",
+        "text": "2 hrs 19 mins",
+        "hours": 2,
+        "minutes": 19,
+        "seconds": 0,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -399,10 +417,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "helpconnect",
         "total_seconds": 8340.725426,
+        "color": null,
         "digital": "2:19:00",
         "decimal": "2.32",
         "text": "2 hrs 19 mins",
@@ -412,31 +431,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 8340.725426,
-        "digital": "2:19:00",
-        "decimal": "2.32",
-        "text": "2 hrs 19 mins",
-        "hours": 2,
-        "minutes": 19,
-        "seconds": 0,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 8340.725426,
-        "digital": "2:19:00",
-        "decimal": "2.32",
-        "text": "2 hrs 19 mins",
-        "hours": 2,
-        "minutes": 19,
-        "seconds": 0,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-04-10T19:00:00Z",
+      "end": "2025-04-11T18:59:59Z",
+      "date": "2025-04-11",
+      "text": "Fri Apr 11th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
