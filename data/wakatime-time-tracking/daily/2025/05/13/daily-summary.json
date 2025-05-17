@@ -1,25 +1,9 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 48,
-      "total_seconds": 2909.782182,
-      "digital": "0:48",
-      "decimal": "0.80",
-      "text": "48 mins"
-    },
-    "range": {
-      "start": "2025-05-13T19:00:00Z",
-      "end": "2025-05-14T18:59:59Z",
-      "date": "2025-05-14",
-      "text": "Wed May 14th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "loom_clone",
+        "name": "TypeScript",
         "total_seconds": 2909.782182,
-        "color": null,
         "digital": "0:48:29",
         "decimal": "0.80",
         "text": "48 mins",
@@ -29,9 +13,43 @@
         "percent": 100
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 48,
+      "total_seconds": 2909.782182,
+      "digital": "0:48",
+      "decimal": "0.80",
+      "text": "48 mins"
+    },
+    "editors": [
       {
-        "name": "TypeScript",
+        "name": "VS Code",
+        "total_seconds": 2909.782182,
+        "digital": "0:48:29",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 2909.782182,
+        "digital": "0:48:29",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
         "total_seconds": 2909.782182,
         "digital": "0:48:29",
         "decimal": "0.80",
@@ -135,10 +153,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "loom_clone",
         "total_seconds": 2909.782182,
+        "color": null,
         "digital": "0:48:29",
         "decimal": "0.80",
         "text": "48 mins",
@@ -148,31 +167,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 2909.782182,
-        "digital": "0:48:29",
-        "decimal": "0.80",
-        "text": "48 mins",
-        "hours": 0,
-        "minutes": 48,
-        "seconds": 29,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 2909.782182,
-        "digital": "0:48:29",
-        "decimal": "0.80",
-        "text": "48 mins",
-        "hours": 0,
-        "minutes": 48,
-        "seconds": 29,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-05-13T19:00:00Z",
+      "end": "2025-05-14T18:59:59Z",
+      "date": "2025-05-14",
+      "text": "Wed May 14th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
