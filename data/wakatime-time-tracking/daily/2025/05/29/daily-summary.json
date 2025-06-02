@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 36,
-      "total_seconds": 2194.283526,
-      "digital": "0:36",
-      "decimal": "0.60",
-      "text": "36 mins"
-    },
-    "range": {
-      "start": "2025-05-29T19:00:00Z",
-      "end": "2025-05-30T18:59:59Z",
-      "date": "2025-05-30",
-      "text": "Fri May 30th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "loom_clone",
-        "total_seconds": 2194.283526,
-        "color": null,
-        "digital": "0:36:34",
-        "decimal": "0.60",
-        "text": "36 mins",
-        "hours": 0,
-        "minutes": 36,
-        "seconds": 34,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -51,6 +22,53 @@
         "minutes": 9,
         "seconds": 28,
         "percent": 25.92
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 36,
+      "total_seconds": 2194.283526,
+      "digital": "0:36",
+      "decimal": "0.60",
+      "text": "36 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2194.283526,
+        "digital": "0:36:34",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "WSL",
+        "total_seconds": 2194.283526,
+        "digital": "0:36:34",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2194.283526,
+        "digital": "0:36:34",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 34,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -169,10 +187,11 @@
         "percent": 25.65
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "loom_clone",
         "total_seconds": 2194.283526,
+        "color": null,
         "digital": "0:36:34",
         "decimal": "0.60",
         "text": "36 mins",
@@ -182,31 +201,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "WSL",
-        "total_seconds": 2194.283526,
-        "digital": "0:36:34",
-        "decimal": "0.60",
-        "text": "36 mins",
-        "hours": 0,
-        "minutes": 36,
-        "seconds": 34,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 2194.283526,
-        "digital": "0:36:34",
-        "decimal": "0.60",
-        "text": "36 mins",
-        "hours": 0,
-        "minutes": 36,
-        "seconds": 34,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-05-29T19:00:00Z",
+      "end": "2025-05-30T18:59:59Z",
+      "date": "2025-05-30",
+      "text": "Fri May 30th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
