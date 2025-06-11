@@ -1,25 +1,9 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 6,
-      "total_seconds": 389.699765,
-      "digital": "0:06",
-      "decimal": "0.10",
-      "text": "6 mins"
-    },
-    "range": {
-      "start": "2025-06-07T19:00:00Z",
-      "end": "2025-06-08T18:59:59Z",
-      "date": "2025-06-08",
-      "text": "Sun Jun 8th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "meet.ai",
+        "name": "TypeScript",
         "total_seconds": 389.699765,
-        "color": null,
         "digital": "0:06:29",
         "decimal": "0.10",
         "text": "6 mins",
@@ -29,9 +13,43 @@
         "percent": 100
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 6,
+      "total_seconds": 389.699765,
+      "digital": "0:06",
+      "decimal": "0.10",
+      "text": "6 mins"
+    },
+    "editors": [
       {
-        "name": "TypeScript",
+        "name": "Cursor",
+        "total_seconds": 389.699765,
+        "digital": "0:06:29",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 389.699765,
+        "digital": "0:06:29",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
         "total_seconds": 389.699765,
         "digital": "0:06:29",
         "decimal": "0.10",
@@ -91,10 +109,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "Cursor",
+        "name": "meet.ai",
         "total_seconds": 389.699765,
+        "color": null,
         "digital": "0:06:29",
         "decimal": "0.10",
         "text": "6 mins",
@@ -104,31 +123,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 389.699765,
-        "digital": "0:06:29",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 29,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 389.699765,
-        "digital": "0:06:29",
-        "decimal": "0.10",
-        "text": "6 mins",
-        "hours": 0,
-        "minutes": 6,
-        "seconds": 29,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-06-07T19:00:00Z",
+      "end": "2025-06-08T18:59:59Z",
+      "date": "2025-06-08",
+      "text": "Sun Jun 8th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
