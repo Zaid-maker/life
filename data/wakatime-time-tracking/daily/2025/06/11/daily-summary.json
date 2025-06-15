@@ -1,25 +1,9 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 27,
-      "total_seconds": 1674.7995,
-      "digital": "0:27",
-      "decimal": "0.45",
-      "text": "27 mins"
-    },
-    "range": {
-      "start": "2025-06-11T19:00:00Z",
-      "end": "2025-06-12T18:59:59Z",
-      "date": "2025-06-12",
-      "text": "Thu Jun 12th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
+    "languages": [
       {
-        "name": "meet.ai",
+        "name": "TypeScript",
         "total_seconds": 1674.7995,
-        "color": null,
         "digital": "0:27:54",
         "decimal": "0.45",
         "text": "27 mins",
@@ -29,9 +13,65 @@
         "percent": 100
       }
     ],
-    "languages": [
+    "grand_total": {
+      "hours": 0,
+      "minutes": 27,
+      "total_seconds": 1674.7995,
+      "digital": "0:27",
+      "decimal": "0.45",
+      "text": "27 mins"
+    },
+    "editors": [
       {
-        "name": "TypeScript",
+        "name": "VS Code",
+        "total_seconds": 1596.559411,
+        "digital": "0:26:36",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 36,
+        "percent": 95.33
+      },
+      {
+        "name": "Cursor",
+        "total_seconds": 78.240089,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 4.67
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 1596.559411,
+        "digital": "0:26:36",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 36,
+        "percent": 95.33
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 78.240089,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 4.67
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
         "total_seconds": 1674.7995,
         "digital": "0:27:54",
         "decimal": "0.45",
@@ -137,58 +177,11 @@
         "percent": 0
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 1596.559411,
-        "digital": "0:26:36",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 36,
-        "percent": 95.33
-      },
-      {
-        "name": "Cursor",
-        "total_seconds": 78.240089,
-        "digital": "0:01:18",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 18,
-        "percent": 4.67
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Linux",
-        "total_seconds": 1596.559411,
-        "digital": "0:26:36",
-        "decimal": "0.43",
-        "text": "26 mins",
-        "hours": 0,
-        "minutes": 26,
-        "seconds": 36,
-        "percent": 95.33
-      },
-      {
-        "name": "Windows",
-        "total_seconds": 78.240089,
-        "digital": "0:01:18",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 18,
-        "percent": 4.67
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
+        "name": "meet.ai",
         "total_seconds": 1674.7995,
+        "color": null,
         "digital": "0:27:54",
         "decimal": "0.45",
         "text": "27 mins",
@@ -197,6 +190,13 @@
         "seconds": 54,
         "percent": 100
       }
-    ]
+    ],
+    "range": {
+      "start": "2025-06-11T19:00:00Z",
+      "end": "2025-06-12T18:59:59Z",
+      "date": "2025-06-12",
+      "text": "Thu Jun 12th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
