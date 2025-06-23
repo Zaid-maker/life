@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 1,
-      "total_seconds": 7289.853096,
-      "digital": "2:01",
-      "decimal": "2.02",
-      "text": "2 hrs 1 min"
-    },
-    "range": {
-      "start": "2025-06-19T19:00:00Z",
-      "end": "2025-06-20T18:59:59Z",
-      "date": "2025-06-20",
-      "text": "Fri Jun 20th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "meet.ai",
-        "total_seconds": 7289.853096,
-        "color": null,
-        "digital": "2:01:29",
-        "decimal": "2.02",
-        "text": "2 hrs 1 min",
-        "hours": 2,
-        "minutes": 1,
-        "seconds": 29,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -51,6 +22,53 @@
         "minutes": 3,
         "seconds": 37,
         "percent": 2.98
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 1,
+      "total_seconds": 7289.853096,
+      "digital": "2:01",
+      "decimal": "2.02",
+      "text": "2 hrs 1 min"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 7289.853096,
+        "digital": "2:01:29",
+        "decimal": "2.02",
+        "text": "2 hrs 1 min",
+        "hours": 2,
+        "minutes": 1,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7289.853096,
+        "digital": "2:01:29",
+        "decimal": "2.02",
+        "text": "2 hrs 1 min",
+        "hours": 2,
+        "minutes": 1,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7289.853096,
+        "digital": "2:01:29",
+        "decimal": "2.02",
+        "text": "2 hrs 1 min",
+        "hours": 2,
+        "minutes": 1,
+        "seconds": 29,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -421,10 +439,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "meet.ai",
         "total_seconds": 7289.853096,
+        "color": null,
         "digital": "2:01:29",
         "decimal": "2.02",
         "text": "2 hrs 1 min",
@@ -434,31 +453,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 7289.853096,
-        "digital": "2:01:29",
-        "decimal": "2.02",
-        "text": "2 hrs 1 min",
-        "hours": 2,
-        "minutes": 1,
-        "seconds": 29,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 7289.853096,
-        "digital": "2:01:29",
-        "decimal": "2.02",
-        "text": "2 hrs 1 min",
-        "hours": 2,
-        "minutes": 1,
-        "seconds": 29,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-06-19T19:00:00Z",
+      "end": "2025-06-20T18:59:59Z",
+      "date": "2025-06-20",
+      "text": "Fri Jun 20th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
