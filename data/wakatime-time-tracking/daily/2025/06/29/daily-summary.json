@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 0,
-      "minutes": 2,
-      "total_seconds": 164.019361,
-      "digital": "0:02",
-      "decimal": "0.03",
-      "text": "2 mins"
-    },
-    "range": {
-      "start": "2025-06-29T19:00:00Z",
-      "end": "2025-06-30T18:59:59Z",
-      "date": "2025-06-30",
-      "text": "Mon Jun 30th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "todo-list-svelte",
-        "total_seconds": 164.019361,
-        "color": null,
-        "digital": "0:02:44",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 44,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "JSON",
@@ -62,6 +33,53 @@
         "minutes": 0,
         "seconds": 10,
         "percent": 6.31
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 2,
+      "total_seconds": 164.019361,
+      "digital": "0:02",
+      "decimal": "0.03",
+      "text": "2 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 164.019361,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 164.019361,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 164.019361,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -135,10 +153,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "todo-list-svelte",
         "total_seconds": 164.019361,
+        "color": null,
         "digital": "0:02:44",
         "decimal": "0.03",
         "text": "2 mins",
@@ -148,31 +167,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 164.019361,
-        "digital": "0:02:44",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 44,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 164.019361,
-        "digital": "0:02:44",
-        "decimal": "0.03",
-        "text": "2 mins",
-        "hours": 0,
-        "minutes": 2,
-        "seconds": 44,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-06-29T19:00:00Z",
+      "end": "2025-06-30T18:59:59Z",
+      "date": "2025-06-30",
+      "text": "Mon Jun 30th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
