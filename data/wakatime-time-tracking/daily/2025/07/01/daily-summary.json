@@ -1,18 +1,5 @@
 [
   {
-    "languages": [
-      {
-        "name": "TypeScript",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
     "grand_total": {
       "hours": 0,
       "minutes": 0,
@@ -21,10 +8,18 @@
       "decimal": "0.00",
       "text": "0 secs"
     },
-    "editors": [
+    "range": {
+      "start": "2025-07-01T19:00:00Z",
+      "end": "2025-07-02T18:59:59Z",
+      "date": "2025-07-02",
+      "text": "Wed Jul 2nd 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "OpenCut",
         "total_seconds": 0,
+        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
@@ -34,22 +29,9 @@
         "percent": 0
       }
     ],
-    "operating_systems": [
+    "languages": [
       {
-        "name": "Windows",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
+        "name": "TypeScript",
         "total_seconds": 0,
         "digital": "0:00:00",
         "decimal": "0.00",
@@ -186,11 +168,10 @@
         "percent": 0
       }
     ],
-    "projects": [
+    "editors": [
       {
-        "name": "OpenCut",
+        "name": "VS Code",
         "total_seconds": 0,
-        "color": null,
         "digital": "0:00:00",
         "decimal": "0.00",
         "text": "0 secs",
@@ -200,12 +181,31 @@
         "percent": 0
       }
     ],
-    "range": {
-      "start": "2025-07-01T19:00:00Z",
-      "end": "2025-07-02T18:59:59Z",
-      "date": "2025-07-02",
-      "text": "Wed Jul 2nd 2025",
-      "timezone": "Asia/Karachi"
-    }
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ]
   }
 ]
