@@ -1,34 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 32,
-      "total_seconds": 5522.458747,
-      "digital": "1:32",
-      "decimal": "1.53",
-      "text": "1 hr 32 mins"
-    },
-    "range": {
-      "start": "2025-07-12T19:00:00Z",
-      "end": "2025-07-13T18:59:59Z",
-      "date": "2025-07-13",
-      "text": "Sun Jul 13th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "intro-video-editor",
-        "total_seconds": 5522.458747,
-        "color": null,
-        "digital": "1:32:02",
-        "decimal": "1.53",
-        "text": "1 hr 32 mins",
-        "hours": 1,
-        "minutes": 32,
-        "seconds": 2,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -51,6 +22,53 @@
         "minutes": 0,
         "seconds": 0,
         "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 32,
+      "total_seconds": 5522.458747,
+      "digital": "1:32",
+      "decimal": "1.53",
+      "text": "1 hr 32 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5522.458747,
+        "digital": "1:32:02",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5522.458747,
+        "digital": "1:32:02",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5522.458747,
+        "digital": "1:32:02",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 2,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -817,10 +835,11 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "intro-video-editor",
         "total_seconds": 5522.458747,
+        "color": null,
         "digital": "1:32:02",
         "decimal": "1.53",
         "text": "1 hr 32 mins",
@@ -830,31 +849,12 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5522.458747,
-        "digital": "1:32:02",
-        "decimal": "1.53",
-        "text": "1 hr 32 mins",
-        "hours": 1,
-        "minutes": 32,
-        "seconds": 2,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5522.458747,
-        "digital": "1:32:02",
-        "decimal": "1.53",
-        "text": "1 hr 32 mins",
-        "hours": 1,
-        "minutes": 32,
-        "seconds": 2,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-07-12T19:00:00Z",
+      "end": "2025-07-13T18:59:59Z",
+      "date": "2025-07-13",
+      "text": "Sun Jul 13th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
