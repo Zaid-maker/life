@@ -1,70 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 33,
-      "total_seconds": 5603.310141,
-      "digital": "1:33",
-      "decimal": "1.55",
-      "text": "1 hr 33 mins"
-    },
-    "range": {
-      "start": "2025-07-15T19:00:00Z",
-      "end": "2025-07-16T18:59:59Z",
-      "date": "2025-07-16",
-      "text": "Wed Jul 16th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "intro-video-editor",
-        "total_seconds": 4400.121406,
-        "color": null,
-        "digital": "1:13:20",
-        "decimal": "1.22",
-        "text": "1 hr 13 mins",
-        "hours": 1,
-        "minutes": 13,
-        "seconds": 20,
-        "percent": 78.53
-      },
-      {
-        "name": "test-yoink",
-        "total_seconds": 718.005883,
-        "color": null,
-        "digital": "0:11:58",
-        "decimal": "0.18",
-        "text": "11 mins",
-        "hours": 0,
-        "minutes": 11,
-        "seconds": 58,
-        "percent": 12.81
-      },
-      {
-        "name": "Unknown Project",
-        "total_seconds": 459.060953,
-        "color": null,
-        "digital": "0:07:39",
-        "decimal": "0.12",
-        "text": "7 mins",
-        "hours": 0,
-        "minutes": 7,
-        "seconds": 39,
-        "percent": 8.19
-      },
-      {
-        "name": "OpenCut",
-        "total_seconds": 26.121899,
-        "color": null,
-        "digital": "0:00:26",
-        "decimal": "0.00",
-        "text": "26 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 26,
-        "percent": 0.47
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -142,6 +77,53 @@
         "minutes": 0,
         "seconds": 13,
         "percent": 0.23
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 33,
+      "total_seconds": 5603.310141,
+      "digital": "1:33",
+      "decimal": "1.55",
+      "text": "1 hr 33 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5603.310141,
+        "digital": "1:33:23",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5603.310141,
+        "digital": "1:33:23",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5603.310141,
+        "digital": "1:33:23",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 100
       }
     ],
     "dependencies": [
@@ -1119,44 +1101,62 @@
         "percent": 0
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 5603.310141,
-        "digital": "1:33:23",
-        "decimal": "1.55",
-        "text": "1 hr 33 mins",
+        "name": "intro-video-editor",
+        "total_seconds": 4400.121406,
+        "color": null,
+        "digital": "1:13:20",
+        "decimal": "1.22",
+        "text": "1 hr 13 mins",
         "hours": 1,
-        "minutes": 33,
-        "seconds": 23,
-        "percent": 100
+        "minutes": 13,
+        "seconds": 20,
+        "percent": 78.53
+      },
+      {
+        "name": "test-yoink",
+        "total_seconds": 718.005883,
+        "color": null,
+        "digital": "0:11:58",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 58,
+        "percent": 12.81
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 459.060953,
+        "color": null,
+        "digital": "0:07:39",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 39,
+        "percent": 8.19
+      },
+      {
+        "name": "OpenCut",
+        "total_seconds": 26.121899,
+        "color": null,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.47
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 5603.310141,
-        "digital": "1:33:23",
-        "decimal": "1.55",
-        "text": "1 hr 33 mins",
-        "hours": 1,
-        "minutes": 33,
-        "seconds": 23,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 5603.310141,
-        "digital": "1:33:23",
-        "decimal": "1.55",
-        "text": "1 hr 33 mins",
-        "hours": 1,
-        "minutes": 33,
-        "seconds": 23,
-        "percent": 100
-      }
-    ]
+    "range": {
+      "start": "2025-07-15T19:00:00Z",
+      "end": "2025-07-16T18:59:59Z",
+      "date": "2025-07-16",
+      "text": "Wed Jul 16th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
