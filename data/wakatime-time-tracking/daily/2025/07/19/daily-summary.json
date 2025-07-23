@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 20,
-      "total_seconds": 4843.220354,
-      "digital": "1:20",
-      "decimal": "1.33",
-      "text": "1 hr 20 mins"
-    },
-    "range": {
-      "start": "2025-07-19T19:00:00Z",
-      "end": "2025-07-20T18:59:59Z",
-      "date": "2025-07-20",
-      "text": "Sun Jul 20th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "intro-video-editor",
-        "total_seconds": 3504.826079,
-        "color": null,
-        "digital": "0:58:24",
-        "decimal": "0.97",
-        "text": "58 mins",
-        "hours": 0,
-        "minutes": 58,
-        "seconds": 24,
-        "percent": 72.37
-      },
-      {
-        "name": "OpenCut",
-        "total_seconds": 1338.394275,
-        "color": null,
-        "digital": "0:22:18",
-        "decimal": "0.37",
-        "text": "22 mins",
-        "hours": 0,
-        "minutes": 22,
-        "seconds": 18,
-        "percent": 27.63
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -85,6 +44,64 @@
         "minutes": 0,
         "seconds": 41,
         "percent": 0.86
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 20,
+      "total_seconds": 4843.220354,
+      "digital": "1:20",
+      "decimal": "1.33",
+      "text": "1 hr 20 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4843.220354,
+        "digital": "1:20:43",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4843.220354,
+        "digital": "1:20:43",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4827.280282,
+        "digital": "1:20:27",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 27,
+        "percent": 99.67
+      },
+      {
+        "name": "AI Coding",
+        "total_seconds": 15.940072,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.33
       }
     ],
     "dependencies": [
@@ -1126,55 +1143,38 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 4843.220354,
-        "digital": "1:20:43",
-        "decimal": "1.33",
-        "text": "1 hr 20 mins",
-        "hours": 1,
-        "minutes": 20,
-        "seconds": 43,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 4843.220354,
-        "digital": "1:20:43",
-        "decimal": "1.33",
-        "text": "1 hr 20 mins",
-        "hours": 1,
-        "minutes": 20,
-        "seconds": 43,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 4827.280282,
-        "digital": "1:20:27",
-        "decimal": "1.33",
-        "text": "1 hr 20 mins",
-        "hours": 1,
-        "minutes": 20,
-        "seconds": 27,
-        "percent": 99.67
+        "name": "intro-video-editor",
+        "total_seconds": 3504.826079,
+        "color": null,
+        "digital": "0:58:24",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 24,
+        "percent": 72.37
       },
       {
-        "name": "AI Coding",
-        "total_seconds": 15.940072,
-        "digital": "0:00:15",
-        "decimal": "0.00",
-        "text": "15 secs",
+        "name": "OpenCut",
+        "total_seconds": 1338.394275,
+        "color": null,
+        "digital": "0:22:18",
+        "decimal": "0.37",
+        "text": "22 mins",
         "hours": 0,
-        "minutes": 0,
-        "seconds": 15,
-        "percent": 0.33
+        "minutes": 22,
+        "seconds": 18,
+        "percent": 27.63
       }
-    ]
+    ],
+    "range": {
+      "start": "2025-07-19T19:00:00Z",
+      "end": "2025-07-20T18:59:59Z",
+      "date": "2025-07-20",
+      "text": "Sun Jul 20th 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
