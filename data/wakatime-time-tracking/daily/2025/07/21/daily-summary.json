@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 34,
-      "total_seconds": 9285.550578,
-      "digital": "2:34",
-      "decimal": "2.57",
-      "text": "2 hrs 34 mins"
-    },
-    "range": {
-      "start": "2025-07-21T19:00:00Z",
-      "end": "2025-07-22T18:59:59Z",
-      "date": "2025-07-22",
-      "text": "Tue Jul 22nd 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "intro-video-editor",
-        "total_seconds": 5148.21362,
-        "color": null,
-        "digital": "1:25:48",
-        "decimal": "1.42",
-        "text": "1 hr 25 mins",
-        "hours": 1,
-        "minutes": 25,
-        "seconds": 48,
-        "percent": 55.44
-      },
-      {
-        "name": "git-aura",
-        "total_seconds": 4137.336958,
-        "color": null,
-        "digital": "1:08:57",
-        "decimal": "1.13",
-        "text": "1 hr 8 mins",
-        "hours": 1,
-        "minutes": 8,
-        "seconds": 57,
-        "percent": 44.56
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -118,6 +77,64 @@
         "minutes": 0,
         "seconds": 18,
         "percent": 0.2
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 34,
+      "total_seconds": 9285.550578,
+      "digital": "2:34",
+      "decimal": "2.57",
+      "text": "2 hrs 34 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 9285.550578,
+        "digital": "2:34:45",
+        "decimal": "2.57",
+        "text": "2 hrs 34 mins",
+        "hours": 2,
+        "minutes": 34,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 9285.550578,
+        "digital": "2:34:45",
+        "decimal": "2.57",
+        "text": "2 hrs 34 mins",
+        "hours": 2,
+        "minutes": 34,
+        "seconds": 45,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7501.381722,
+        "digital": "2:05:01",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 1,
+        "percent": 80.79
+      },
+      {
+        "name": "AI Coding",
+        "total_seconds": 1784.168856,
+        "digital": "0:29:44",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 44,
+        "percent": 19.21
       }
     ],
     "dependencies": [
@@ -1137,55 +1154,38 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 9285.550578,
-        "digital": "2:34:45",
-        "decimal": "2.57",
-        "text": "2 hrs 34 mins",
-        "hours": 2,
-        "minutes": 34,
-        "seconds": 45,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 9285.550578,
-        "digital": "2:34:45",
-        "decimal": "2.57",
-        "text": "2 hrs 34 mins",
-        "hours": 2,
-        "minutes": 34,
-        "seconds": 45,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 7501.381722,
-        "digital": "2:05:01",
-        "decimal": "2.08",
-        "text": "2 hrs 5 mins",
-        "hours": 2,
-        "minutes": 5,
-        "seconds": 1,
-        "percent": 80.79
+        "name": "intro-video-editor",
+        "total_seconds": 5148.21362,
+        "color": null,
+        "digital": "1:25:48",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 48,
+        "percent": 55.44
       },
       {
-        "name": "AI Coding",
-        "total_seconds": 1784.168856,
-        "digital": "0:29:44",
-        "decimal": "0.48",
-        "text": "29 mins",
-        "hours": 0,
-        "minutes": 29,
-        "seconds": 44,
-        "percent": 19.21
+        "name": "git-aura",
+        "total_seconds": 4137.336958,
+        "color": null,
+        "digital": "1:08:57",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 57,
+        "percent": 44.56
       }
-    ]
+    ],
+    "range": {
+      "start": "2025-07-21T19:00:00Z",
+      "end": "2025-07-22T18:59:59Z",
+      "date": "2025-07-22",
+      "text": "Tue Jul 22nd 2025",
+      "timezone": "Asia/Karachi"
+    }
   }
 ]
