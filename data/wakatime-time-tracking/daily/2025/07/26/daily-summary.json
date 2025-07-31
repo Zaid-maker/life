@@ -1,5 +1,42 @@
 [
   {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 24,
+      "total_seconds": 1441.379669,
+      "digital": "0:24",
+      "decimal": "0.40",
+      "text": "24 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "range": {
+      "start": "2025-07-26T19:00:00Z",
+      "end": "2025-07-27T18:59:59Z",
+      "date": "2025-07-27",
+      "text": "Sun Jul 27th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "projects": [
+      {
+        "name": "intro-video-editor",
+        "total_seconds": 1441.379669,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "color": null,
+        "digital": "0:24:01",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -35,18 +72,88 @@
         "percent": 0.78
       }
     ],
-    "grand_total": {
-      "hours": 0,
-      "minutes": 24,
-      "total_seconds": 1441.379669,
-      "digital": "0:24",
-      "decimal": "0.40",
-      "text": "24 mins",
-      "ai_additions": 0,
-      "ai_deletions": 0,
-      "human_additions": 0,
-      "human_deletions": 0
-    },
+    "dependencies": [
+      {
+        "name": "remotion",
+        "total_seconds": 1056.991063,
+        "digital": "0:17:36",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 36,
+        "percent": 33.33
+      },
+      {
+        "name": "zod",
+        "total_seconds": 1056.991063,
+        "digital": "0:17:36",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 36,
+        "percent": 33.33
+      },
+      {
+        "name": "react",
+        "total_seconds": 1056.991063,
+        "digital": "0:17:36",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 36,
+        "percent": 33.33
+      },
+      {
+        "name": "Footer",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "LandingPageNavbar",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "Hero",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
+        "total_seconds": 1441.379669,
+        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
+        "digital": "0:24:01",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
     "editors": [
       {
         "name": "VS Code",
@@ -85,116 +192,6 @@
         "seconds": 1,
         "percent": 100
       }
-    ],
-    "dependencies": [
-      {
-        "name": "react",
-        "total_seconds": 1056.991063,
-        "digital": "0:17:36",
-        "decimal": "0.28",
-        "text": "17 mins",
-        "hours": 0,
-        "minutes": 17,
-        "seconds": 36,
-        "percent": 33.33
-      },
-      {
-        "name": "zod",
-        "total_seconds": 1056.991063,
-        "digital": "0:17:36",
-        "decimal": "0.28",
-        "text": "17 mins",
-        "hours": 0,
-        "minutes": 17,
-        "seconds": 36,
-        "percent": 33.33
-      },
-      {
-        "name": "remotion",
-        "total_seconds": 1056.991063,
-        "digital": "0:17:36",
-        "decimal": "0.28",
-        "text": "17 mins",
-        "hours": 0,
-        "minutes": 17,
-        "seconds": 36,
-        "percent": 33.33
-      },
-      {
-        "name": "Hero",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "Footer",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      },
-      {
-        "name": "LandingPageNavbar",
-        "total_seconds": 0,
-        "digital": "0:00:00",
-        "decimal": "0.00",
-        "text": "0 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 0,
-        "percent": 0
-      }
-    ],
-    "machines": [
-      {
-        "name": "DESKTOP-RBS8QJL from 103.151.47.214",
-        "total_seconds": 1441.379669,
-        "machine_name_id": "7555b3c1-1174-4245-a25a-3fc965993752",
-        "digital": "0:24:01",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 1,
-        "percent": 100
-      }
-    ],
-    "projects": [
-      {
-        "name": "intro-video-editor",
-        "total_seconds": 1441.379669,
-        "ai_additions": 0,
-        "ai_deletions": 0,
-        "human_additions": 0,
-        "human_deletions": 0,
-        "digital": "0:24:01",
-        "decimal": "0.40",
-        "text": "24 mins",
-        "hours": 0,
-        "minutes": 24,
-        "seconds": 1,
-        "percent": 100
-      }
-    ],
-    "range": {
-      "start": "2025-07-26T19:00:00Z",
-      "end": "2025-07-27T18:59:59Z",
-      "date": "2025-07-27",
-      "text": "Sun Jul 27th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "ai_additions": 0,
-    "ai_deletions": 0,
-    "human_additions": 0,
-    "human_deletions": 0
+    ]
   }
 ]
