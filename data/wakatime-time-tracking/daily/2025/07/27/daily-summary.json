@@ -1,42 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 1,
-      "minutes": 46,
-      "total_seconds": 6409.458754,
-      "digital": "1:46",
-      "decimal": "1.77",
-      "text": "1 hr 46 mins",
-      "ai_additions": 0,
-      "ai_deletions": 0,
-      "human_additions": 0,
-      "human_deletions": 0
-    },
-    "range": {
-      "start": "2025-07-27T19:00:00Z",
-      "end": "2025-07-28T18:59:59Z",
-      "date": "2025-07-28",
-      "text": "Mon Jul 28th 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "intro-video-editor",
-        "total_seconds": 6409.458754,
-        "ai_additions": 0,
-        "ai_deletions": 0,
-        "human_additions": 0,
-        "human_deletions": 0,
-        "color": null,
-        "digital": "1:46:49",
-        "decimal": "1.77",
-        "text": "1 hr 46 mins",
-        "hours": 1,
-        "minutes": 46,
-        "seconds": 49,
-        "percent": 100
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -59,6 +22,79 @@
         "minutes": 1,
         "seconds": 4,
         "percent": 1
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 46,
+      "total_seconds": 6409.458754,
+      "digital": "1:46",
+      "decimal": "1.77",
+      "text": "1 hr 46 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6409.458754,
+        "digital": "1:46:49",
+        "decimal": "1.77",
+        "text": "1 hr 46 mins",
+        "hours": 1,
+        "minutes": 46,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6409.458754,
+        "digital": "1:46:49",
+        "decimal": "1.77",
+        "text": "1 hr 46 mins",
+        "hours": 1,
+        "minutes": 46,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "AI Coding",
+        "total_seconds": 3594.496572,
+        "digital": "0:59:54",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 54,
+        "percent": 56.08
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 2777.143752,
+        "digital": "0:46:17",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 17,
+        "percent": 43.33
+      },
+      {
+        "name": "Writing Docs",
+        "total_seconds": 37.81843,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.59
       }
     ],
     "dependencies": [
@@ -561,10 +597,15 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
+        "name": "intro-video-editor",
         "total_seconds": 6409.458754,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "color": null,
         "digital": "1:46:49",
         "decimal": "1.77",
         "text": "1 hr 46 mins",
@@ -574,53 +615,16 @@
         "percent": 100
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 6409.458754,
-        "digital": "1:46:49",
-        "decimal": "1.77",
-        "text": "1 hr 46 mins",
-        "hours": 1,
-        "minutes": 46,
-        "seconds": 49,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "AI Coding",
-        "total_seconds": 3594.496572,
-        "digital": "0:59:54",
-        "decimal": "0.98",
-        "text": "59 mins",
-        "hours": 0,
-        "minutes": 59,
-        "seconds": 54,
-        "percent": 56.08
-      },
-      {
-        "name": "Coding",
-        "total_seconds": 2777.143752,
-        "digital": "0:46:17",
-        "decimal": "0.77",
-        "text": "46 mins",
-        "hours": 0,
-        "minutes": 46,
-        "seconds": 17,
-        "percent": 43.33
-      },
-      {
-        "name": "Writing Docs",
-        "total_seconds": 37.81843,
-        "digital": "0:00:37",
-        "decimal": "0.00",
-        "text": "37 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 37,
-        "percent": 0.59
-      }
-    ]
+    "range": {
+      "start": "2025-07-27T19:00:00Z",
+      "end": "2025-07-28T18:59:59Z",
+      "date": "2025-07-28",
+      "text": "Mon Jul 28th 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
   }
 ]
