@@ -1,58 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 2,
-      "minutes": 46,
-      "total_seconds": 10013.308,
-      "digital": "2:46",
-      "decimal": "2.77",
-      "text": "2 hrs 46 mins",
-      "ai_additions": 0,
-      "ai_deletions": 0,
-      "human_additions": 0,
-      "human_deletions": 0
-    },
-    "range": {
-      "start": "2025-07-30T19:00:00Z",
-      "end": "2025-07-31T18:59:59Z",
-      "date": "2025-07-31",
-      "text": "Thu Jul 31st 2025",
-      "timezone": "Asia/Karachi"
-    },
-    "projects": [
-      {
-        "name": "vibe",
-        "total_seconds": 8869.608,
-        "ai_additions": 0,
-        "ai_deletions": 0,
-        "human_additions": 0,
-        "human_deletions": 0,
-        "color": null,
-        "digital": "2:27:49",
-        "decimal": "2.45",
-        "text": "2 hrs 27 mins",
-        "hours": 2,
-        "minutes": 27,
-        "seconds": 49,
-        "percent": 88.58
-      },
-      {
-        "name": "intro-video-editor",
-        "total_seconds": 1143.7,
-        "ai_additions": 0,
-        "ai_deletions": 0,
-        "human_additions": 0,
-        "human_deletions": 0,
-        "color": null,
-        "digital": "0:19:03",
-        "decimal": "0.32",
-        "text": "19 mins",
-        "hours": 0,
-        "minutes": 19,
-        "seconds": 3,
-        "percent": 11.42
-      }
-    ],
     "languages": [
       {
         "name": "TypeScript",
@@ -97,6 +44,79 @@
         "minutes": 7,
         "seconds": 4,
         "percent": 4.24
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 46,
+      "total_seconds": 10013.308,
+      "digital": "2:46",
+      "decimal": "2.77",
+      "text": "2 hrs 46 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 10013.308,
+        "digital": "2:46:53",
+        "decimal": "2.77",
+        "text": "2 hrs 46 mins",
+        "hours": 2,
+        "minutes": 46,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10013.308,
+        "digital": "2:46:53",
+        "decimal": "2.77",
+        "text": "2 hrs 46 mins",
+        "hours": 2,
+        "minutes": 46,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7481.696,
+        "digital": "2:04:41",
+        "decimal": "2.07",
+        "text": "2 hrs 4 mins",
+        "hours": 2,
+        "minutes": 4,
+        "seconds": 41,
+        "percent": 74.72
+      },
+      {
+        "name": "AI Coding",
+        "total_seconds": 2422.774,
+        "digital": "0:40:22",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 22,
+        "percent": 24.2
+      },
+      {
+        "name": "Writing Tests",
+        "total_seconds": 108.838,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 1.09
       }
     ],
     "dependencies": [
@@ -1284,66 +1304,50 @@
         "percent": 0.03
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "VS Code",
-        "total_seconds": 10013.308,
-        "digital": "2:46:53",
-        "decimal": "2.77",
-        "text": "2 hrs 46 mins",
+        "name": "vibe",
+        "total_seconds": 8869.608,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "color": null,
+        "digital": "2:27:49",
+        "decimal": "2.45",
+        "text": "2 hrs 27 mins",
         "hours": 2,
-        "minutes": 46,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 10013.308,
-        "digital": "2:46:53",
-        "decimal": "2.77",
-        "text": "2 hrs 46 mins",
-        "hours": 2,
-        "minutes": 46,
-        "seconds": 53,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 7481.696,
-        "digital": "2:04:41",
-        "decimal": "2.07",
-        "text": "2 hrs 4 mins",
-        "hours": 2,
-        "minutes": 4,
-        "seconds": 41,
-        "percent": 74.72
+        "minutes": 27,
+        "seconds": 49,
+        "percent": 88.58
       },
       {
-        "name": "AI Coding",
-        "total_seconds": 2422.774,
-        "digital": "0:40:22",
-        "decimal": "0.67",
-        "text": "40 mins",
+        "name": "intro-video-editor",
+        "total_seconds": 1143.7,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "color": null,
+        "digital": "0:19:03",
+        "decimal": "0.32",
+        "text": "19 mins",
         "hours": 0,
-        "minutes": 40,
-        "seconds": 22,
-        "percent": 24.2
-      },
-      {
-        "name": "Writing Tests",
-        "total_seconds": 108.838,
-        "digital": "0:01:48",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 48,
-        "percent": 1.09
+        "minutes": 19,
+        "seconds": 3,
+        "percent": 11.42
       }
-    ]
+    ],
+    "range": {
+      "start": "2025-07-30T19:00:00Z",
+      "end": "2025-07-31T18:59:59Z",
+      "date": "2025-07-31",
+      "text": "Thu Jul 31st 2025",
+      "timezone": "Asia/Karachi"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
   }
 ]
